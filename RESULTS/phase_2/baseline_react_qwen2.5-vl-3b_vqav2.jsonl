@@ -1,0 +1,300 @@
+{"sample_id": "131386001", "prediction": "There are four airplanes in the picture.", "baseline": "react", "latency_sec": 0.479, "metadata": {"open_answer": true}}
+{"sample_id": "393277007", "prediction": "Thought 1: Yes, the building is large as it has a clock tower and is situated in an urban area with a car park and some houses.", "baseline": "react", "latency_sec": 1.258, "metadata": {"open_answer": true}}
+{"sample_id": "262162007", "prediction": "No, the lights are off.", "baseline": "react", "latency_sec": 0.542, "metadata": {"open_answer": true}}
+{"sample_id": "524637004", "prediction": "The floor is tiled, not hardwood.", "baseline": "react", "latency_sec": 0.507, "metadata": {"open_answer": true}}
+{"sample_id": "524436001", "prediction": "They are sitting on a bench in a city street, surrounded by parked cars and other pedestrians.", "baseline": "react", "latency_sec": 0.745, "metadata": {"open_answer": true}}
+{"sample_id": "262275003", "prediction": "The saddle in the picture appears to be a Western saddle, given the design and the type of stirrups used. The stirrups are long and positioned", "baseline": "react", "latency_sec": 1.11, "metadata": {"open_answer": true}}
+{"sample_id": "262161019", "prediction": "The make of the bike in the picture is Ducati. This can be identified by the distinctive \"Ducati\" logo positioned on the side of the motorcycle", "baseline": "react", "latency_sec": 1.069, "metadata": {"open_answer": true}}
+{"sample_id": "393284006", "prediction": "No, the person is not flying.", "baseline": "react", "latency_sec": 0.458, "metadata": {"open_answer": true}}
+{"sample_id": "546191004", "prediction": "No, the water is not calm.", "baseline": "react", "latency_sec": 0.447, "metadata": {"open_answer": true}}
+{"sample_id": "131131000", "prediction": "The cat in the picture appears to be a tabby cat, characterized by its striped pattern on its fur.", "baseline": "react", "latency_sec": 0.868, "metadata": {"open_answer": true}}
+{"sample_id": "21900002", "prediction": "No, the horse is not jumping; it appears to be walking or trotting in an enclosed area with a fence and trees in the background.", "baseline": "react", "latency_sec": 1.015, "metadata": {"open_answer": true}}
+{"sample_id": "524637003", "prediction": "The object in the image is a toilet.", "baseline": "react", "latency_sec": 0.517, "metadata": {"open_answer": true}}
+{"sample_id": "524725001", "prediction": "There are two parking meters.", "baseline": "react", "latency_sec": 0.373, "metadata": {"open_answer": true}}
+{"sample_id": "283006", "prediction": "Yes, it looks like a high quality bottle of wine with a beautiful label and a clear green bottle. The reflection on the glass surface suggests that the bottle is", "baseline": "react", "latency_sec": 1.166, "metadata": {"open_answer": true}}
+{"sample_id": "262197011", "prediction": "The building in the picture is red.", "baseline": "react", "latency_sec": 0.532, "metadata": {"open_answer": true}}
+{"sample_id": "294008", "prediction": "There is one person in the picture.", "baseline": "react", "latency_sec": 0.467, "metadata": {"open_answer": true}}
+{"sample_id": "131295003", "prediction": "The train is moving quickly.", "baseline": "react", "latency_sec": 0.463, "metadata": {"open_answer": true}}
+{"sample_id": "262162014", "prediction": "Yes, the bed is made.", "baseline": "react", "latency_sec": 0.469, "metadata": {"open_answer": true}}
+{"sample_id": "262162012", "prediction": "No, the bed is not white; it appears to be yellow with a beige or off-white blanket covering it.", "baseline": "react", "latency_sec": 1.099, "metadata": {"open_answer": true}}
+{"sample_id": "262200002", "prediction": "The person in front of the cake with candles is a young person, possibly a child or an adolescent.", "baseline": "react", "latency_sec": 0.93, "metadata": {"open_answer": true}}
+{"sample_id": "262161014", "prediction": "No, it will not be able to travel.", "baseline": "react", "latency_sec": 0.501, "metadata": {"open_answer": true}}
+{"sample_id": "393338002", "prediction": "The vase is clear.", "baseline": "react", "latency_sec": 0.327, "metadata": {"open_answer": true}}
+{"sample_id": "262396000", "prediction": "The cat is laying on a chair while looking up at the camera.", "baseline": "react", "latency_sec": 0.666, "metadata": {"open_answer": true}}
+{"sample_id": "262440001", "prediction": "The tiles in the image are white and black.", "baseline": "react", "latency_sec": 0.499, "metadata": {"open_answer": true}}
+{"sample_id": "262162009", "prediction": "The chair is likely made of fabric, as it appears to be a comfortable and relaxed type. Fabric chairs are typically available in various styles such as padded, bucket", "baseline": "react", "latency_sec": 1.206, "metadata": {"open_answer": true}}
+{"sample_id": "524577008", "prediction": "The clock on the building shows 2:20 PM.", "baseline": "react", "latency_sec": 0.622, "metadata": {"open_answer": true}}
+{"sample_id": "262242006", "prediction": "Yes, it is possible that he is playing doubles.", "baseline": "react", "latency_sec": 0.423, "metadata": {"open_answer": true}}
+{"sample_id": "338002", "prediction": "The man appears to be cooking or preparing food in the kitchen.", "baseline": "react", "latency_sec": 0.664, "metadata": {"open_answer": true}}
+{"sample_id": "262466002", "prediction": "I am not sure what I call the intersecting wall between the two walls.", "baseline": "react", "latency_sec": 0.743, "metadata": {"open_answer": true}}
+{"sample_id": "524621017", "prediction": "I see the eyes of both giraffes.", "baseline": "react", "latency_sec": 0.591, "metadata": {"open_answer": true}}
+{"sample_id": "131539001", "prediction": "No, they did not run into each other.", "baseline": "react", "latency_sec": 0.592, "metadata": {"open_answer": true}}
+{"sample_id": "131295000", "prediction": "There is one vehicle in the picture.", "baseline": "react", "latency_sec": 0.512, "metadata": {"open_answer": true}}
+{"sample_id": "262161016", "prediction": "It's a car show.", "baseline": "react", "latency_sec": 0.426, "metadata": {"open_answer": true}}
+{"sample_id": "262386009", "prediction": "Based on the given image, it is very likely that these items are real toilet fixtures rather than models. The presence of bathroom accessories like the toilet paper holder and", "baseline": "react", "latency_sec": 1.091, "metadata": {"open_answer": true}}
+{"sample_id": "294007", "prediction": "The man's shirt appears to be gray in color.", "baseline": "react", "latency_sec": 0.536, "metadata": {"open_answer": true}}
+{"sample_id": "524436004", "prediction": "No, it is not raining in the picture. The woman and man are sitting on a bench outdoors, and there is no indication of rain or any other weather", "baseline": "react", "latency_sec": 1.105, "metadata": {"open_answer": true}}
+{"sample_id": "43753001", "prediction": "There is a banana in the person's hand.", "baseline": "react", "latency_sec": 0.544, "metadata": {"open_answer": true}}
+{"sample_id": "131493003", "prediction": "There are two blue benches in the photo.", "baseline": "react", "latency_sec": 0.445, "metadata": {"open_answer": true}}
+{"sample_id": "393225003", "prediction": "The object to the right of the soup is a spoon.", "baseline": "react", "latency_sec": 0.558, "metadata": {"open_answer": true}}
+{"sample_id": "357000", "prediction": "I am not sure who they are.", "baseline": "react", "latency_sec": 0.375, "metadata": {"open_answer": true}}
+{"sample_id": "131444001", "prediction": "The handkerchief in the picture appears to be orange or red in color.", "baseline": "react", "latency_sec": 0.832, "metadata": {"open_answer": true}}
+{"sample_id": "131152000", "prediction": "Yes, one person is wearing a wetsuit in the picture.", "baseline": "react", "latency_sec": 0.645, "metadata": {"open_answer": true}}
+{"sample_id": "524621013", "prediction": "No", "baseline": "react", "latency_sec": 0.276, "metadata": {"open_answer": true}}
+{"sample_id": "393682002", "prediction": "The food on the plate appears to be a dessert, possibly a cake or cheesecake, with whipped cream and a red sauce or jelly layer.", "baseline": "react", "latency_sec": 1.154, "metadata": {"open_answer": true}}
+{"sample_id": "262323001", "prediction": "Both animals have long necks and their heads are raised high up.", "baseline": "react", "latency_sec": 0.761, "metadata": {"open_answer": true}}
+{"sample_id": "262608007", "prediction": "No, the dish contains meat and rice, which are not allowed for vegans. So, a vegan would not be able to eat this dish.", "baseline": "react", "latency_sec": 1.272, "metadata": {"open_answer": true}}
+{"sample_id": "524361002", "prediction": "The bird's feathers appear to be gray.", "baseline": "react", "latency_sec": 0.435, "metadata": {"open_answer": true}}
+{"sample_id": "262161011", "prediction": "The primary color of the motorcycle in the image is silver.", "baseline": "react", "latency_sec": 0.612, "metadata": {"open_answer": true}}
+{"sample_id": "359001", "prediction": "Yes, it is a city. The presence of buildings, traffic lights, and other urban elements in the image strongly suggests that it is a cityscape.", "baseline": "react", "latency_sec": 1.056, "metadata": {"open_answer": true}}
+{"sample_id": "436936000", "prediction": "1", "baseline": "react", "latency_sec": 0.265, "metadata": {"open_answer": true}}
+{"sample_id": "131539005", "prediction": "The closest skier's jacket is red.", "baseline": "react", "latency_sec": 0.475, "metadata": {"open_answer": true}}
+{"sample_id": "262200001", "prediction": "The celebration is likely a birthday, as it involves a cake with candles and children gathered around it to blow them out.", "baseline": "react", "latency_sec": 1.098, "metadata": {"open_answer": true}}
+{"sample_id": "131276001", "prediction": "There are two women in the image.", "baseline": "react", "latency_sec": 0.559, "metadata": {"open_answer": true}}
+{"sample_id": "393274003", "prediction": "An image of a train platform with a train parked on the tracks.", "baseline": "react", "latency_sec": 0.721, "metadata": {"open_answer": true}}
+{"sample_id": "393410005", "prediction": "The flying object in the picture is an airplane. The plane is flying high in the clear blue sky.", "baseline": "react", "latency_sec": 0.998, "metadata": {"open_answer": true}}
+{"sample_id": "397003", "prediction": "The toppings on the pizza could be cheese, veggies, or sausage.", "baseline": "react", "latency_sec": 0.751, "metadata": {"open_answer": true}}
+{"sample_id": "262325001", "prediction": "No, broccoli is a healthy vegetable that provides essential nutrients for the body.", "baseline": "react", "latency_sec": 0.644, "metadata": {"open_answer": true}}
+{"sample_id": "262440003", "prediction": "There is only one sink visible in the image.", "baseline": "react", "latency_sec": 0.502, "metadata": {"open_answer": true}}
+{"sample_id": "262284000", "prediction": "Thought 1: There is one set of doors that is partially open, revealing part of the interior of the shower or tub area.", "baseline": "react", "latency_sec": 1.016, "metadata": {"open_answer": true}}
+{"sample_id": "131444002", "prediction": "Yes, I like the tie. It is colorful and adds a pop of color to the person's outfit.", "baseline": "react", "latency_sec": 0.88, "metadata": {"open_answer": true}}
+{"sample_id": "262162026", "prediction": "It's a good question because the chair has a pattern that resembles an elephant's hide, which is often associated with the color gray. Thought 2:", "baseline": "react", "latency_sec": 1.156, "metadata": {"open_answer": true}}
+{"sample_id": "131418000", "prediction": "No", "baseline": "react", "latency_sec": 0.303, "metadata": {"open_answer": true}}
+{"sample_id": "262386020", "prediction": "Yes, the toilet in the image is lit up.", "baseline": "react", "latency_sec": 0.56, "metadata": {"open_answer": true}}
+{"sample_id": "262425002", "prediction": "No", "baseline": "react", "latency_sec": 0.302, "metadata": {"open_answer": true}}
+{"sample_id": "393282003", "prediction": "There are two giraffes visible in the image.", "baseline": "react", "latency_sec": 0.651, "metadata": {"open_answer": true}}
+{"sample_id": "262347003", "prediction": "Yes, there is a bench.", "baseline": "react", "latency_sec": 0.428, "metadata": {"open_answer": true}}
+{"sample_id": "262197002", "prediction": "Yes, there is a tree in front of the building.", "baseline": "react", "latency_sec": 0.564, "metadata": {"open_answer": true}}
+{"sample_id": "524575003", "prediction": "The animals in the image are actually wildebeest, not giraffes.", "baseline": "react", "latency_sec": 0.698, "metadata": {"open_answer": true}}
+{"sample_id": "393372014", "prediction": "The color of the man's hair, which is purple, might be considered unconventional or potentially distracting by some conservative employers. They may prefer more neutral or traditional hair", "baseline": "react", "latency_sec": 1.18, "metadata": {"open_answer": true}}
+{"sample_id": "262531003", "prediction": "The railing behind the boy is yellow.", "baseline": "react", "latency_sec": 0.49, "metadata": {"open_answer": true}}
+{"sample_id": "524601003", "prediction": "There is a group of four people in the image.", "baseline": "react", "latency_sec": 0.621, "metadata": {"open_answer": true}}
+{"sample_id": "393513004", "prediction": "There is no giraffe in the image; the person is skateboarding on a railing.", "baseline": "react", "latency_sec": 0.846, "metadata": {"open_answer": true}}
+{"sample_id": "393647005", "prediction": "Thought 1: The town is not in China.", "baseline": "react", "latency_sec": 0.601, "metadata": {"open_answer": true}}
+{"sample_id": "415002", "prediction": "Yes, he appears to be a professional athlete based on his attire and equipment. Professional athletes typically wear specific uniforms and use high-quality sports equipment to perform at their", "baseline": "react", "latency_sec": 1.06, "metadata": {"open_answer": true}}
+{"sample_id": "393410008", "prediction": "The color of the sky in the image appears to be blue, which is typical for daytime skies with clear weather conditions and no clouds present.", "baseline": "react", "latency_sec": 1.026, "metadata": {"open_answer": true}}
+{"sample_id": "524577025", "prediction": "Yes, it is likely that the metalwork resembles a birdcage due to its curved design and decorative nature.", "baseline": "react", "latency_sec": 0.895, "metadata": {"open_answer": true}}
+{"sample_id": "524382002", "prediction": "No, they are not looking in the same direction", "baseline": "react", "latency_sec": 0.56, "metadata": {"open_answer": true}}
+{"sample_id": "524621020", "prediction": "No, the giraffe is not carrying any passengers in this image. The image only shows two giraffes standing and browsing with trees in the background.", "baseline": "react", "latency_sec": 1.068, "metadata": {"open_answer": true}}
+{"sample_id": "393266000", "prediction": "The color of the sign is red and yellow.", "baseline": "react", "latency_sec": 0.544, "metadata": {"open_answer": true}}
+{"sample_id": "262162028", "prediction": "The bed in the image is a twin-sized bed as the dimensions provided indicate it's a standard twin bed, which measures at approximately 60 inches wide and", "baseline": "react", "latency_sec": 1.112, "metadata": {"open_answer": true}}
+{"sample_id": "524611007", "prediction": "The train cars in the picture are tank cars used for transporting liquids. These tank cars often have unique markings and shapes designed to safely carry large quantities of liquid goods", "baseline": "react", "latency_sec": 1.069, "metadata": {"open_answer": true}}
+{"sample_id": "262262000", "prediction": "Yes", "baseline": "react", "latency_sec": 0.361, "metadata": {"open_answer": true}}
+{"sample_id": "262505005", "prediction": "Yes, they are at an intersection.", "baseline": "react", "latency_sec": 0.455, "metadata": {"open_answer": true}}
+{"sample_id": "393372010", "prediction": "The woman's hair is purple.", "baseline": "react", "latency_sec": 0.461, "metadata": {"open_answer": true}}
+{"sample_id": "262197003", "prediction": "No, there is no person riding a bike in the image.", "baseline": "react", "latency_sec": 0.582, "metadata": {"open_answer": true}}
+{"sample_id": "524694003", "prediction": "The giraffe is in a zoo.", "baseline": "react", "latency_sec": 0.495, "metadata": {"open_answer": true}}
+{"sample_id": "262609011", "prediction": "The apple emblem in the picture is located on the side of a building, specifically above an Apple store. It is part of the Apple logo, which is recognizable", "baseline": "react", "latency_sec": 1.114, "metadata": {"open_answer": true}}
+{"sample_id": "131493000", "prediction": "There are two boats on the water.", "baseline": "react", "latency_sec": 0.409, "metadata": {"open_answer": true}}
+{"sample_id": "393274007", "prediction": "Yes, there may be some vegetation growing on the side of the tracks and in the gravel, but the tracks themselves appear to be clear.", "baseline": "react", "latency_sec": 0.987, "metadata": {"open_answer": true}}
+{"sample_id": "262605003", "prediction": "No, it might not be safe because the person is in the process of throwing something at someone else.", "baseline": "react", "latency_sec": 0.891, "metadata": {"open_answer": true}}
+{"sample_id": "262605010", "prediction": "It is ambiguous how many blades the ceiling fan has.", "baseline": "react", "latency_sec": 0.627, "metadata": {"open_answer": true}}
+{"sample_id": "262386014", "prediction": "The copyright of this image belongs to the photographer who captured it.", "baseline": "react", "latency_sec": 0.592, "metadata": {"open_answer": true}}
+{"sample_id": "524601010", "prediction": "No, the women are not wearing ties.", "baseline": "react", "latency_sec": 0.564, "metadata": {"open_answer": true}}
+{"sample_id": "524681000", "prediction": "Yes, the woman is standing as she is flying a kite.", "baseline": "react", "latency_sec": 0.63, "metadata": {"open_answer": true}}
+{"sample_id": "393411000", "prediction": "Yes, the door is closed.", "baseline": "react", "latency_sec": 0.427, "metadata": {"open_answer": true}}
+{"sample_id": "131152003", "prediction": "Yes, they are wet because they are in the water with surfboards and wetsuits.", "baseline": "react", "latency_sec": 0.744, "metadata": {"open_answer": true}}
+{"sample_id": "196003", "prediction": "There are several main dishes on the table, including salads, casserole, and vegetable side dishes.", "baseline": "react", "latency_sec": 0.974, "metadata": {"open_answer": true}}
+{"sample_id": "393410001", "prediction": "The plane is flying in the sky, so it's not taking off or landing.", "baseline": "react", "latency_sec": 0.744, "metadata": {"open_answer": true}}
+{"sample_id": "262161005", "prediction": "The number '750' on the vehicle is likely used to identify the specific model or version of the Ducati motorcycle. This system helps in distinguishing between", "baseline": "react", "latency_sec": 1.075, "metadata": {"open_answer": true}}
+{"sample_id": "262471008", "prediction": "There are poles with traffic signs at the intersection of a street and a highway.", "baseline": "react", "latency_sec": 0.666, "metadata": {"open_answer": true}}
+{"sample_id": "262284003", "prediction": "The room in the picture is a bathroom. The presence of a shower and tiled walls are typical features of a bathroom.", "baseline": "react", "latency_sec": 0.919, "metadata": {"open_answer": true}}
+{"sample_id": "262609003", "prediction": "The woman is carrying a bag, and it appears to be black based on the provided image description.", "baseline": "react", "latency_sec": 0.81, "metadata": {"open_answer": true}}
+{"sample_id": "262476001", "prediction": "There is a group of five people standing in the kitchen, engaged in conversation or activities around the kitchen counter.", "baseline": "react", "latency_sec": 0.868, "metadata": {"open_answer": true}}
+{"sample_id": "262466000", "prediction": "Yes, the flowers in the vase seem to be fresh and vibrant.", "baseline": "react", "latency_sec": 0.614, "metadata": {"open_answer": true}}
+{"sample_id": "393266002", "prediction": "The plant is green.", "baseline": "react", "latency_sec": 0.458, "metadata": {"open_answer": true}}
+{"sample_id": "262440008", "prediction": "No, there is no TV in the room.", "baseline": "react", "latency_sec": 0.571, "metadata": {"open_answer": true}}
+{"sample_id": "262576000", "prediction": "I don't know what make and model is the laptop.", "baseline": "react", "latency_sec": 0.648, "metadata": {"open_answer": true}}
+{"sample_id": "262228004", "prediction": "The bicycles are chained to a bike rack, which is designed for securely parking and locking bicycles in place. The rack has multiple loops to accommodate multiple bikes and is", "baseline": "react", "latency_sec": 1.221, "metadata": {"open_answer": true}}
+{"sample_id": "524333005", "prediction": "There is one man in the image who appears to be holding his chin.", "baseline": "react", "latency_sec": 0.801, "metadata": {"open_answer": true}}
+{"sample_id": "131416003", "prediction": "Dr Pepper.", "baseline": "react", "latency_sec": 0.385, "metadata": {"open_answer": true}}
+{"sample_id": "131539009", "prediction": "Yes, there are trees in the background of the image. The background shows a line of trees extending from the left edge towards the right edge of the image.", "baseline": "react", "latency_sec": 1.118, "metadata": {"open_answer": true}}
+{"sample_id": "262227000", "prediction": "Yes, there is at least one bottle in the image that resembles a pill bottle.", "baseline": "react", "latency_sec": 0.748, "metadata": {"open_answer": true}}
+{"sample_id": "262386023", "prediction": "Thought 1: The toilet paper is loaded to roll over.", "baseline": "react", "latency_sec": 0.607, "metadata": {"open_answer": true}}
+{"sample_id": "131276000", "prediction": "Yes, the people in the image are African American.", "baseline": "react", "latency_sec": 0.575, "metadata": {"open_answer": true}}
+{"sample_id": "143002", "prediction": "Thought 1: The image shows only one bird that is black, which appears to be perched on the branch and is surrounded by other birds with white and", "baseline": "react", "latency_sec": 1.266, "metadata": {"open_answer": true}}
+{"sample_id": "131386002", "prediction": "Yes, they appear to be fast.", "baseline": "react", "latency_sec": 0.889, "metadata": {"open_answer": true}}
+{"sample_id": "524621003", "prediction": "The giraffes in the picture are both male.", "baseline": "react", "latency_sec": 0.594, "metadata": {"open_answer": true}}
+{"sample_id": "524577004", "prediction": "The building has red bricks.", "baseline": "react", "latency_sec": 0.469, "metadata": {"open_answer": true}}
+{"sample_id": "262161015", "prediction": "The seat in the image appears to be black.", "baseline": "react", "latency_sec": 0.565, "metadata": {"open_answer": true}}
+{"sample_id": "524621000", "prediction": "There are no birds in the image.", "baseline": "react", "latency_sec": 0.479, "metadata": {"open_answer": true}}
+{"sample_id": "524450023", "prediction": "The man is riding on a bus.", "baseline": "react", "latency_sec": 0.467, "metadata": {"open_answer": true}}
+{"sample_id": "395002", "prediction": "Yes, the man in the picture is wearing a yellow U.S flag patch on his jacket. This suggests he might be American.", "baseline": "react", "latency_sec": 1.053, "metadata": {"open_answer": true}}
+{"sample_id": "262505000", "prediction": "Yes, the cars are on the road.", "baseline": "react", "latency_sec": 0.486, "metadata": {"open_answer": true}}
+{"sample_id": "393578002", "prediction": "The number of people who can get on the bus depends on the capacity or size of the vehicle, which is not mentioned in the given information.\n\nThought 2", "baseline": "react", "latency_sec": 1.15, "metadata": {"open_answer": true}}
+{"sample_id": "131108001", "prediction": "Outward;", "baseline": "react", "latency_sec": 0.336, "metadata": {"open_answer": true}}
+{"sample_id": "262262001", "prediction": "Yes, the image suggests that it is an overcast day. This is because there is a thick white cloud in the sky, which typically indicates overcast weather", "baseline": "react", "latency_sec": 1.227, "metadata": {"open_answer": true}}
+{"sample_id": "131453000", "prediction": "No, they are not bison. They are elephants.", "baseline": "react", "latency_sec": 0.694, "metadata": {"open_answer": true}}
+{"sample_id": "393682001", "prediction": "The white substance on the left side of the plate and on top of the cake is whipped cream.", "baseline": "react", "latency_sec": 0.856, "metadata": {"open_answer": true}}
+{"sample_id": "131444000", "prediction": "No, the man in the picture is not the President of the United States. He is dressed in formal attire and a suit jacket, which is not typical for", "baseline": "react", "latency_sec": 1.153, "metadata": {"open_answer": true}}
+{"sample_id": "524450014", "prediction": "The image shows that it's morning or evening, as the light in the sky is soft and there are no shadows.", "baseline": "react", "latency_sec": 0.911, "metadata": {"open_answer": true}}
+{"sample_id": "262353002", "prediction": "Yes, they may be friends or acquaintances.", "baseline": "react", "latency_sec": 0.633, "metadata": {"open_answer": true}}
+{"sample_id": "143000", "prediction": "Thought 1: The color of the birds' tails cannot be determined from the image, so the answer to this question is no change.", "baseline": "react", "latency_sec": 1.271, "metadata": {"open_answer": true}}
+{"sample_id": "131115002", "prediction": "There are three people on the field, as mentioned in the reference text.", "baseline": "react", "latency_sec": 0.667, "metadata": {"open_answer": true}}
+{"sample_id": "262161007", "prediction": "The bike on the right is green and white.", "baseline": "react", "latency_sec": 0.578, "metadata": {"open_answer": true}}
+{"sample_id": "524577014", "prediction": "No, it is not in a large city.", "baseline": "react", "latency_sec": 0.618, "metadata": {"open_answer": true}}
+{"sample_id": "524627001", "prediction": "Yes, there is a boy with long hair.", "baseline": "react", "latency_sec": 0.536, "metadata": {"open_answer": true}}
+{"sample_id": "524450013", "prediction": "Yes, it is on the parking lot but not in a parking space", "baseline": "react", "latency_sec": 0.617, "metadata": {"open_answer": true}}
+{"sample_id": "262161008", "prediction": "The bike in the foreground has a single seat, as indicated by the presence of only one seat visible on the motorcycle in the image.", "baseline": "react", "latency_sec": 1.142, "metadata": {"open_answer": true}}
+{"sample_id": "524611001", "prediction": "The building on the right-hand side is brown, not white.", "baseline": "react", "latency_sec": 0.674, "metadata": {"open_answer": true}}
+{"sample_id": "510657001", "prediction": "There are three men in glasses.", "baseline": "react", "latency_sec": 0.434, "metadata": {"open_answer": true}}
+{"sample_id": "131280000", "prediction": "The lettering on the shirts is blue.", "baseline": "react", "latency_sec": 0.501, "metadata": {"open_answer": true}}
+{"sample_id": "262460002", "prediction": "Yes, it was likely picked out by the customer.", "baseline": "react", "latency_sec": 0.597, "metadata": {"open_answer": true}}
+{"sample_id": "262386019", "prediction": "The wall in the image is white.", "baseline": "react", "latency_sec": 0.451, "metadata": {"open_answer": true}}
+{"sample_id": "393284010", "prediction": "There is no pattern painted on the helmet in the image.", "baseline": "react", "latency_sec": 0.578, "metadata": {"open_answer": true}}
+{"sample_id": "262284001", "prediction": "This is a shower with a glass door.", "baseline": "react", "latency_sec": 0.518, "metadata": {"open_answer": true}}
+{"sample_id": "131539007", "prediction": "No, there are no clouds in the sky.", "baseline": "react", "latency_sec": 0.508, "metadata": {"open_answer": true}}
+{"sample_id": "133000", "prediction": "The color of the lamp is blue.", "baseline": "react", "latency_sec": 0.531, "metadata": {"open_answer": true}}
+{"sample_id": "524637007", "prediction": "A toilet brush and a toilet paper holder.", "baseline": "react", "latency_sec": 0.565, "metadata": {"open_answer": true}}
+{"sample_id": "262609007", "prediction": "The woman is wearing red.", "baseline": "react", "latency_sec": 0.45, "metadata": {"open_answer": true}}
+{"sample_id": "262425004", "prediction": "Someone who is riding on the boat must have both feet and arms supported by someone else.", "baseline": "react", "latency_sec": 0.853, "metadata": {"open_answer": true}}
+{"sample_id": "139003", "prediction": "The flower in the picture appears to be pink. This conclusion is based on the visible color of the petals in the image.", "baseline": "react", "latency_sec": 1.131, "metadata": {"open_answer": true}}
+{"sample_id": "524638001", "prediction": "Yes, the boy is dressed for sports based on his outfit.", "baseline": "react", "latency_sec": 0.757, "metadata": {"open_answer": true}}
+{"sample_id": "294002", "prediction": "Yes, they seem to be enjoying themselves.", "baseline": "react", "latency_sec": 0.536, "metadata": {"open_answer": true}}
+{"sample_id": "262371003", "prediction": "The cat is sitting on the top of an open backpack.", "baseline": "react", "latency_sec": 0.652, "metadata": {"open_answer": true}}
+{"sample_id": "294001", "prediction": "The black machine next to the man is an oven, which produces heat for cooking food.", "baseline": "react", "latency_sec": 0.754, "metadata": {"open_answer": true}}
+{"sample_id": "262353000", "prediction": "There are more than 10 people in the image based on the given statement.", "baseline": "react", "latency_sec": 0.842, "metadata": {"open_answer": true}}
+{"sample_id": "262594001", "prediction": "The bike in the picture has a purple and white color scheme, with a prominent white stripe running along its side at the front and a purple section at the rear", "baseline": "react", "latency_sec": 1.2, "metadata": {"open_answer": true}}
+{"sample_id": "262594002", "prediction": "The answer is FH2949.", "baseline": "react", "latency_sec": 0.538, "metadata": {"open_answer": true}}
+{"sample_id": "393284005", "prediction": "No", "baseline": "react", "latency_sec": 0.281, "metadata": {"open_answer": true}}
+{"sample_id": "393469001", "prediction": "No, there are no deciduous trees in the image.", "baseline": "react", "latency_sec": 0.654, "metadata": {"open_answer": true}}
+{"sample_id": "524536002", "prediction": "Yes, it is possible that the man is showing off his tie. He could be taking a picture or adjusting his tie for a photo.", "baseline": "react", "latency_sec": 1.048, "metadata": {"open_answer": true}}
+{"sample_id": "262200000", "prediction": "No, the image shows children celebrating a birthday, not an adult party.", "baseline": "react", "latency_sec": 0.776, "metadata": {"open_answer": true}}
+{"sample_id": "524642003", "prediction": "There is not any other item on the shelf in the picture.", "baseline": "react", "latency_sec": 0.575, "metadata": {"open_answer": true}}
+{"sample_id": "393243000", "prediction": "Yes, it is possible that the child will leave the powdered sugar on his face while eating the pastry. The amount of powdered sugar on his face suggests that he", "baseline": "react", "latency_sec": 1.128, "metadata": {"open_answer": true}}
+{"sample_id": "393277005", "prediction": "The image clearly shows that the time on the clock is 6 o'clock.\n\nThought 2: The clock is attached to the tower and is visible from a", "baseline": "react", "latency_sec": 1.117, "metadata": {"open_answer": true}}
+{"sample_id": "393288004", "prediction": "The dome might be displaying something but it's not clear what it could be based on the given information.", "baseline": "react", "latency_sec": 0.86, "metadata": {"open_answer": true}}
+{"sample_id": "524601002", "prediction": "They are most likely playing a Nintendo Wii game, as the remotes they are holding are typical of that console.", "baseline": "react", "latency_sec": 0.869, "metadata": {"open_answer": true}}
+{"sample_id": "262608001", "prediction": "No, this meal is not suitable for a child.", "baseline": "react", "latency_sec": 0.639, "metadata": {"open_answer": true}}
+{"sample_id": "524656001", "prediction": "Yes, it seems that the dishes are hand-washed here, as there are no signs of automated dishwashing machines in the image.", "baseline": "react", "latency_sec": 0.999, "metadata": {"open_answer": true}}
+{"sample_id": "393547001", "prediction": "The cat is sitting on the table.", "baseline": "react", "latency_sec": 0.413, "metadata": {"open_answer": true}}
+{"sample_id": "262605012", "prediction": "Yes, based on the context provided, it is likely that this is America.", "baseline": "react", "latency_sec": 0.758, "metadata": {"open_answer": true}}
+{"sample_id": "294014", "prediction": "The object in question is an over-sized measuring cup.", "baseline": "react", "latency_sec": 0.53, "metadata": {"open_answer": true}}
+{"sample_id": "131115000", "prediction": "Yes, there are players in the dugout. I can see several players sitting and standing in the dugout.", "baseline": "react", "latency_sec": 0.841, "metadata": {"open_answer": true}}
+{"sample_id": "393421003", "prediction": "The light fixtures in the room are glowing.", "baseline": "react", "latency_sec": 0.411, "metadata": {"open_answer": true}}
+{"sample_id": "131276002", "prediction": "The food being sold appears to be pastries, such as donuts and bagels.", "baseline": "react", "latency_sec": 0.769, "metadata": {"open_answer": true}}
+{"sample_id": "43753002", "prediction": "The question cannot be answered as there is insufficient information provided about where the man is eating.", "baseline": "react", "latency_sec": 0.866, "metadata": {"open_answer": true}}
+{"sample_id": "262386029", "prediction": "Yes, the toilet lid is open in the image, revealing the interior of the toilet bowl.", "baseline": "react", "latency_sec": 0.807, "metadata": {"open_answer": true}}
+{"sample_id": "524333000", "prediction": "The tables and chairs might be made from wood, as chairs with wooden seats and legs are often used in places like dining rooms or cafes.", "baseline": "react", "latency_sec": 1.048, "metadata": {"open_answer": true}}
+{"sample_id": "131207002", "prediction": "No, the birds' legs are not touching the water. They are standing on the wooden platform that is elevated above the water.", "baseline": "react", "latency_sec": 1.024, "metadata": {"open_answer": true}}
+{"sample_id": "524577000", "prediction": "The clock indicates that it is almost 2 o'clock in the afternoon.", "baseline": "react", "latency_sec": 0.736, "metadata": {"open_answer": true}}
+{"sample_id": "240301001", "prediction": "Yes, I can see the sky through the windows of the barn.", "baseline": "react", "latency_sec": 0.663, "metadata": {"open_answer": true}}
+{"sample_id": "43753004", "prediction": "Based on the image, it is difficult to determine the man's happiness. He could be happy or not happy based on the context of the situation. Therefore,", "baseline": "react", "latency_sec": 1.112, "metadata": {"open_answer": true}}
+{"sample_id": "393557001", "prediction": "No, they appear to be resting and not fighting.", "baseline": "react", "latency_sec": 0.536, "metadata": {"open_answer": true}}
+{"sample_id": "393277010", "prediction": "Thought 1: 8:00", "baseline": "react", "latency_sec": 0.487, "metadata": {"open_answer": true}}
+{"sample_id": "262476000", "prediction": "Yes, it is likely they are having a party based on their behavior and the presence of a refrigerator.", "baseline": "react", "latency_sec": 0.846, "metadata": {"open_answer": true}}
+{"sample_id": "393674002", "prediction": "The sport this person is playing, if you're in America, is baseball.", "baseline": "react", "latency_sec": 0.712, "metadata": {"open_answer": true}}
+{"sample_id": "393569001", "prediction": "The photo appears to be taken during the day, as there is natural light coming through the window. Additionally, the person on the bed seems to be working or", "baseline": "react", "latency_sec": 1.133, "metadata": {"open_answer": true}}
+{"sample_id": "428002", "prediction": "The balloons are white in color.", "baseline": "react", "latency_sec": 0.435, "metadata": {"open_answer": true}}
+{"sample_id": "262505001", "prediction": "There are six visible vehicles in the image.", "baseline": "react", "latency_sec": 0.488, "metadata": {"open_answer": true}}
+{"sample_id": "262460000", "prediction": "In the background on the shelves, there are different colored shirts.", "baseline": "react", "latency_sec": 0.617, "metadata": {"open_answer": true}}
+{"sample_id": "262605011", "prediction": "No, only one door is open in the image.", "baseline": "react", "latency_sec": 0.626, "metadata": {"open_answer": true}}
+{"sample_id": "472002", "prediction": "No, the blue patches in the image are not water. They appear to be vegetation or possibly trees due to their shape and color, which contrasts with the surrounding", "baseline": "react", "latency_sec": 1.013, "metadata": {"open_answer": true}}
+{"sample_id": "131527001", "prediction": "No, they are not good for nibbling. They are vegetables.", "baseline": "react", "latency_sec": 0.612, "metadata": {"open_answer": true}}
+{"sample_id": "241000", "prediction": "Couch", "baseline": "react", "latency_sec": 0.328, "metadata": {"open_answer": true}}
+{"sample_id": "74001", "prediction": "The dog is laying on the sidewalk.", "baseline": "react", "latency_sec": 0.449, "metadata": {"open_answer": true}}
+{"sample_id": "262576001", "prediction": "The laptop is off.", "baseline": "react", "latency_sec": 0.408, "metadata": {"open_answer": true}}
+{"sample_id": "393225000", "prediction": "The website that copyrighted the picture is foodiebaker.com.", "baseline": "react", "latency_sec": 0.628, "metadata": {"open_answer": true}}
+{"sample_id": "393557002", "prediction": "The color of the zebra in the picture is black and white.", "baseline": "react", "latency_sec": 0.619, "metadata": {"open_answer": true}}
+{"sample_id": "524627002", "prediction": "The donuts depicted in the image on the woman's shirt appear to be pink and round, likely glazed donuts.", "baseline": "react", "latency_sec": 0.933, "metadata": {"open_answer": true}}
+{"sample_id": "262531004", "prediction": "No couch is visible in the image.", "baseline": "react", "latency_sec": 0.451, "metadata": {"open_answer": true}}
+{"sample_id": "510657002", "prediction": "There are several glasses in the image, likely containing drinks for the people sitting around the table.", "baseline": "react", "latency_sec": 0.75, "metadata": {"open_answer": true}}
+{"sample_id": "359000", "prediction": "The clouds in the sky indicate that it is overcast, not sunny.", "baseline": "react", "latency_sec": 0.596, "metadata": {"open_answer": true}}
+{"sample_id": "262229005", "prediction": "The girls are wearing headbands, which are commonly used in sports to keep hair out of eyes and sweat away from the face.", "baseline": "react", "latency_sec": 0.964, "metadata": {"open_answer": true}}
+{"sample_id": "262396002", "prediction": "Yes, it is possible that the cat may be clawing the chair as it has sharp claws and its behavior suggests that it is climbing or stretching to reach something", "baseline": "react", "latency_sec": 1.144, "metadata": {"open_answer": true}}
+{"sample_id": "393277001", "prediction": "Thought 1: I don't know who the statue is.", "baseline": "react", "latency_sec": 0.589, "metadata": {"open_answer": true}}
+{"sample_id": "524601000", "prediction": "The person on the far right is wearing a black shirt.", "baseline": "react", "latency_sec": 0.574, "metadata": {"open_answer": true}}
+{"sample_id": "393372019", "prediction": "No, the person does not have any facial piercings.", "baseline": "react", "latency_sec": 0.621, "metadata": {"open_answer": true}}
+{"sample_id": "472003", "prediction": "It is a medium-sized plane.", "baseline": "react", "latency_sec": 0.351, "metadata": {"open_answer": true}}
+{"sample_id": "262509002", "prediction": "Yes, there is a boat on the water.", "baseline": "react", "latency_sec": 0.543, "metadata": {"open_answer": true}}
+{"sample_id": "131497000", "prediction": "No, the collar is not red; it is blue.", "baseline": "react", "latency_sec": 0.593, "metadata": {"open_answer": true}}
+{"sample_id": "262609006", "prediction": "The traffic light in the image shows a red signal, indicating that vehicles must stop and pedestrians should wait for it to change.", "baseline": "react", "latency_sec": 0.954, "metadata": {"open_answer": true}}
+{"sample_id": "524665000", "prediction": "The subjects are standing next to each other, with the person wearing shorts and a hat, and the dog wearing a backpack. They might be hiking or on a", "baseline": "react", "latency_sec": 1.008, "metadata": {"open_answer": true}}
+{"sample_id": "131273001", "prediction": "This question appears to be about identifying the direction in which the dog is looking. Given the context, it suggests that the dog is fixated on something outside of", "baseline": "react", "latency_sec": 1.12, "metadata": {"open_answer": true}}
+{"sample_id": "262509004", "prediction": "There are several trees in the background.", "baseline": "react", "latency_sec": 0.5, "metadata": {"open_answer": true}}
+{"sample_id": "131152002", "prediction": "There are four people in the picture. \n\nThought 2: The answer is 4.", "baseline": "react", "latency_sec": 0.78, "metadata": {"open_answer": true}}
+{"sample_id": "283000", "prediction": "The label on the bottle indicates that it is a brand of wine.", "baseline": "react", "latency_sec": 0.645, "metadata": {"open_answer": true}}
+{"sample_id": "524333002", "prediction": "No, the given image does not show people learning.", "baseline": "react", "latency_sec": 0.586, "metadata": {"open_answer": true}}
+{"sample_id": "262148000", "prediction": "He is looking at the ground.", "baseline": "react", "latency_sec": 0.477, "metadata": {"open_answer": true}}
+{"sample_id": "393511001", "prediction": "The yellow drink in the image is a type of tea, specifically a green tea with honey added to it. Green tea is known for its slightly bitter taste and", "baseline": "react", "latency_sec": 1.156, "metadata": {"open_answer": true}}
+{"sample_id": "524450022", "prediction": "No, it is not likely that the bus lights are on at bottom.", "baseline": "react", "latency_sec": 0.687, "metadata": {"open_answer": true}}
+{"sample_id": "262391004", "prediction": "The door in the picture is beige in color. Based on this description, the answer to your question would be: Beige.", "baseline": "react", "latency_sec": 1.002, "metadata": {"open_answer": true}}
+{"sample_id": "262162001", "prediction": "There is only one bed in the image.", "baseline": "react", "latency_sec": 0.548, "metadata": {"open_answer": true}}
+{"sample_id": "393583004", "prediction": "The text on the stop sign is written using Arabic letters. Therefore, the answer is no.", "baseline": "react", "latency_sec": 0.748, "metadata": {"open_answer": true}}
+{"sample_id": "393410009", "prediction": "No, there is no seagull in the picture.", "baseline": "react", "latency_sec": 0.616, "metadata": {"open_answer": true}}
+{"sample_id": "524450005", "prediction": "The bus in the picture is white with red and black accents.", "baseline": "react", "latency_sec": 0.587, "metadata": {"open_answer": true}}
+{"sample_id": "262274006", "prediction": "No, there are no palm trees on the board.", "baseline": "react", "latency_sec": 0.571, "metadata": {"open_answer": true}}
+{"sample_id": "393254000", "prediction": "The sentence at the top says, \"This is camping.\"", "baseline": "react", "latency_sec": 0.596, "metadata": {"open_answer": true}}
+{"sample_id": "262274007", "prediction": "No, the sky appears to be clear based on the image.", "baseline": "react", "latency_sec": 0.618, "metadata": {"open_answer": true}}
+{"sample_id": "397002", "prediction": "The food item shown in the picture is pizza.", "baseline": "react", "latency_sec": 0.555, "metadata": {"open_answer": true}}
+{"sample_id": "131527003", "prediction": "A broccoli is a type of green vegetable.", "baseline": "react", "latency_sec": 0.522, "metadata": {"open_answer": true}}
+{"sample_id": "262197009", "prediction": "The boy is not wearing any backpack.", "baseline": "react", "latency_sec": 0.456, "metadata": {"open_answer": true}}
+{"sample_id": "131418002", "prediction": "The answer is no. The answer is no.", "baseline": "react", "latency_sec": 0.533, "metadata": {"open_answer": true}}
+{"sample_id": "262391001", "prediction": "Yes, the curtains are covering the whole width of the window and may be too long for the window.", "baseline": "react", "latency_sec": 0.791, "metadata": {"open_answer": true}}
+{"sample_id": "262189002", "prediction": "The last sign says \"ROSS ST\" with a number 6-2 in red below it.", "baseline": "react", "latency_sec": 0.881, "metadata": {"open_answer": true}}
+{"sample_id": "524333004", "prediction": "Yes, the people in the image are likely in a restaurant. The setting includes dining tables with place settings, chairs, and a chalkboard menu, which are", "baseline": "react", "latency_sec": 1.135, "metadata": {"open_answer": true}}
+{"sample_id": "393282004", "prediction": "No, they are not in the wild. They appear to be in a fenced enclosure, which suggests that they are in a man-made environment, likely a zoo", "baseline": "react", "latency_sec": 1.204, "metadata": {"open_answer": true}}
+{"sample_id": "393282007", "prediction": "No, I don't see any water in the mentioned image.", "baseline": "react", "latency_sec": 0.725, "metadata": {"open_answer": true}}
+{"sample_id": "524611005", "prediction": "It is located in Iowa", "baseline": "react", "latency_sec": 0.416, "metadata": {"open_answer": true}}
+{"sample_id": "262386036", "prediction": "Yes, the toilet is usable right now.", "baseline": "react", "latency_sec": 0.482, "metadata": {"open_answer": true}}
+{"sample_id": "524575000", "prediction": "No, based on the image provided, it does not appear that it is cold. The image shows grass and trees, which indicate a warm climate with no signs", "baseline": "react", "latency_sec": 1.114, "metadata": {"open_answer": true}}
+{"sample_id": "262227002", "prediction": "No, it's not a popular model.", "baseline": "react", "latency_sec": 0.523, "metadata": {"open_answer": true}}
+{"sample_id": "524681002", "prediction": "The group of people is walking towards the wooden fence.", "baseline": "react", "latency_sec": 0.593, "metadata": {"open_answer": true}}
+{"sample_id": "131335004", "prediction": "Yes, there is a flag flying at the top of the building's tower.", "baseline": "react", "latency_sec": 0.715, "metadata": {"open_answer": true}}
+{"sample_id": "262440006", "prediction": "Yes, the room is modern because it has a small bathtub, a toilet, and a sink.", "baseline": "react", "latency_sec": 0.805, "metadata": {"open_answer": true}}
+{"sample_id": "131295004", "prediction": "It drives on tracks.", "baseline": "react", "latency_sec": 0.421, "metadata": {"open_answer": true}}
+{"sample_id": "262605000", "prediction": "The walls in the picture are white because this is a black and white photo.", "baseline": "react", "latency_sec": 0.77, "metadata": {"open_answer": true}}
+{"sample_id": "360002", "prediction": "Thought: The street lamps may not be turned on because they are currently off.", "baseline": "react", "latency_sec": 0.714, "metadata": {"open_answer": true}}
+{"sample_id": "393674004", "prediction": "The letters are 'A' and 'C'.", "baseline": "react", "latency_sec": 0.557, "metadata": {"open_answer": true}}
+{"sample_id": "524621005", "prediction": "No, this is not a man-made exhibit. The scene appears to be in the wild, with giraffes standing near trees and bushes under a clear blue", "baseline": "react", "latency_sec": 1.074, "metadata": {"open_answer": true}}
+{"sample_id": "262242008", "prediction": "No, the two men in the image are not professional tennis players. They appear to be playing recreational tennis on a tennis court. Professional tennis players typically wear specific", "baseline": "react", "latency_sec": 0.994, "metadata": {"open_answer": true}}
+{"sample_id": "524621029", "prediction": "Yes, the giraffes are standing up.", "baseline": "react", "latency_sec": 0.531, "metadata": {"open_answer": true}}
+{"sample_id": "524450010", "prediction": "The image shows people standing outside the bus, so it is likely that they are not inside the bus. Therefore, the answer is No.", "baseline": "react", "latency_sec": 1.029, "metadata": {"open_answer": true}}
+{"sample_id": "131453004", "prediction": "No, none of the animals are laying down.", "baseline": "react", "latency_sec": 0.636, "metadata": {"open_answer": true}}
+{"sample_id": "328000", "prediction": "The men in the picture are sitting on a bench.", "baseline": "react", "latency_sec": 0.588, "metadata": {"open_answer": true}}
+{"sample_id": "262609004", "prediction": "The words on the building say \"Apple Store\".", "baseline": "react", "latency_sec": 0.568, "metadata": {"open_answer": true}}
+{"sample_id": "262505002", "prediction": "Yes, it is cloudy. The sky has a hazy appearance with patches of white and blue visible through the clouds.", "baseline": "react", "latency_sec": 0.912, "metadata": {"open_answer": true}}
+{"sample_id": "241003", "prediction": "No, they are not brothers because they have different colors of their short pants.", "baseline": "react", "latency_sec": 0.715, "metadata": {"open_answer": true}}
+{"sample_id": "262404000", "prediction": "The frosting on the cake is green.", "baseline": "react", "latency_sec": 0.491, "metadata": {"open_answer": true}}
+{"sample_id": "262386012", "prediction": "Thought 1 is incorrect because there is no stove in the image.", "baseline": "react", "latency_sec": 0.615, "metadata": {"open_answer": true}}
+{"sample_id": "393277016", "prediction": "A clock.", "baseline": "react", "latency_sec": 0.312, "metadata": {"open_answer": true}}
+{"sample_id": "133001", "prediction": "Yes, it is likely a child's room based on the presence of a bunk bed and a small desk with a chair.", "baseline": "react", "latency_sec": 0.955, "metadata": {"open_answer": true}}
+{"sample_id": "524392000", "prediction": "The fridge appears to be stainless steel.", "baseline": "react", "latency_sec": 0.497, "metadata": {"open_answer": true}}
+{"sample_id": "262608006", "prediction": "Thought 1: This dish appears to be a representative of Middle Eastern or Mediterranean cuisine. The presence of rice, meat (likely lamb), vegetables, and spices", "baseline": "react", "latency_sec": 1.112, "metadata": {"open_answer": true}}
+{"sample_id": "436936002", "prediction": "The animal in the picture is a bear. They have a black coat and a large body with sharp claws.", "baseline": "react", "latency_sec": 1.009, "metadata": {"open_answer": true}}
+{"sample_id": "262162003", "prediction": "There are six pictures on the wall in the room.", "baseline": "react", "latency_sec": 0.62, "metadata": {"open_answer": true}}
+{"sample_id": "294006", "prediction": "Yes, they are hanging on the wall.", "baseline": "react", "latency_sec": 0.546, "metadata": {"open_answer": true}}
+{"sample_id": "524577001", "prediction": "No, the numbers on the clock are not Roman numerals.", "baseline": "react", "latency_sec": 0.715, "metadata": {"open_answer": true}}
+{"sample_id": "262262002", "prediction": "This is not a question but it seems like an observation or a statement about the image.", "baseline": "react", "latency_sec": 0.817, "metadata": {"open_answer": true}}
+{"sample_id": "397001", "prediction": "The pizza in the image seems to be Italian, as it features tomato sauce, cheese, and basil leaves, which are traditional ingredients in Italian pizza. Therefore,", "baseline": "react", "latency_sec": 1.12, "metadata": {"open_answer": true}}
+{"sample_id": "262609000", "prediction": "No, they are not driving toward the cameras. The vehicles' positions relative to the cameras would be opposite, indicating that the vehicles are away from the cameras.", "baseline": "react", "latency_sec": 1.142, "metadata": {"open_answer": true}}
+{"sample_id": "393226000", "prediction": "The man is walking down the street.", "baseline": "react", "latency_sec": 0.499, "metadata": {"open_answer": true}}
+{"sample_id": "393266001", "prediction": "A) Only left turns", "baseline": "react", "latency_sec": 0.426, "metadata": {"open_answer": true}}
+{"sample_id": "524621023", "prediction": "No, the animal is not in an enclosure.", "baseline": "react", "latency_sec": 0.543, "metadata": {"open_answer": true}}
+{"sample_id": "524601006", "prediction": "Yes, it is possible that these are college students based on their appearance and the setting of their dorm room.", "baseline": "react", "latency_sec": 0.863, "metadata": {"open_answer": true}}
+{"sample_id": "393254001", "prediction": "The vehicle being pulled by the RV in the bottom picture is a truck.", "baseline": "react", "latency_sec": 0.717, "metadata": {"open_answer": true}}
+{"sample_id": "73000", "prediction": "The license number is SV-6260.", "baseline": "react", "latency_sec": 0.607, "metadata": {"open_answer": true}}
+{"sample_id": "262189001", "prediction": "The Salisbury Rd. sign has a white background.", "baseline": "react", "latency_sec": 0.64, "metadata": {"open_answer": true}}
+{"sample_id": "524694001", "prediction": "Yes, the giraffe appears to be resting or taking a break from its usual activity. It is standing near a large rock with its head lowered to the ground", "baseline": "react", "latency_sec": 1.113, "metadata": {"open_answer": true}}
+{"sample_id": "524456000", "prediction": "There is only one mouse on the desk. \n\nThought 2: The answer is incorrect based on the observation that there is a cable connected to the mouse.", "baseline": "react", "latency_sec": 1.106, "metadata": {"open_answer": true}}
+{"sample_id": "524621028", "prediction": "The giraffe in the left side of the image appears to be looking upwards towards the sky, potentially watching for predators or observing its surroundings in the sky.", "baseline": "react", "latency_sec": 1.091, "metadata": {"open_answer": true}}
+{"sample_id": "257003", "prediction": "Yes, it is possible that the dog is real.", "baseline": "react", "latency_sec": 0.567, "metadata": {"open_answer": true}}
+{"sample_id": "262274004", "prediction": "No, it is not going to rain. The sky does not look cloudy or rainy in the image.", "baseline": "react", "latency_sec": 0.825, "metadata": {"open_answer": true}}
+{"sample_id": "524436005", "prediction": "Yes, they are likely a couple based on their body language and the act of kissing.", "baseline": "react", "latency_sec": 0.756, "metadata": {"open_answer": true}}
+{"sample_id": "262471007", "prediction": "Yes, the stop sign is in English.", "baseline": "react", "latency_sec": 0.491, "metadata": {"open_answer": true}}
+{"sample_id": "568040001", "prediction": "The elephant has a heavy, thick coat of fur.", "baseline": "react", "latency_sec": 0.543, "metadata": {"open_answer": true}}
+{"sample_id": "262161010", "prediction": "Thought 1: That white thing behind the motorcyclist is likely the seat of the motorcycle. It's common for motorcycles to have seats, and the seat", "baseline": "react", "latency_sec": 1.075, "metadata": {"open_answer": true}}
+{"sample_id": "131539006", "prediction": "It's unknown if they're having fun.", "baseline": "react", "latency_sec": 0.493, "metadata": {"open_answer": true}}
+{"sample_id": "393282011", "prediction": "These animals in the picture are giraffes. Giraffes are known for their long necks and distinctive spotted coats. They are native to Africa and are", "baseline": "react", "latency_sec": 1.206, "metadata": {"open_answer": true}}
+{"sample_id": "524577018", "prediction": "The building is made of red-colored stone.", "baseline": "react", "latency_sec": 0.582, "metadata": {"open_answer": true}}
+{"sample_id": "524577024", "prediction": "The clock is located on the side of a building, presumably attached to it.", "baseline": "react", "latency_sec": 0.71, "metadata": {"open_answer": true}}
+{"sample_id": "262386034", "prediction": "No, the toilet does not appear to be dirty. It looks clean and well-maintained.", "baseline": "react", "latency_sec": 0.771, "metadata": {"open_answer": true}}
+{"sample_id": "262275001", "prediction": "The horse in the image is brown.", "baseline": "react", "latency_sec": 0.503, "metadata": {"open_answer": true}}
+{"sample_id": "524621009", "prediction": "The animal in the picture is a giraffe. Giraffes are the tallest land animals and are characterized by their long necks, legs, and distinctive coat", "baseline": "react", "latency_sec": 1.055, "metadata": {"open_answer": true}}
+{"sample_id": "524502000", "prediction": "The red object in the picture is a tree fork.", "baseline": "react", "latency_sec": 0.598, "metadata": {"open_answer": true}}
+{"sample_id": "524382000", "prediction": "It is most likely beagles. Beagles have the typical head shape and coloration, and they often work in packs in hunting activities, which could", "baseline": "react", "latency_sec": 1.097, "metadata": {"open_answer": true}}
+{"sample_id": "393274000", "prediction": "This is a passenger train.", "baseline": "react", "latency_sec": 0.429, "metadata": {"open_answer": true}}
+{"sample_id": "262605002", "prediction": "The person is throwing an object, possibly a piece of clothing or a card.", "baseline": "react", "latency_sec": 0.794, "metadata": {"open_answer": true}}
+{"sample_id": "524611004", "prediction": "To determine if the shadow appears on the left or right, we need to consider the position of the sun relative to the train. If the sun is high in", "baseline": "react", "latency_sec": 1.077, "metadata": {"open_answer": true}}
+{"sample_id": "262371006", "prediction": "Thought 1: The image shows one cat, which is sitting on top of a bag.", "baseline": "react", "latency_sec": 0.798, "metadata": {"open_answer": true}}
+{"sample_id": "393410000", "prediction": "No, this is not a propeller plane. The image shows a commercial jet airplane flying high in the clear blue sky.", "baseline": "react", "latency_sec": 0.958, "metadata": {"open_answer": true}}

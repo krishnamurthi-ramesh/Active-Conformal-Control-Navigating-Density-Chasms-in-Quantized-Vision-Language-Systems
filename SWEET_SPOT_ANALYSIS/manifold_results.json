@@ -1,0 +1,314 @@
+{
+  "qwen-2.5-1.5b": [
+    {
+      "threshold": 0.001,
+      "accuracy": 0.3359375,
+      "efficiency": 0.0009023234829686443,
+      "handoff_rate": 1.0
+    },
+    {
+      "threshold": 0.002,
+      "accuracy": 0.3359375,
+      "efficiency": 0.0011279043537108053,
+      "handoff_rate": 1.0
+    },
+    {
+      "threshold": 0.004,
+      "accuracy": 0.3359375,
+      "efficiency": 0.004060455673358899,
+      "handoff_rate": 1.0
+    },
+    {
+      "threshold": 0.008,
+      "accuracy": 0.3359375,
+      "efficiency": 0.018046469659372885,
+      "handoff_rate": 0.998046875
+    },
+    {
+      "threshold": 0.012,
+      "accuracy": 0.3359375,
+      "efficiency": 0.036769681930972256,
+      "handoff_rate": 0.998046875
+    },
+    {
+      "threshold": 0.016,
+      "accuracy": 0.3359375,
+      "efficiency": 0.05549289420257162,
+      "handoff_rate": 0.99609375
+    },
+    {
+      "threshold": 0.02,
+      "accuracy": 0.3359375,
+      "efficiency": 0.10534626663658922,
+      "handoff_rate": 0.9921875
+    },
+    {
+      "threshold": 0.025,
+      "accuracy": 0.33203125,
+      "efficiency": 0.37559214978569816,
+      "handoff_rate": 0.84375
+    },
+    {
+      "threshold": 0.03,
+      "accuracy": 0.3046875,
+      "efficiency": 0.7861493345364313,
+      "handoff_rate": 0.33984375
+    },
+    {
+      "threshold": 0.04,
+      "accuracy": 0.2890625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 0.06,
+      "accuracy": 0.2890625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 0.1,
+      "accuracy": 0.2890625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 0.2,
+      "accuracy": 0.2890625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 0.3,
+      "accuracy": 0.2890625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 0.5,
+      "accuracy": 0.2890625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 0.8,
+      "accuracy": 0.2890625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 1.2,
+      "accuracy": 0.2890625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    }
+  ],
+  "phi-3-mini": [
+    {
+      "threshold": 0.001,
+      "accuracy": 0.3359375,
+      "efficiency": 0.000441306266548985,
+      "handoff_rate": 1.0
+    },
+    {
+      "threshold": 0.002,
+      "accuracy": 0.3359375,
+      "efficiency": 0.00088261253309797,
+      "handoff_rate": 1.0
+    },
+    {
+      "threshold": 0.004,
+      "accuracy": 0.3359375,
+      "efficiency": 0.00176522506619594,
+      "handoff_rate": 1.0
+    },
+    {
+      "threshold": 0.008,
+      "accuracy": 0.3359375,
+      "efficiency": 0.003089143865842895,
+      "handoff_rate": 1.0
+    },
+    {
+      "threshold": 0.012,
+      "accuracy": 0.3359375,
+      "efficiency": 0.00441306266548985,
+      "handoff_rate": 1.0
+    },
+    {
+      "threshold": 0.016,
+      "accuracy": 0.3359375,
+      "efficiency": 0.005736981465136805,
+      "handoff_rate": 1.0
+    },
+    {
+      "threshold": 0.02,
+      "accuracy": 0.3359375,
+      "efficiency": 0.007502206531332745,
+      "handoff_rate": 1.0
+    },
+    {
+      "threshold": 0.025,
+      "accuracy": 0.3359375,
+      "efficiency": 0.009708737864077669,
+      "handoff_rate": 0.998046875
+    },
+    {
+      "threshold": 0.03,
+      "accuracy": 0.3359375,
+      "efficiency": 0.01147396293027361,
+      "handoff_rate": 0.99609375
+    },
+    {
+      "threshold": 0.04,
+      "accuracy": 0.3359375,
+      "efficiency": 0.015445719329214475,
+      "handoff_rate": 0.9921875
+    },
+    {
+      "threshold": 0.06,
+      "accuracy": 0.3359375,
+      "efficiency": 0.026037069726390114,
+      "handoff_rate": 0.982421875
+    },
+    {
+      "threshold": 0.1,
+      "accuracy": 0.3359375,
+      "efficiency": 0.05648720211827008,
+      "handoff_rate": 0.94921875
+    },
+    {
+      "threshold": 0.2,
+      "accuracy": 0.283203125,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 0.3,
+      "accuracy": 0.283203125,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 0.5,
+      "accuracy": 0.283203125,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 0.8,
+      "accuracy": 0.283203125,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 1.2,
+      "accuracy": 0.283203125,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    }
+  ],
+  "mistral-7b": [
+    {
+      "threshold": 0.001,
+      "accuracy": 0.333984375,
+      "efficiency": 0.3394489422825803,
+      "handoff_rate": 0.90625
+    },
+    {
+      "threshold": 0.002,
+      "accuracy": 0.31640625,
+      "efficiency": 0.8976234003656307,
+      "handoff_rate": 0.14453125
+    },
+    {
+      "threshold": 0.004,
+      "accuracy": 0.318359375,
+      "efficiency": 0.9974536432488901,
+      "handoff_rate": 0.0078125
+    },
+    {
+      "threshold": 0.008,
+      "accuracy": 0.318359375,
+      "efficiency": 0.9987594672238183,
+      "handoff_rate": 0.00390625
+    },
+    {
+      "threshold": 0.012,
+      "accuracy": 0.318359375,
+      "efficiency": 0.9991512144162967,
+      "handoff_rate": 0.00390625
+    },
+    {
+      "threshold": 0.016,
+      "accuracy": 0.318359375,
+      "efficiency": 0.9996082528075215,
+      "handoff_rate": 0.00390625
+    },
+    {
+      "threshold": 0.02,
+      "accuracy": 0.31640625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 0.025,
+      "accuracy": 0.31640625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 0.03,
+      "accuracy": 0.31640625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 0.04,
+      "accuracy": 0.31640625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 0.06,
+      "accuracy": 0.31640625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 0.1,
+      "accuracy": 0.31640625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 0.2,
+      "accuracy": 0.31640625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 0.3,
+      "accuracy": 0.31640625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 0.5,
+      "accuracy": 0.31640625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 0.8,
+      "accuracy": 0.31640625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    },
+    {
+      "threshold": 1.2,
+      "accuracy": 0.31640625,
+      "efficiency": 1.0,
+      "handoff_rate": 0.0
+    }
+  ]
+}

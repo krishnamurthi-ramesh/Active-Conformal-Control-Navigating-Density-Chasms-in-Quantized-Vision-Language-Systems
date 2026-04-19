@@ -1,0 +1,300 @@
+{"sample_id": "655", "prediction": "Yes, the value for Russia is the highest in this chart.", "baseline": "vista", "latency_sec": 0.755, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "115", "prediction": "The age gap between the two individuals in the image cannot be determined from the image alone.", "baseline": "vista", "latency_sec": 1.254, "metadata": {"question_type": "free_form"}}
+{"sample_id": "26", "prediction": "No", "baseline": "vista", "latency_sec": 0.295, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "760", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.309, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "282", "prediction": "25%", "baseline": "vista", "latency_sec": 0.355, "metadata": {"question_type": "free_form"}}
+{"sample_id": "251", "prediction": "3", "baseline": "vista", "latency_sec": 0.171, "metadata": {"question_type": "free_form"}}
+{"sample_id": "229", "prediction": "0.30%", "baseline": "vista", "latency_sec": 3.287, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "143", "prediction": "6.0", "baseline": "vista", "latency_sec": 0.212, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "755", "prediction": "The function \\( f(x) = c \\) is a constant function, where \\( c \\) is a constant value. This means that for any", "baseline": "vista", "latency_sec": 1.76, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "105", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.307, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "693", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.272, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "759", "prediction": "2", "baseline": "vista", "latency_sec": 0.177, "metadata": {"question_type": "free_form"}}
+{"sample_id": "914", "prediction": "9", "baseline": "vista", "latency_sec": 0.172, "metadata": {"question_type": "free_form"}}
+{"sample_id": "559", "prediction": "59", "baseline": "vista", "latency_sec": 0.733, "metadata": {"question_type": "free_form"}}
+{"sample_id": "90", "prediction": "5", "baseline": "vista", "latency_sec": 0.175, "metadata": {"question_type": "free_form"}}
+{"sample_id": "605", "prediction": "5", "baseline": "vista", "latency_sec": 0.174, "metadata": {"question_type": "free_form"}}
+{"sample_id": "433", "prediction": "The age gap between the two individuals in the image cannot be determined from the information provided.", "baseline": "vista", "latency_sec": 0.77, "metadata": {"question_type": "free_form"}}
+{"sample_id": "33", "prediction": "18.84", "baseline": "vista", "latency_sec": 0.291, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "31", "prediction": "False", "baseline": "vista", "latency_sec": 0.312, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "96", "prediction": "3.9", "baseline": "vista", "latency_sec": 0.234, "metadata": {"question_type": "free_form"}}
+{"sample_id": "224", "prediction": "No, this is not a periodic function. The graph of \\( g(x) = 0.5^x \\) is an exponential decay function", "baseline": "vista", "latency_sec": 1.464, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "239", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.294, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "518", "prediction": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!", "baseline": "vista", "latency_sec": 6.297, "metadata": {"question_type": "free_form"}}
+{"sample_id": "617", "prediction": "The normal component of the acceleration vector \\( \\mathbf{a} \\) can be estimated by considering the angle between the acceleration vector and the x", "baseline": "vista", "latency_sec": 1.016, "metadata": {"question_type": "free_form"}}
+{"sample_id": "28", "prediction": "The radius of the circle is 7.5 inches.", "baseline": "vista", "latency_sec": 0.536, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "575", "prediction": "To solve for \\( z \\), we need to use the fact that \\( T \\) is the orthocenter of \\( \\triangle PQR \\", "baseline": "vista", "latency_sec": 0.963, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "204", "prediction": "\u06f1\u06f6 \u0634\u06cc\u0634\u0647 \u0628\u062f\u0648\u0646 \u0631\u0646\u06af \u062f\u0627\u0631\u062f.", "baseline": "vista", "latency_sec": 0.576, "metadata": {"question_type": "free_form"}}
+{"sample_id": "734", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.297, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "666", "prediction": "4", "baseline": "vista", "latency_sec": 0.184, "metadata": {"question_type": "free_form"}}
+{"sample_id": "719", "prediction": "20 - 7 = 13", "baseline": "vista", "latency_sec": 0.351, "metadata": {"question_type": "free_form"}}
+{"sample_id": "987", "prediction": "1400 cm\u00b2", "baseline": "vista", "latency_sec": 0.495, "metadata": {"question_type": "free_form"}}
+{"sample_id": "430", "prediction": "-1", "baseline": "vista", "latency_sec": 0.299, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "226", "prediction": "Quarter", "baseline": "vista", "latency_sec": 0.147, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "460", "prediction": "The first organism to experience change as a result of fewer leaves would be the cricket. The cricket feeds on the leaves, so a reduction in leaf availability", "baseline": "vista", "latency_sec": 1.347, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "604", "prediction": "No", "baseline": "vista", "latency_sec": 0.282, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "285", "prediction": "25.0", "baseline": "vista", "latency_sec": 0.213, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "829", "prediction": "The matchstick that needs to be moved is the one in the middle, which connects the two vertical segments of the cross. Moving this matchstick will", "baseline": "vista", "latency_sec": 0.951, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "891", "prediction": "Four", "baseline": "vista", "latency_sec": 0.238, "metadata": {"question_type": "free_form"}}
+{"sample_id": "7", "prediction": "Half", "baseline": "vista", "latency_sec": 0.16, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "778", "prediction": "C", "baseline": "vista", "latency_sec": 0.317, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "826", "prediction": "The Superior Lobes", "baseline": "vista", "latency_sec": 0.376, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "164", "prediction": "35\u00b0", "baseline": "vista", "latency_sec": 0.211, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "715", "prediction": "No, this is not a periodic function. A periodic function repeats its values in regular intervals, but the given function \\( f(x) = \\frac", "baseline": "vista", "latency_sec": 4.012, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "984", "prediction": "False", "baseline": "vista", "latency_sec": 0.324, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "349", "prediction": "Recognition (Rec)", "baseline": "vista", "latency_sec": 2.052, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "965", "prediction": "The lowest visible yard line is 30 yards.", "baseline": "vista", "latency_sec": 0.899, "metadata": {"question_type": "free_form"}}
+{"sample_id": "160", "prediction": "12", "baseline": "vista", "latency_sec": 0.199, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "221", "prediction": "35.0", "baseline": "vista", "latency_sec": 0.253, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "782", "prediction": "18", "baseline": "vista", "latency_sec": 0.233, "metadata": {"question_type": "free_form"}}
+{"sample_id": "345", "prediction": "20", "baseline": "vista", "latency_sec": 0.325, "metadata": {"question_type": "free_form"}}
+{"sample_id": "991", "prediction": "The functions that have no zeros are q (y = 1/x) and r (y = 1/x^2).", "baseline": "vista", "latency_sec": 0.925, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "95", "prediction": "130\u00b0", "baseline": "vista", "latency_sec": 0.213, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "390", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.297, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "100", "prediction": "12", "baseline": "vista", "latency_sec": 0.251, "metadata": {"question_type": "free_form"}}
+{"sample_id": "368", "prediction": "False", "baseline": "vista", "latency_sec": 0.296, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "868", "prediction": "5", "baseline": "vista", "latency_sec": 0.16, "metadata": {"question_type": "free_form"}}
+{"sample_id": "353", "prediction": "The initial value problem for the flow process can be set up as follows:\n\n\\[\n\\frac{dQ}{dt} = -\\frac{", "baseline": "vista", "latency_sec": 1.774, "metadata": {"question_type": "free_form"}}
+{"sample_id": "619", "prediction": "16", "baseline": "vista", "latency_sec": 0.589, "metadata": {"question_type": "free_form"}}
+{"sample_id": "271", "prediction": "-10", "baseline": "vista", "latency_sec": 0.276, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "827", "prediction": "C", "baseline": "vista", "latency_sec": 0.82, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "45", "prediction": "-3", "baseline": "vista", "latency_sec": 0.191, "metadata": {"question_type": "free_form"}}
+{"sample_id": "748", "prediction": "25\u00b0", "baseline": "vista", "latency_sec": 0.189, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "471", "prediction": "8", "baseline": "vista", "latency_sec": 0.157, "metadata": {"question_type": "free_form"}}
+{"sample_id": "550", "prediction": "8", "baseline": "vista", "latency_sec": 0.232, "metadata": {"question_type": "free_form"}}
+{"sample_id": "128", "prediction": "6", "baseline": "vista", "latency_sec": 0.161, "metadata": {"question_type": "free_form"}}
+{"sample_id": "388", "prediction": "0.39", "baseline": "vista", "latency_sec": 0.239, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "81", "prediction": "0.8", "baseline": "vista", "latency_sec": 0.332, "metadata": {"question_type": "free_form"}}
+{"sample_id": "566", "prediction": "34\u00b0", "baseline": "vista", "latency_sec": 0.196, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "301", "prediction": "Dynamlang (ours)", "baseline": "vista", "latency_sec": 1.052, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "850", "prediction": "True", "baseline": "vista", "latency_sec": 0.304, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "644", "prediction": "10", "baseline": "vista", "latency_sec": 0.278, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "634", "prediction": "35\u00b0", "baseline": "vista", "latency_sec": 0.191, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "907", "prediction": "The military expenditure value was lower than 0.2% in 1973 and 1974.", "baseline": "vista", "latency_sec": 1.128, "metadata": {"question_type": "free_form"}}
+{"sample_id": "883", "prediction": "14", "baseline": "vista", "latency_sec": 0.226, "metadata": {"question_type": "free_form"}}
+{"sample_id": "371", "prediction": "4", "baseline": "vista", "latency_sec": 0.134, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "592", "prediction": "4", "baseline": "vista", "latency_sec": 0.162, "metadata": {"question_type": "free_form"}}
+{"sample_id": "197", "prediction": "0", "baseline": "vista", "latency_sec": 1.154, "metadata": {"question_type": "free_form"}}
+{"sample_id": "722", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.268, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "72", "prediction": "2", "baseline": "vista", "latency_sec": 0.139, "metadata": {"question_type": "free_form"}}
+{"sample_id": "47", "prediction": "6", "baseline": "vista", "latency_sec": 0.159, "metadata": {"question_type": "free_form"}}
+{"sample_id": "678", "prediction": "x = 12", "baseline": "vista", "latency_sec": 0.248, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "234", "prediction": "(C) 6", "baseline": "vista", "latency_sec": 0.294, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "792", "prediction": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!", "baseline": "vista", "latency_sec": 10.917, "metadata": {"question_type": "free_form"}}
+{"sample_id": "297", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.369, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "82", "prediction": "The area of the circle is given by $\\pi r^2 = 18\\pi$. Solving for $r$, we get $r", "baseline": "vista", "latency_sec": 0.895, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "876", "prediction": "90\u00b0", "baseline": "vista", "latency_sec": 0.214, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "979", "prediction": "7,390", "baseline": "vista", "latency_sec": 0.326, "metadata": {"question_type": "free_form"}}
+{"sample_id": "888", "prediction": "2", "baseline": "vista", "latency_sec": 0.16, "metadata": {"question_type": "free_form"}}
+{"sample_id": "104", "prediction": "3/4", "baseline": "vista", "latency_sec": 0.333, "metadata": {"question_type": "free_form"}}
+{"sample_id": "948", "prediction": "20.5", "baseline": "vista", "latency_sec": 0.232, "metadata": {"question_type": "free_form"}}
+{"sample_id": "955", "prediction": "108\u00b0", "baseline": "vista", "latency_sec": 0.216, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "465", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.264, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "651", "prediction": "7", "baseline": "vista", "latency_sec": 0.153, "metadata": {"question_type": "free_form"}}
+{"sample_id": "855", "prediction": "To find \\( x \\) such that lines \\( a \\) and \\( b \\) are parallel, we need to use the property that corresponding angles", "baseline": "vista", "latency_sec": 1.051, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "374", "prediction": "13", "baseline": "vista", "latency_sec": 0.268, "metadata": {"question_type": "free_form"}}
+{"sample_id": "167", "prediction": "The largest zero of the function \\( f(x) = \\frac{x^3 + 3x^2 - 6x - 8}{", "baseline": "vista", "latency_sec": 4.039, "metadata": {"question_type": "free_form"}}
+{"sample_id": "380", "prediction": "5", "baseline": "vista", "latency_sec": 0.422, "metadata": {"question_type": "free_form"}}
+{"sample_id": "364", "prediction": "50.0", "baseline": "vista", "latency_sec": 0.244, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "215", "prediction": "The range is 8 - 2 = 6.\nThe range is 6.", "baseline": "vista", "latency_sec": 0.616, "metadata": {"question_type": "free_form"}}
+{"sample_id": "687", "prediction": "An increase in phytoplankton production would lead to an increase in the number of krill.", "baseline": "vista", "latency_sec": 0.758, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "274", "prediction": "7", "baseline": "vista", "latency_sec": 0.134, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "971", "prediction": "no", "baseline": "vista", "latency_sec": 0.279, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "700", "prediction": "6", "baseline": "vista", "latency_sec": 0.136, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "664", "prediction": "7", "baseline": "vista", "latency_sec": 3.248, "metadata": {"question_type": "free_form"}}
+{"sample_id": "74", "prediction": "47.6%", "baseline": "vista", "latency_sec": 0.614, "metadata": {"question_type": "free_form"}}
+{"sample_id": "624", "prediction": "5", "baseline": "vista", "latency_sec": 0.787, "metadata": {"question_type": "free_form"}}
+{"sample_id": "908", "prediction": "The lizard would most likely have a decrease in its population if the population of ants decreases, as it preys on ants.", "baseline": "vista", "latency_sec": 0.866, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "176", "prediction": "To find the length of \\( RS \\) in the equilateral triangle \\( \\triangle QRS \\), we need to use the property that all sides", "baseline": "vista", "latency_sec": 0.926, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "547", "prediction": "The organisms that will be most directly affected by a decrease in the amount of grass are the organisms that feed on grass, such as the cricket and mouse", "baseline": "vista", "latency_sec": 1.002, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "747", "prediction": "104", "baseline": "vista", "latency_sec": 0.304, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "995", "prediction": "18.37", "baseline": "vista", "latency_sec": 0.545, "metadata": {"question_type": "free_form"}}
+{"sample_id": "168", "prediction": "Color C", "baseline": "vista", "latency_sec": 0.257, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "474", "prediction": "20-30 miles per gallon", "baseline": "vista", "latency_sec": 0.406, "metadata": {"question_type": "free_form"}}
+{"sample_id": "389", "prediction": "At a price of $320, there is a surplus.", "baseline": "vista", "latency_sec": 0.507, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "277", "prediction": "E", "baseline": "vista", "latency_sec": 0.248, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "656", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.307, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "705", "prediction": "Yes, the heart appears to be wider than more than half the width of the thorax in this chest X-ray image.", "baseline": "vista", "latency_sec": 1.069, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "571", "prediction": "No", "baseline": "vista", "latency_sec": 0.253, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "225", "prediction": "[0, 1, 2, 3, 4, 5, 6, 7]", "baseline": "vista", "latency_sec": 1.026, "metadata": {"question_type": "free_form"}}
+{"sample_id": "702", "prediction": "400", "baseline": "vista", "latency_sec": 3.5, "metadata": {"question_type": "free_form"}}
+{"sample_id": "333", "prediction": "tan X = 13 / 5", "baseline": "vista", "latency_sec": 0.391, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "864", "prediction": "The age gap between the two individuals in the image is not specified, so it cannot be determined from the information provided.", "baseline": "vista", "latency_sec": 4.4, "metadata": {"question_type": "free_form"}}
+{"sample_id": "787", "prediction": "50%", "baseline": "vista", "latency_sec": 0.364, "metadata": {"question_type": "free_form"}}
+{"sample_id": "795", "prediction": "The man appears to be older than the woman, likely in their 50s or 60s.", "baseline": "vista", "latency_sec": 0.898, "metadata": {"question_type": "free_form"}}
+{"sample_id": "58", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.292, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "235", "prediction": "Yes, the epigraph of a function \\( f \\) is an infinite set.", "baseline": "vista", "latency_sec": 0.635, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "842", "prediction": "1/3", "baseline": "vista", "latency_sec": 0.198, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "983", "prediction": "8", "baseline": "vista", "latency_sec": 0.228, "metadata": {"question_type": "free_form"}}
+{"sample_id": "825", "prediction": "False", "baseline": "vista", "latency_sec": 0.304, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "324", "prediction": "45", "baseline": "vista", "latency_sec": 0.547, "metadata": {"question_type": "free_form"}}
+{"sample_id": "411", "prediction": "100%", "baseline": "vista", "latency_sec": 0.684, "metadata": {"question_type": "free_form"}}
+{"sample_id": "275", "prediction": "5.0", "baseline": "vista", "latency_sec": 0.193, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "68", "prediction": "8cm", "baseline": "vista", "latency_sec": 0.179, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "217", "prediction": "5", "baseline": "vista", "latency_sec": 0.149, "metadata": {"question_type": "free_form"}}
+{"sample_id": "581", "prediction": "3", "baseline": "vista", "latency_sec": 0.16, "metadata": {"question_type": "free_form"}}
+{"sample_id": "736", "prediction": "34\u00b0", "baseline": "vista", "latency_sec": 0.207, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "323", "prediction": "Green", "baseline": "vista", "latency_sec": 0.135, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "218", "prediction": "2", "baseline": "vista", "latency_sec": 0.162, "metadata": {"question_type": "free_form"}}
+{"sample_id": "672", "prediction": "2", "baseline": "vista", "latency_sec": 0.164, "metadata": {"question_type": "free_form"}}
+{"sample_id": "512", "prediction": "The y-coordinate of the center of mass of an isosceles right triangle with uniform areal density is \\(\\frac{a}{2}\\", "baseline": "vista", "latency_sec": 1.022, "metadata": {"question_type": "free_form"}}
+{"sample_id": "406", "prediction": "15", "baseline": "vista", "latency_sec": 0.224, "metadata": {"question_type": "free_form"}}
+{"sample_id": "659", "prediction": "2019", "baseline": "vista", "latency_sec": 0.478, "metadata": {"question_type": "free_form"}}
+{"sample_id": "470", "prediction": "PDE-Refiner (ours)", "baseline": "vista", "latency_sec": 1.198, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "147", "prediction": "Sample B", "baseline": "vista", "latency_sec": 0.277, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "272", "prediction": "1:30", "baseline": "vista", "latency_sec": 0.234, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "993", "prediction": "9", "baseline": "vista", "latency_sec": 0.164, "metadata": {"question_type": "free_form"}}
+{"sample_id": "253", "prediction": "2", "baseline": "vista", "latency_sec": 0.223, "metadata": {"question_type": "free_form"}}
+{"sample_id": "763", "prediction": "7", "baseline": "vista", "latency_sec": 0.159, "metadata": {"question_type": "free_form"}}
+{"sample_id": "975", "prediction": "6", "baseline": "vista", "latency_sec": 0.158, "metadata": {"question_type": "free_form"}}
+{"sample_id": "552", "prediction": "3", "baseline": "vista", "latency_sec": 0.516, "metadata": {"question_type": "free_form"}}
+{"sample_id": "270", "prediction": "125", "baseline": "vista", "latency_sec": 0.202, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "765", "prediction": "No", "baseline": "vista", "latency_sec": 0.225, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "599", "prediction": "5", "baseline": "vista", "latency_sec": 0.189, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "439", "prediction": "Yes, the function appears to be convex.", "baseline": "vista", "latency_sec": 0.4, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "598", "prediction": "The masked flowerpiercer (Diglossa cyanea) has the most curved beak among the species listed in the image.", "baseline": "vista", "latency_sec": 0.999, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "409", "prediction": "3", "baseline": "vista", "latency_sec": 0.184, "metadata": {"question_type": "free_form"}}
+{"sample_id": "926", "prediction": "The area under the curve \\( f(x) = \\sqrt{9 - (x-3)^2} \\) from \\( x = 3", "baseline": "vista", "latency_sec": 0.998, "metadata": {"question_type": "free_form"}}
+{"sample_id": "882", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.266, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "142", "prediction": "Yes, the pizza is split in half.", "baseline": "vista", "latency_sec": 0.478, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "522", "prediction": "7", "baseline": "vista", "latency_sec": 0.138, "metadata": {"question_type": "free_form"}}
+{"sample_id": "506", "prediction": "2015-2016", "baseline": "vista", "latency_sec": 0.649, "metadata": {"question_type": "free_form"}}
+{"sample_id": "94", "prediction": "36\u00b0", "baseline": "vista", "latency_sec": 0.195, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "774", "prediction": "True", "baseline": "vista", "latency_sec": 0.301, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "49", "prediction": "1 + 1 = 2", "baseline": "vista", "latency_sec": 0.464, "metadata": {"question_type": "free_form"}}
+{"sample_id": "113", "prediction": "20", "baseline": "vista", "latency_sec": 0.33, "metadata": {"question_type": "free_form"}}
+{"sample_id": "157", "prediction": "7,303", "baseline": "vista", "latency_sec": 0.343, "metadata": {"question_type": "free_form"}}
+{"sample_id": "643", "prediction": "25", "baseline": "vista", "latency_sec": 0.167, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "959", "prediction": "32", "baseline": "vista", "latency_sec": 0.168, "metadata": {"question_type": "free_form"}}
+{"sample_id": "812", "prediction": "Yes, the gray bars (representing \"Minor threat\") generally have smaller values compared to the green bars (representing \"Major threat\").", "baseline": "vista", "latency_sec": 1.699, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "697", "prediction": "27.0", "baseline": "vista", "latency_sec": 0.238, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "957", "prediction": "True", "baseline": "vista", "latency_sec": 0.303, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "611", "prediction": "2", "baseline": "vista", "latency_sec": 0.136, "metadata": {"question_type": "free_form"}}
+{"sample_id": "66", "prediction": "E", "baseline": "vista", "latency_sec": 0.217, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "395", "prediction": "The average age of the people in this picture appears to be around 10-12 years old, based on their height and clothing.", "baseline": "vista", "latency_sec": 1.039, "metadata": {"question_type": "free_form"}}
+{"sample_id": "391", "prediction": "20", "baseline": "vista", "latency_sec": 0.161, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "964", "prediction": "6", "baseline": "vista", "latency_sec": 0.134, "metadata": {"question_type": "free_form"}}
+{"sample_id": "480", "prediction": "False", "baseline": "vista", "latency_sec": 0.297, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "542", "prediction": "4", "baseline": "vista", "latency_sec": 1.904, "metadata": {"question_type": "free_form"}}
+{"sample_id": "258", "prediction": "There is 1 bag with 60 red buttons, and 3 bags with 70, 75, and 77 red", "baseline": "vista", "latency_sec": 0.938, "metadata": {"question_type": "free_form"}}
+{"sample_id": "567", "prediction": "3", "baseline": "vista", "latency_sec": 0.179, "metadata": {"question_type": "free_form"}}
+{"sample_id": "12", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.296, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "831", "prediction": "374 + 305 = 679\nThe author wrote 679 words in total on Thursday and Friday.", "baseline": "vista", "latency_sec": 0.904, "metadata": {"question_type": "free_form"}}
+{"sample_id": "739", "prediction": "13 + 13 = 26\n\nHannah needs 26 dollars.", "baseline": "vista", "latency_sec": 0.645, "metadata": {"question_type": "free_form"}}
+{"sample_id": "118", "prediction": "The maximum value of the function shown in the graph is approximately 1.0, which occurs at \\( x = 2 \\).", "baseline": "vista", "latency_sec": 0.998, "metadata": {"question_type": "free_form"}}
+{"sample_id": "699", "prediction": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!", "baseline": "vista", "latency_sec": 13.59, "metadata": {"question_type": "free_form"}}
+{"sample_id": "937", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.371, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "769", "prediction": "Solution A", "baseline": "vista", "latency_sec": 0.197, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "900", "prediction": "True", "baseline": "vista", "latency_sec": 0.295, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "788", "prediction": "The age gap between the two individuals in the image is not specified, so I cannot provide an exact number. However, based on their appearance and attire", "baseline": "vista", "latency_sec": 0.969, "metadata": {"question_type": "free_form"}}
+{"sample_id": "657", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.319, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "956", "prediction": "6", "baseline": "vista", "latency_sec": 0.163, "metadata": {"question_type": "free_form"}}
+{"sample_id": "999", "prediction": "The tangential component of the acceleration vector \\( \\mathbf{a} \\) can be estimated by considering the slope of the tangent line at the", "baseline": "vista", "latency_sec": 1.146, "metadata": {"question_type": "free_form"}}
+{"sample_id": "932", "prediction": "The phytoplankton would decrease in quantity.", "baseline": "vista", "latency_sec": 0.569, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "446", "prediction": "4", "baseline": "vista", "latency_sec": 0.149, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "162", "prediction": "2", "baseline": "vista", "latency_sec": 0.147, "metadata": {"question_type": "free_form"}}
+{"sample_id": "909", "prediction": "0.25", "baseline": "vista", "latency_sec": 0.247, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "4", "prediction": "4", "baseline": "vista", "latency_sec": 0.164, "metadata": {"question_type": "free_form"}}
+{"sample_id": "740", "prediction": "0%", "baseline": "vista", "latency_sec": 0.27, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "737", "prediction": "58", "baseline": "vista", "latency_sec": 0.184, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "931", "prediction": "50\u00b0", "baseline": "vista", "latency_sec": 0.189, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "513", "prediction": "42.2%-62.6%", "baseline": "vista", "latency_sec": 0.56, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "781", "prediction": "24", "baseline": "vista", "latency_sec": 0.275, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "183", "prediction": "4", "baseline": "vista", "latency_sec": 0.162, "metadata": {"question_type": "free_form"}}
+{"sample_id": "520", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.286, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "109", "prediction": "4", "baseline": "vista", "latency_sec": 0.161, "metadata": {"question_type": "free_form"}}
+{"sample_id": "641", "prediction": "14 mg/L\u00b7s", "baseline": "vista", "latency_sec": 0.483, "metadata": {"question_type": "free_form"}}
+{"sample_id": "306", "prediction": "no", "baseline": "vista", "latency_sec": 0.28, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "1000", "prediction": "8", "baseline": "vista", "latency_sec": 0.168, "metadata": {"question_type": "free_form"}}
+{"sample_id": "797", "prediction": "6", "baseline": "vista", "latency_sec": 0.185, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "895", "prediction": "MuBERT", "baseline": "vista", "latency_sec": 1.147, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "974", "prediction": "No", "baseline": "vista", "latency_sec": 0.318, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "835", "prediction": "0%", "baseline": "vista", "latency_sec": 0.352, "metadata": {"question_type": "free_form"}}
+{"sample_id": "383", "prediction": "131,253.5", "baseline": "vista", "latency_sec": 0.621, "metadata": {"question_type": "free_form"}}
+{"sample_id": "799", "prediction": "13", "baseline": "vista", "latency_sec": 0.169, "metadata": {"question_type": "free_form"}}
+{"sample_id": "166", "prediction": "E)", "baseline": "vista", "latency_sec": 1.458, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "553", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.257, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "544", "prediction": "44", "baseline": "vista", "latency_sec": 0.459, "metadata": {"question_type": "free_form"}}
+{"sample_id": "1", "prediction": "The spring force does negative work, decreasing speed and kinetic energy.", "baseline": "vista", "latency_sec": 1.299, "metadata": {"question_type": "free_form"}}
+{"sample_id": "614", "prediction": "The age gap between the two individuals in the image is approximately 10 years.", "baseline": "vista", "latency_sec": 1.014, "metadata": {"question_type": "free_form"}}
+{"sample_id": "332", "prediction": "15,908", "baseline": "vista", "latency_sec": 0.354, "metadata": {"question_type": "free_form"}}
+{"sample_id": "501", "prediction": "6", "baseline": "vista", "latency_sec": 0.176, "metadata": {"question_type": "free_form"}}
+{"sample_id": "20", "prediction": "No", "baseline": "vista", "latency_sec": 0.471, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "809", "prediction": "1:3", "baseline": "vista", "latency_sec": 0.243, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "372", "prediction": "2", "baseline": "vista", "latency_sec": 0.171, "metadata": {"question_type": "free_form"}}
+{"sample_id": "315", "prediction": "b. 25a\u00b2 + 50", "baseline": "vista", "latency_sec": 0.638, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "246", "prediction": "To predict the relative increase in water vapor in the atmosphere based on a temperature rise of \\(2.0 \\, \\text{K}\\), we", "baseline": "vista", "latency_sec": 1.218, "metadata": {"question_type": "free_form"}}
+{"sample_id": "60", "prediction": "The age gap between the two people in the image cannot be determined from the description provided.", "baseline": "vista", "latency_sec": 0.89, "metadata": {"question_type": "free_form"}}
+{"sample_id": "247", "prediction": "To find the period \\( T \\) of the resulting elliptical orbit, we can use Kepler's Third Law, which relates the period of an orbit", "baseline": "vista", "latency_sec": 1.709, "metadata": {"question_type": "free_form"}}
+{"sample_id": "866", "prediction": "150\u00b0", "baseline": "vista", "latency_sec": 0.27, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "934", "prediction": "10000", "baseline": "vista", "latency_sec": 0.367, "metadata": {"question_type": "free_form"}}
+{"sample_id": "88", "prediction": "10", "baseline": "vista", "latency_sec": 0.209, "metadata": {"question_type": "free_form"}}
+{"sample_id": "750", "prediction": "11", "baseline": "vista", "latency_sec": 0.194, "metadata": {"question_type": "free_form"}}
+{"sample_id": "498", "prediction": "Yes, the water is half full.", "baseline": "vista", "latency_sec": 0.48, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "71", "prediction": "18", "baseline": "vista", "latency_sec": 0.185, "metadata": {"question_type": "free_form"}}
+{"sample_id": "546", "prediction": "1.23", "baseline": "vista", "latency_sec": 0.502, "metadata": {"question_type": "free_form"}}
+{"sample_id": "129", "prediction": "3", "baseline": "vista", "latency_sec": 0.172, "metadata": {"question_type": "free_form"}}
+{"sample_id": "132", "prediction": "2", "baseline": "vista", "latency_sec": 0.152, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "676", "prediction": "1", "baseline": "vista", "latency_sec": 0.227, "metadata": {"question_type": "free_form"}}
+{"sample_id": "487", "prediction": "True", "baseline": "vista", "latency_sec": 0.309, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "563", "prediction": "73", "baseline": "vista", "latency_sec": 0.289, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "170", "prediction": "-10", "baseline": "vista", "latency_sec": 0.288, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "856", "prediction": "simple", "baseline": "vista", "latency_sec": 0.194, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "541", "prediction": "The cube with the letter 'E' on it is not identical to the unfolded net.", "baseline": "vista", "latency_sec": 0.721, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "622", "prediction": "18", "baseline": "vista", "latency_sec": 0.167, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "434", "prediction": "x = 180\u00b0 - (120\u00b0 - k) - 120\u00b0 = k - 180\u00b0", "baseline": "vista", "latency_sec": 0.912, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "867", "prediction": "14", "baseline": "vista", "latency_sec": 0.204, "metadata": {"question_type": "free_form"}}
+{"sample_id": "785", "prediction": "The removal of algae and floating plants would likely have several negative impacts on the ecosystem:\n\n1. **Loss of Primary Producers**: Algae and floating", "baseline": "vista", "latency_sec": 1.028, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "939", "prediction": "The sea horse would be most affected if the clams all died, as they feed on clams.", "baseline": "vista", "latency_sec": 1.383, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "707", "prediction": "60\u00b0", "baseline": "vista", "latency_sec": 0.2, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "206", "prediction": "The scale factor from \\( Q \\) to \\( Q' \\) is 3, as \\( Q' \\) is three times the length of", "baseline": "vista", "latency_sec": 1.282, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "731", "prediction": "40", "baseline": "vista", "latency_sec": 0.178, "metadata": {"question_type": "free_form"}}
+{"sample_id": "320", "prediction": "6", "baseline": "vista", "latency_sec": 0.137, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "845", "prediction": "The age gap between the two individuals in the image cannot be determined from the image alone.", "baseline": "vista", "latency_sec": 0.787, "metadata": {"question_type": "free_form"}}
+{"sample_id": "688", "prediction": "0-5", "baseline": "vista", "latency_sec": 6.624, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "972", "prediction": "False", "baseline": "vista", "latency_sec": 0.364, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "832", "prediction": "-2", "baseline": "vista", "latency_sec": 3.403, "metadata": {"question_type": "free_form"}}
+{"sample_id": "449", "prediction": "The average motorcycle gets about 50-60 miles per gallon (mpg) on the highway.", "baseline": "vista", "latency_sec": 0.923, "metadata": {"question_type": "free_form"}}
+{"sample_id": "530", "prediction": "5", "baseline": "vista", "latency_sec": 0.142, "metadata": {"question_type": "free_form"}}
+{"sample_id": "463", "prediction": "2", "baseline": "vista", "latency_sec": 0.161, "metadata": {"question_type": "free_form"}}
+{"sample_id": "124", "prediction": "alternate", "baseline": "vista", "latency_sec": 0.187, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "254", "prediction": "True", "baseline": "vista", "latency_sec": 0.295, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "231", "prediction": "Soft", "baseline": "vista", "latency_sec": 1.68, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "828", "prediction": "2.7", "baseline": "vista", "latency_sec": 0.236, "metadata": {"question_type": "free_form"}}
+{"sample_id": "347", "prediction": "False", "baseline": "vista", "latency_sec": 0.301, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "22", "prediction": "0", "baseline": "vista", "latency_sec": 0.392, "metadata": {"question_type": "free_form"}}
+{"sample_id": "603", "prediction": "200", "baseline": "vista", "latency_sec": 3.543, "metadata": {"question_type": "free_form"}}
+{"sample_id": "568", "prediction": "Subtract 5 from 7. 2 is higher.\nThe difference is 2.", "baseline": "vista", "latency_sec": 0.661, "metadata": {"question_type": "free_form"}}
+{"sample_id": "236", "prediction": "12", "baseline": "vista", "latency_sec": 0.248, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "735", "prediction": "False", "baseline": "vista", "latency_sec": 0.293, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "968", "prediction": "5", "baseline": "vista", "latency_sec": 0.164, "metadata": {"question_type": "free_form"}}
+{"sample_id": "8", "prediction": "yes", "baseline": "vista", "latency_sec": 0.295, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "73", "prediction": "To complete the matrix, follow these steps:\n\n1. Identify the pattern in the top row:\n   - The first shape is a hexagon.\n  ", "baseline": "vista", "latency_sec": 1.066, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "725", "prediction": "-36 km/h", "baseline": "vista", "latency_sec": 0.746, "metadata": {"question_type": "free_form"}}
+{"sample_id": "647", "prediction": "B", "baseline": "vista", "latency_sec": 0.481, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "61", "prediction": "No", "baseline": "vista", "latency_sec": 0.2, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "875", "prediction": "2", "baseline": "vista", "latency_sec": 0.161, "metadata": {"question_type": "free_form"}}
+{"sample_id": "70", "prediction": "The image provided is a black-and-white photograph of two individuals, but it does not provide any information about their ages or relationship to each other. Therefore", "baseline": "vista", "latency_sec": 6.19, "metadata": {"question_type": "free_form"}}
+{"sample_id": "873", "prediction": "Two", "baseline": "vista", "latency_sec": 0.259, "metadata": {"question_type": "free_form"}}
+{"sample_id": "339", "prediction": "115\u00b0", "baseline": "vista", "latency_sec": 0.227, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "729", "prediction": "2", "baseline": "vista", "latency_sec": 0.241, "metadata": {"question_type": "free_form"}}
+{"sample_id": "527", "prediction": "True", "baseline": "vista", "latency_sec": 0.31, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "244", "prediction": "No", "baseline": "vista", "latency_sec": 0.239, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "286", "prediction": "6cm", "baseline": "vista", "latency_sec": 0.172, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "686", "prediction": "Yes, the function is invertible.", "baseline": "vista", "latency_sec": 0.555, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "768", "prediction": "August", "baseline": "vista", "latency_sec": 0.188, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "220", "prediction": "55", "baseline": "vista", "latency_sec": 0.16, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "754", "prediction": "The fish population will decrease.", "baseline": "vista", "latency_sec": 0.35, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "136", "prediction": "64", "baseline": "vista", "latency_sec": 0.251, "metadata": {"question_type": "free_form"}}
+{"sample_id": "585", "prediction": "4", "baseline": "vista", "latency_sec": 0.135, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "591", "prediction": "4", "baseline": "vista", "latency_sec": 0.469, "metadata": {"question_type": "free_form"}}
+{"sample_id": "485", "prediction": "40\u00b0", "baseline": "vista", "latency_sec": 0.193, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "249", "prediction": "5", "baseline": "vista", "latency_sec": 0.159, "metadata": {"question_type": "free_form"}}
+{"sample_id": "710", "prediction": "0", "baseline": "vista", "latency_sec": 3.137, "metadata": {"question_type": "free_form"}}
+{"sample_id": "417", "prediction": "The person on the left appears to be older than the person on the right.", "baseline": "vista", "latency_sec": 0.84, "metadata": {"question_type": "free_form"}}
+{"sample_id": "195", "prediction": "130\u00b0", "baseline": "vista", "latency_sec": 0.23, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "97", "prediction": "0", "baseline": "vista", "latency_sec": 0.225, "metadata": {"question_type": "free_form"}}
+{"sample_id": "947", "prediction": "25\u00b0", "baseline": "vista", "latency_sec": 0.203, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "675", "prediction": "38.0", "baseline": "vista", "latency_sec": 0.227, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "442", "prediction": "Three", "baseline": "vista", "latency_sec": 0.225, "metadata": {"question_type": "free_form"}}
+{"sample_id": "363", "prediction": "2", "baseline": "vista", "latency_sec": 0.16, "metadata": {"question_type": "free_form"}}

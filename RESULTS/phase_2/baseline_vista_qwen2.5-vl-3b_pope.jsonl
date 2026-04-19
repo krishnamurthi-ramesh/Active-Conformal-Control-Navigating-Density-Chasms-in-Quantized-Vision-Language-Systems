@@ -1,0 +1,300 @@
+{"sample_id": "2619", "prediction": "Yes, there is a backpack in the image.", "baseline": "vista", "latency_sec": 0.986, "metadata": {"category": "adversarial"}}
+{"sample_id": "456", "prediction": "No", "baseline": "vista", "latency_sec": 0.323, "metadata": {"category": "adversarial"}}
+{"sample_id": "102", "prediction": "Yes, there is a baseball glove in the image", "baseline": "vista", "latency_sec": 0.541, "metadata": {"category": "adversarial"}}
+{"sample_id": "1126", "prediction": "Yes, there is a sandwich in the image.", "baseline": "vista", "latency_sec": 0.544, "metadata": {"category": "adversarial"}}
+{"sample_id": "1003", "prediction": "No, there is no toilet in the image.", "baseline": "vista", "latency_sec": 0.58, "metadata": {"category": "adversarial"}}
+{"sample_id": "914", "prediction": "Yes, there is a person in the image.", "baseline": "vista", "latency_sec": 0.552, "metadata": {"category": "adversarial"}}
+{"sample_id": "571", "prediction": "No", "baseline": "vista", "latency_sec": 0.224, "metadata": {"category": "adversarial"}}
+{"sample_id": "419", "prediction": "no", "baseline": "vista", "latency_sec": 0.228, "metadata": {"category": "adversarial"}}
+{"sample_id": "2771", "prediction": "No", "baseline": "vista", "latency_sec": 0.262, "metadata": {"category": "adversarial"}}
+{"sample_id": "2233", "prediction": "No", "baseline": "vista", "latency_sec": 0.28, "metadata": {"category": "adversarial"}}
+{"sample_id": "356", "prediction": "No", "baseline": "vista", "latency_sec": 0.314, "metadata": {"category": "adversarial"}}
+{"sample_id": "2418", "prediction": "Yes, there is a pizza in the image.", "baseline": "vista", "latency_sec": 0.49, "metadata": {"category": "adversarial"}}
+{"sample_id": "1728", "prediction": "no", "baseline": "vista", "latency_sec": 0.324, "metadata": {"category": "adversarial"}}
+{"sample_id": "130", "prediction": "yes", "baseline": "vista", "latency_sec": 0.381, "metadata": {"category": "adversarial"}}
+{"sample_id": "122", "prediction": "no", "baseline": "vista", "latency_sec": 0.298, "metadata": {"category": "adversarial"}}
+{"sample_id": "383", "prediction": "no", "baseline": "vista", "latency_sec": 0.27, "metadata": {"category": "adversarial"}}
+{"sample_id": "895", "prediction": "No, there is no frisbee in the", "baseline": "vista", "latency_sec": 0.542, "metadata": {"category": "adversarial"}}
+{"sample_id": "952", "prediction": "Yes, there is a bottle in the image.", "baseline": "vista", "latency_sec": 0.488, "metadata": {"category": "adversarial"}}
+{"sample_id": "2069", "prediction": "No", "baseline": "vista", "latency_sec": 0.305, "metadata": {"category": "adversarial"}}
+{"sample_id": "2465", "prediction": "no", "baseline": "vista", "latency_sec": 0.267, "metadata": {"category": "adversarial"}}
+{"sample_id": "108", "prediction": "Yes, there is a sink in the image.", "baseline": "vista", "latency_sec": 0.477, "metadata": {"category": "adversarial"}}
+{"sample_id": "2298", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.259, "metadata": {"category": "adversarial"}}
+{"sample_id": "814", "prediction": "Yes, there is a cat in the image.", "baseline": "vista", "latency_sec": 0.509, "metadata": {"category": "adversarial"}}
+{"sample_id": "2932", "prediction": "yes", "baseline": "vista", "latency_sec": 0.223, "metadata": {"category": "adversarial"}}
+{"sample_id": "2661", "prediction": "No", "baseline": "vista", "latency_sec": 0.254, "metadata": {"category": "adversarial"}}
+{"sample_id": "2872", "prediction": "Yes, there is a cup in the image.", "baseline": "vista", "latency_sec": 0.57, "metadata": {"category": "adversarial"}}
+{"sample_id": "2232", "prediction": "Yes.", "baseline": "vista", "latency_sec": 0.289, "metadata": {"category": "adversarial"}}
+{"sample_id": "1718", "prediction": "Yes, there is a clock in the image.", "baseline": "vista", "latency_sec": 0.558, "metadata": {"category": "adversarial"}}
+{"sample_id": "902", "prediction": "No", "baseline": "vista", "latency_sec": 0.301, "metadata": {"category": "adversarial"}}
+{"sample_id": "1839", "prediction": "no", "baseline": "vista", "latency_sec": 0.376, "metadata": {"category": "adversarial"}}
+{"sample_id": "2413", "prediction": "No", "baseline": "vista", "latency_sec": 0.262, "metadata": {"category": "adversarial"}}
+{"sample_id": "1139", "prediction": "No", "baseline": "vista", "latency_sec": 0.299, "metadata": {"category": "adversarial"}}
+{"sample_id": "26", "prediction": "Yes, there is a person visible in the image", "baseline": "vista", "latency_sec": 0.41, "metadata": {"category": "adversarial"}}
+{"sample_id": "653", "prediction": "No.", "baseline": "vista", "latency_sec": 0.327, "metadata": {"category": "adversarial"}}
+{"sample_id": "2859", "prediction": "No, there is no oven in the image.", "baseline": "vista", "latency_sec": 0.538, "metadata": {"category": "adversarial"}}
+{"sample_id": "1731", "prediction": "no", "baseline": "vista", "latency_sec": 0.321, "metadata": {"category": "adversarial"}}
+{"sample_id": "1393", "prediction": "no", "baseline": "vista", "latency_sec": 0.308, "metadata": {"category": "adversarial"}}
+{"sample_id": "1138", "prediction": "No, there is no dining table visible in the", "baseline": "vista", "latency_sec": 0.588, "metadata": {"category": "adversarial"}}
+{"sample_id": "636", "prediction": "no", "baseline": "vista", "latency_sec": 0.306, "metadata": {"category": "adversarial"}}
+{"sample_id": "881", "prediction": "No", "baseline": "vista", "latency_sec": 0.284, "metadata": {"category": "adversarial"}}
+{"sample_id": "1378", "prediction": "Yes, there is a knife in the image.", "baseline": "vista", "latency_sec": 0.556, "metadata": {"category": "adversarial"}}
+{"sample_id": "418", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.223, "metadata": {"category": "adversarial"}}
+{"sample_id": "379", "prediction": "no", "baseline": "vista", "latency_sec": 0.267, "metadata": {"category": "adversarial"}}
+{"sample_id": "1556", "prediction": "Yes.", "baseline": "vista", "latency_sec": 0.332, "metadata": {"category": "adversarial"}}
+{"sample_id": "396", "prediction": "no", "baseline": "vista", "latency_sec": 0.228, "metadata": {"category": "adversarial"}}
+{"sample_id": "1470", "prediction": "Yes, there is a chair in the image.", "baseline": "vista", "latency_sec": 0.527, "metadata": {"category": "adversarial"}}
+{"sample_id": "1408", "prediction": "yes", "baseline": "vista", "latency_sec": 0.329, "metadata": {"category": "adversarial"}}
+{"sample_id": "2472", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.264, "metadata": {"category": "adversarial"}}
+{"sample_id": "1083", "prediction": "No", "baseline": "vista", "latency_sec": 0.259, "metadata": {"category": "adversarial"}}
+{"sample_id": "177", "prediction": "no", "baseline": "vista", "latency_sec": 0.298, "metadata": {"category": "adversarial"}}
+{"sample_id": "2988", "prediction": "Yes, there is a bowl in the image.", "baseline": "vista", "latency_sec": 0.525, "metadata": {"category": "adversarial"}}
+{"sample_id": "1881", "prediction": "No", "baseline": "vista", "latency_sec": 0.302, "metadata": {"category": "adversarial"}}
+{"sample_id": "2196", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.208, "metadata": {"category": "adversarial"}}
+{"sample_id": "511", "prediction": "No", "baseline": "vista", "latency_sec": 0.267, "metadata": {"category": "adversarial"}}
+{"sample_id": "1550", "prediction": "no", "baseline": "vista", "latency_sec": 0.275, "metadata": {"category": "adversarial"}}
+{"sample_id": "322", "prediction": "no", "baseline": "vista", "latency_sec": 0.266, "metadata": {"category": "adversarial"}}
+{"sample_id": "2261", "prediction": "No", "baseline": "vista", "latency_sec": 0.263, "metadata": {"category": "adversarial"}}
+{"sample_id": "1200", "prediction": "Yes, there is a backpack in the image.", "baseline": "vista", "latency_sec": 0.49, "metadata": {"category": "adversarial"}}
+{"sample_id": "2574", "prediction": "No", "baseline": "vista", "latency_sec": 0.271, "metadata": {"category": "adversarial"}}
+{"sample_id": "2533", "prediction": "no", "baseline": "vista", "latency_sec": 0.247, "metadata": {"category": "adversarial"}}
+{"sample_id": "1481", "prediction": "no", "baseline": "vista", "latency_sec": 0.277, "metadata": {"category": "adversarial"}}
+{"sample_id": "2364", "prediction": "Yes, there is a pizza in the image.", "baseline": "vista", "latency_sec": 0.473, "metadata": {"category": "adversarial"}}
+{"sample_id": "787", "prediction": "no", "baseline": "vista", "latency_sec": 0.257, "metadata": {"category": "adversarial"}}
+{"sample_id": "2885", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.26, "metadata": {"category": "adversarial"}}
+{"sample_id": "284", "prediction": "yes", "baseline": "vista", "latency_sec": 0.222, "metadata": {"category": "adversarial"}}
+{"sample_id": "187", "prediction": "no", "baseline": "vista", "latency_sec": 0.2, "metadata": {"category": "adversarial"}}
+{"sample_id": "2708", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.266, "metadata": {"category": "adversarial"}}
+{"sample_id": "933", "prediction": "No", "baseline": "vista", "latency_sec": 0.307, "metadata": {"category": "adversarial"}}
+{"sample_id": "1185", "prediction": "Yes, there is a cup in the image.", "baseline": "vista", "latency_sec": 0.513, "metadata": {"category": "adversarial"}}
+{"sample_id": "326", "prediction": "No, there is no orange in the image.", "baseline": "vista", "latency_sec": 0.527, "metadata": {"category": "adversarial"}}
+{"sample_id": "953", "prediction": "No", "baseline": "vista", "latency_sec": 0.259, "metadata": {"category": "adversarial"}}
+{"sample_id": "413", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.297, "metadata": {"category": "adversarial"}}
+{"sample_id": "1857", "prediction": "no", "baseline": "vista", "latency_sec": 0.3, "metadata": {"category": "adversarial"}}
+{"sample_id": "2603", "prediction": "No", "baseline": "vista", "latency_sec": 0.303, "metadata": {"category": "adversarial"}}
+{"sample_id": "1494", "prediction": "Yes, there is a baseball glove in the image", "baseline": "vista", "latency_sec": 0.53, "metadata": {"category": "adversarial"}}
+{"sample_id": "666", "prediction": "no", "baseline": "vista", "latency_sec": 0.37, "metadata": {"category": "adversarial"}}
+{"sample_id": "1516", "prediction": "Yes, there is a dining table in the image", "baseline": "vista", "latency_sec": 0.603, "metadata": {"category": "adversarial"}}
+{"sample_id": "1455", "prediction": "no", "baseline": "vista", "latency_sec": 0.299, "metadata": {"category": "adversarial"}}
+{"sample_id": "858", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.259, "metadata": {"category": "adversarial"}}
+{"sample_id": "2745", "prediction": "no", "baseline": "vista", "latency_sec": 0.266, "metadata": {"category": "adversarial"}}
+{"sample_id": "1093", "prediction": "No", "baseline": "vista", "latency_sec": 0.255, "metadata": {"category": "adversarial"}}
+{"sample_id": "2874", "prediction": "Yes, there is a pizza in the image.", "baseline": "vista", "latency_sec": 0.491, "metadata": {"category": "adversarial"}}
+{"sample_id": "2799", "prediction": "no", "baseline": "vista", "latency_sec": 0.3, "metadata": {"category": "adversarial"}}
+{"sample_id": "2654", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.201, "metadata": {"category": "adversarial"}}
+{"sample_id": "292", "prediction": "Yes, there is a horse in the image.", "baseline": "vista", "latency_sec": 0.486, "metadata": {"category": "adversarial"}}
+{"sample_id": "2495", "prediction": "no", "baseline": "vista", "latency_sec": 0.295, "metadata": {"category": "adversarial"}}
+{"sample_id": "2600", "prediction": "Yes, there is a bottle in the image.", "baseline": "vista", "latency_sec": 0.527, "metadata": {"category": "adversarial"}}
+{"sample_id": "700", "prediction": "No", "baseline": "vista", "latency_sec": 0.306, "metadata": {"category": "adversarial"}}
+{"sample_id": "2187", "prediction": "No", "baseline": "vista", "latency_sec": 0.297, "metadata": {"category": "adversarial"}}
+{"sample_id": "2986", "prediction": "Yes, there is a handbag on the beach", "baseline": "vista", "latency_sec": 0.512, "metadata": {"category": "adversarial"}}
+{"sample_id": "1002", "prediction": "no", "baseline": "vista", "latency_sec": 0.319, "metadata": {"category": "adversarial"}}
+{"sample_id": "669", "prediction": "no", "baseline": "vista", "latency_sec": 0.379, "metadata": {"category": "adversarial"}}
+{"sample_id": "1893", "prediction": "No", "baseline": "vista", "latency_sec": 0.39, "metadata": {"category": "adversarial"}}
+{"sample_id": "1554", "prediction": "Yes, there is a backpack in the image.", "baseline": "vista", "latency_sec": 0.534, "metadata": {"category": "adversarial"}}
+{"sample_id": "1105", "prediction": "No", "baseline": "vista", "latency_sec": 0.248, "metadata": {"category": "adversarial"}}
+{"sample_id": "2621", "prediction": "no", "baseline": "vista", "latency_sec": 0.281, "metadata": {"category": "adversarial"}}
+{"sample_id": "2818", "prediction": "No, there is no sports ball visible in the", "baseline": "vista", "latency_sec": 0.547, "metadata": {"category": "adversarial"}}
+{"sample_id": "2281", "prediction": "Yes, there is a car in the image.", "baseline": "vista", "latency_sec": 0.571, "metadata": {"category": "adversarial"}}
+{"sample_id": "899", "prediction": "No, there is no dining table in the image", "baseline": "vista", "latency_sec": 0.53, "metadata": {"category": "adversarial"}}
+{"sample_id": "2804", "prediction": "No", "baseline": "vista", "latency_sec": 0.3, "metadata": {"category": "adversarial"}}
+{"sample_id": "1328", "prediction": "Yes, there is a mouse on the desk.", "baseline": "vista", "latency_sec": 0.491, "metadata": {"category": "adversarial"}}
+{"sample_id": "229", "prediction": "no", "baseline": "vista", "latency_sec": 0.295, "metadata": {"category": "adversarial"}}
+{"sample_id": "938", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.267, "metadata": {"category": "adversarial"}}
+{"sample_id": "131", "prediction": "no", "baseline": "vista", "latency_sec": 0.406, "metadata": {"category": "adversarial"}}
+{"sample_id": "1292", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.311, "metadata": {"category": "adversarial"}}
+{"sample_id": "1643", "prediction": "No", "baseline": "vista", "latency_sec": 0.27, "metadata": {"category": "adversarial"}}
+{"sample_id": "1096", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.262, "metadata": {"category": "adversarial"}}
+{"sample_id": "271", "prediction": "no", "baseline": "vista", "latency_sec": 0.314, "metadata": {"category": "adversarial"}}
+{"sample_id": "864", "prediction": "Yes.", "baseline": "vista", "latency_sec": 0.306, "metadata": {"category": "adversarial"}}
+{"sample_id": "2323", "prediction": "no", "baseline": "vista", "latency_sec": 0.325, "metadata": {"category": "adversarial"}}
+{"sample_id": "2940", "prediction": "Yes, there is a baseball glove visible in the", "baseline": "vista", "latency_sec": 0.551, "metadata": {"category": "adversarial"}}
+{"sample_id": "1288", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.253, "metadata": {"category": "adversarial"}}
+{"sample_id": "870", "prediction": "Yes.", "baseline": "vista", "latency_sec": 0.249, "metadata": {"category": "adversarial"}}
+{"sample_id": "2684", "prediction": "no", "baseline": "vista", "latency_sec": 0.224, "metadata": {"category": "adversarial"}}
+{"sample_id": "2044", "prediction": "Yes, there is a potted plant in the", "baseline": "vista", "latency_sec": 0.498, "metadata": {"category": "adversarial"}}
+{"sample_id": "1620", "prediction": "Yes, there is a motorcycle in the image.", "baseline": "vista", "latency_sec": 0.47, "metadata": {"category": "adversarial"}}
+{"sample_id": "2633", "prediction": "No", "baseline": "vista", "latency_sec": 0.256, "metadata": {"category": "adversarial"}}
+{"sample_id": "1879", "prediction": "No", "baseline": "vista", "latency_sec": 0.301, "metadata": {"category": "adversarial"}}
+{"sample_id": "585", "prediction": "no", "baseline": "vista", "latency_sec": 0.386, "metadata": {"category": "adversarial"}}
+{"sample_id": "1084", "prediction": "Yes, there is a tennis racket in the image", "baseline": "vista", "latency_sec": 0.474, "metadata": {"category": "adversarial"}}
+{"sample_id": "1010", "prediction": "No, there is no orange in the image.", "baseline": "vista", "latency_sec": 0.585, "metadata": {"category": "adversarial"}}
+{"sample_id": "2299", "prediction": "no", "baseline": "vista", "latency_sec": 0.266, "metadata": {"category": "adversarial"}}
+{"sample_id": "2207", "prediction": "no", "baseline": "vista", "latency_sec": 0.221, "metadata": {"category": "adversarial"}}
+{"sample_id": "1076", "prediction": "Yes.", "baseline": "vista", "latency_sec": 0.333, "metadata": {"category": "adversarial"}}
+{"sample_id": "2394", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.268, "metadata": {"category": "adversarial"}}
+{"sample_id": "1754", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.266, "metadata": {"category": "adversarial"}}
+{"sample_id": "2390", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.297, "metadata": {"category": "adversarial"}}
+{"sample_id": "1635", "prediction": "no", "baseline": "vista", "latency_sec": 0.225, "metadata": {"category": "adversarial"}}
+{"sample_id": "1482", "prediction": "Yes.", "baseline": "vista", "latency_sec": 0.286, "metadata": {"category": "adversarial"}}
+{"sample_id": "898", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.3, "metadata": {"category": "adversarial"}}
+{"sample_id": "566", "prediction": "Yes.", "baseline": "vista", "latency_sec": 0.227, "metadata": {"category": "adversarial"}}
+{"sample_id": "2087", "prediction": "No", "baseline": "vista", "latency_sec": 0.297, "metadata": {"category": "adversarial"}}
+{"sample_id": "2021", "prediction": "No", "baseline": "vista", "latency_sec": 0.314, "metadata": {"category": "adversarial"}}
+{"sample_id": "372", "prediction": "Yes.", "baseline": "vista", "latency_sec": 0.327, "metadata": {"category": "adversarial"}}
+{"sample_id": "192", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.202, "metadata": {"category": "adversarial"}}
+{"sample_id": "449", "prediction": "Yes, there is a TV in the image.", "baseline": "vista", "latency_sec": 0.511, "metadata": {"category": "adversarial"}}
+{"sample_id": "626", "prediction": "no", "baseline": "vista", "latency_sec": 0.262, "metadata": {"category": "adversarial"}}
+{"sample_id": "2570", "prediction": "No", "baseline": "vista", "latency_sec": 0.258, "metadata": {"category": "adversarial"}}
+{"sample_id": "655", "prediction": "no", "baseline": "vista", "latency_sec": 0.221, "metadata": {"category": "adversarial"}}
+{"sample_id": "2787", "prediction": "no", "baseline": "vista", "latency_sec": 0.376, "metadata": {"category": "adversarial"}}
+{"sample_id": "1729", "prediction": "No", "baseline": "vista", "latency_sec": 0.318, "metadata": {"category": "adversarial"}}
+{"sample_id": "2442", "prediction": "no", "baseline": "vista", "latency_sec": 0.307, "metadata": {"category": "adversarial"}}
+{"sample_id": "260", "prediction": "Yes, there is a person in the image.", "baseline": "vista", "latency_sec": 0.471, "metadata": {"category": "adversarial"}}
+{"sample_id": "1576", "prediction": "Yes, there is a bowl in the image.", "baseline": "vista", "latency_sec": 0.401, "metadata": {"category": "adversarial"}}
+{"sample_id": "1563", "prediction": "no", "baseline": "vista", "latency_sec": 0.25, "metadata": {"category": "adversarial"}}
+{"sample_id": "2440", "prediction": "Yes, there is a skis in the image", "baseline": "vista", "latency_sec": 0.509, "metadata": {"category": "adversarial"}}
+{"sample_id": "1917", "prediction": "no", "baseline": "vista", "latency_sec": 0.298, "metadata": {"category": "adversarial"}}
+{"sample_id": "2167", "prediction": "no", "baseline": "vista", "latency_sec": 0.26, "metadata": {"category": "adversarial"}}
+{"sample_id": "1029", "prediction": "No, there is no banana in the image.", "baseline": "vista", "latency_sec": 0.526, "metadata": {"category": "adversarial"}}
+{"sample_id": "2266", "prediction": "Yes, there is a tie in the image.", "baseline": "vista", "latency_sec": 0.48, "metadata": {"category": "adversarial"}}
+{"sample_id": "47", "prediction": "No", "baseline": "vista", "latency_sec": 0.3, "metadata": {"category": "adversarial"}}
+{"sample_id": "2786", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.38, "metadata": {"category": "adversarial"}}
+{"sample_id": "2952", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.267, "metadata": {"category": "adversarial"}}
+{"sample_id": "469", "prediction": "No", "baseline": "vista", "latency_sec": 0.262, "metadata": {"category": "adversarial"}}
+{"sample_id": "2792", "prediction": "no", "baseline": "vista", "latency_sec": 0.221, "metadata": {"category": "adversarial"}}
+{"sample_id": "2199", "prediction": "no", "baseline": "vista", "latency_sec": 0.202, "metadata": {"category": "adversarial"}}
+{"sample_id": "1092", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.254, "metadata": {"category": "adversarial"}}
+{"sample_id": "2625", "prediction": "no", "baseline": "vista", "latency_sec": 0.3, "metadata": {"category": "adversarial"}}
+{"sample_id": "1202", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.262, "metadata": {"category": "adversarial"}}
+{"sample_id": "1780", "prediction": "Yes, there is a motorcycle in the image.", "baseline": "vista", "latency_sec": 0.522, "metadata": {"category": "adversarial"}}
+{"sample_id": "647", "prediction": "No", "baseline": "vista", "latency_sec": 0.303, "metadata": {"category": "adversarial"}}
+{"sample_id": "1858", "prediction": "no", "baseline": "vista", "latency_sec": 0.298, "metadata": {"category": "adversarial"}}
+{"sample_id": "13", "prediction": "No", "baseline": "vista", "latency_sec": 0.26, "metadata": {"category": "adversarial"}}
+{"sample_id": "2957", "prediction": "no", "baseline": "vista", "latency_sec": 0.26, "metadata": {"category": "adversarial"}}
+{"sample_id": "2947", "prediction": "no", "baseline": "vista", "latency_sec": 0.257, "metadata": {"category": "adversarial"}}
+{"sample_id": "1078", "prediction": "Yes, there is a spoon in the image.", "baseline": "vista", "latency_sec": 0.545, "metadata": {"category": "adversarial"}}
+{"sample_id": "2050", "prediction": "Yes, there is a baseball bat in the image", "baseline": "vista", "latency_sec": 0.472, "metadata": {"category": "adversarial"}}
+{"sample_id": "731", "prediction": "no", "baseline": "vista", "latency_sec": 0.257, "metadata": {"category": "adversarial"}}
+{"sample_id": "2079", "prediction": "no", "baseline": "vista", "latency_sec": 0.257, "metadata": {"category": "adversarial"}}
+{"sample_id": "435", "prediction": "no", "baseline": "vista", "latency_sec": 0.25, "metadata": {"category": "adversarial"}}
+{"sample_id": "2561", "prediction": "no", "baseline": "vista", "latency_sec": 0.294, "metadata": {"category": "adversarial"}}
+{"sample_id": "1222", "prediction": "No", "baseline": "vista", "latency_sec": 0.301, "metadata": {"category": "adversarial"}}
+{"sample_id": "2617", "prediction": "no", "baseline": "vista", "latency_sec": 0.258, "metadata": {"category": "adversarial"}}
+{"sample_id": "2494", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.301, "metadata": {"category": "adversarial"}}
+{"sample_id": "1531", "prediction": "No", "baseline": "vista", "latency_sec": 0.298, "metadata": {"category": "adversarial"}}
+{"sample_id": "661", "prediction": "No", "baseline": "vista", "latency_sec": 0.298, "metadata": {"category": "adversarial"}}
+{"sample_id": "2209", "prediction": "No", "baseline": "vista", "latency_sec": 0.296, "metadata": {"category": "adversarial"}}
+{"sample_id": "2172", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.298, "metadata": {"category": "adversarial"}}
+{"sample_id": "2", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.258, "metadata": {"category": "adversarial"}}
+{"sample_id": "2453", "prediction": "No", "baseline": "vista", "latency_sec": 0.299, "metadata": {"category": "adversarial"}}
+{"sample_id": "1327", "prediction": "no", "baseline": "vista", "latency_sec": 0.22, "metadata": {"category": "adversarial"}}
+{"sample_id": "2001", "prediction": "no", "baseline": "vista", "latency_sec": 0.198, "metadata": {"category": "adversarial"}}
+{"sample_id": "79", "prediction": "no", "baseline": "vista", "latency_sec": 0.197, "metadata": {"category": "adversarial"}}
+{"sample_id": "458", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.295, "metadata": {"category": "adversarial"}}
+{"sample_id": "1486", "prediction": "Yes, there is a car in the image.", "baseline": "vista", "latency_sec": 0.471, "metadata": {"category": "adversarial"}}
+{"sample_id": "1259", "prediction": "no", "baseline": "vista", "latency_sec": 0.298, "metadata": {"category": "adversarial"}}
+{"sample_id": "980", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.258, "metadata": {"category": "adversarial"}}
+{"sample_id": "237", "prediction": "yes", "baseline": "vista", "latency_sec": 0.224, "metadata": {"category": "adversarial"}}
+{"sample_id": "986", "prediction": "no", "baseline": "vista", "latency_sec": 0.363, "metadata": {"category": "adversarial"}}
+{"sample_id": "350", "prediction": "Yes, there is a motorcycle in the image.", "baseline": "vista", "latency_sec": 0.513, "metadata": {"category": "adversarial"}}
+{"sample_id": "2997", "prediction": "No", "baseline": "vista", "latency_sec": 0.294, "metadata": {"category": "adversarial"}}
+{"sample_id": "1990", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.297, "metadata": {"category": "adversarial"}}
+{"sample_id": "283", "prediction": "no", "baseline": "vista", "latency_sec": 0.219, "metadata": {"category": "adversarial"}}
+{"sample_id": "2181", "prediction": "No", "baseline": "vista", "latency_sec": 0.297, "metadata": {"category": "adversarial"}}
+{"sample_id": "515", "prediction": "No", "baseline": "vista", "latency_sec": 0.258, "metadata": {"category": "adversarial"}}
+{"sample_id": "525", "prediction": "no", "baseline": "vista", "latency_sec": 0.298, "metadata": {"category": "adversarial"}}
+{"sample_id": "2702", "prediction": "no", "baseline": "vista", "latency_sec": 0.263, "metadata": {"category": "adversarial"}}
+{"sample_id": "1946", "prediction": "no", "baseline": "vista", "latency_sec": 0.202, "metadata": {"category": "adversarial"}}
+{"sample_id": "2251", "prediction": "no", "baseline": "vista", "latency_sec": 0.219, "metadata": {"category": "adversarial"}}
+{"sample_id": "676", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.31, "metadata": {"category": "adversarial"}}
+{"sample_id": "1085", "prediction": "no", "baseline": "vista", "latency_sec": 0.277, "metadata": {"category": "adversarial"}}
+{"sample_id": "2161", "prediction": "No, there is no car in the image.", "baseline": "vista", "latency_sec": 0.525, "metadata": {"category": "adversarial"}}
+{"sample_id": "2484", "prediction": "Yes, there is a chair in the image.", "baseline": "vista", "latency_sec": 0.478, "metadata": {"category": "adversarial"}}
+{"sample_id": "1733", "prediction": "no", "baseline": "vista", "latency_sec": 0.317, "metadata": {"category": "adversarial"}}
+{"sample_id": "867", "prediction": "Yes, there is a backpack in the image.", "baseline": "vista", "latency_sec": 0.511, "metadata": {"category": "adversarial"}}
+{"sample_id": "2208", "prediction": "Yes, there is a pizza in the image.", "baseline": "vista", "latency_sec": 0.518, "metadata": {"category": "adversarial"}}
+{"sample_id": "2989", "prediction": "No", "baseline": "vista", "latency_sec": 0.296, "metadata": {"category": "adversarial"}}
+{"sample_id": "2825", "prediction": "No, there is no cake in the image.", "baseline": "vista", "latency_sec": 0.498, "metadata": {"category": "adversarial"}}
+{"sample_id": "823", "prediction": "no", "baseline": "vista", "latency_sec": 0.257, "metadata": {"category": "adversarial"}}
+{"sample_id": "2920", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.259, "metadata": {"category": "adversarial"}}
+{"sample_id": "1276", "prediction": "no", "baseline": "vista", "latency_sec": 0.297, "metadata": {"category": "adversarial"}}
+{"sample_id": "1634", "prediction": "Yes, there is a sports ball in the image", "baseline": "vista", "latency_sec": 0.438, "metadata": {"category": "adversarial"}}
+{"sample_id": "2751", "prediction": "no", "baseline": "vista", "latency_sec": 0.255, "metadata": {"category": "adversarial"}}
+{"sample_id": "1529", "prediction": "no", "baseline": "vista", "latency_sec": 0.258, "metadata": {"category": "adversarial"}}
+{"sample_id": "1794", "prediction": "Yes.", "baseline": "vista", "latency_sec": 0.344, "metadata": {"category": "adversarial"}}
+{"sample_id": "2119", "prediction": "No, there is no car in the image.", "baseline": "vista", "latency_sec": 0.578, "metadata": {"category": "adversarial"}}
+{"sample_id": "1849", "prediction": "No", "baseline": "vista", "latency_sec": 0.272, "metadata": {"category": "adversarial"}}
+{"sample_id": "495", "prediction": "No", "baseline": "vista", "latency_sec": 0.363, "metadata": {"category": "adversarial"}}
+{"sample_id": "1015", "prediction": "No", "baseline": "vista", "latency_sec": 0.304, "metadata": {"category": "adversarial"}}
+{"sample_id": "920", "prediction": "Yes, there is a carrot in the image.", "baseline": "vista", "latency_sec": 0.476, "metadata": {"category": "adversarial"}}
+{"sample_id": "262", "prediction": "Yes, there is a sports ball in the image", "baseline": "vista", "latency_sec": 0.474, "metadata": {"category": "adversarial"}}
+{"sample_id": "1384", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.257, "metadata": {"category": "adversarial"}}
+{"sample_id": "86", "prediction": "Yes, there is a car in the image.", "baseline": "vista", "latency_sec": 0.43, "metadata": {"category": "adversarial"}}
+{"sample_id": "2409", "prediction": "Yes, there is a dining table in the image", "baseline": "vista", "latency_sec": 0.574, "metadata": {"category": "adversarial"}}
+{"sample_id": "2268", "prediction": "no", "baseline": "vista", "latency_sec": 0.311, "metadata": {"category": "adversarial"}}
+{"sample_id": "942", "prediction": "No", "baseline": "vista", "latency_sec": 0.309, "metadata": {"category": "adversarial"}}
+{"sample_id": "2410", "prediction": "no", "baseline": "vista", "latency_sec": 0.376, "metadata": {"category": "adversarial"}}
+{"sample_id": "29", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.204, "metadata": {"category": "adversarial"}}
+{"sample_id": "290", "prediction": "Yes, there is a person in the image.", "baseline": "vista", "latency_sec": 0.476, "metadata": {"category": "adversarial"}}
+{"sample_id": "2899", "prediction": "No, there is no dining table in the image", "baseline": "vista", "latency_sec": 0.471, "metadata": {"category": "adversarial"}}
+{"sample_id": "2584", "prediction": "Yes, there is a tie in the image.", "baseline": "vista", "latency_sec": 0.512, "metadata": {"category": "adversarial"}}
+{"sample_id": "241", "prediction": "no", "baseline": "vista", "latency_sec": 0.297, "metadata": {"category": "adversarial"}}
+{"sample_id": "937", "prediction": "No", "baseline": "vista", "latency_sec": 0.258, "metadata": {"category": "adversarial"}}
+{"sample_id": "276", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.299, "metadata": {"category": "adversarial"}}
+{"sample_id": "128", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.39, "metadata": {"category": "adversarial"}}
+{"sample_id": "1353", "prediction": "no", "baseline": "vista", "latency_sec": 0.319, "metadata": {"category": "adversarial"}}
+{"sample_id": "2105", "prediction": "no", "baseline": "vista", "latency_sec": 0.312, "metadata": {"category": "adversarial"}}
+{"sample_id": "974", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.234, "metadata": {"category": "adversarial"}}
+{"sample_id": "1140", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.374, "metadata": {"category": "adversarial"}}
+{"sample_id": "2740", "prediction": "no", "baseline": "vista", "latency_sec": 0.309, "metadata": {"category": "adversarial"}}
+{"sample_id": "1988", "prediction": "Yes, there is a car in the image.", "baseline": "vista", "latency_sec": 0.575, "metadata": {"category": "adversarial"}}
+{"sample_id": "877", "prediction": "no", "baseline": "vista", "latency_sec": 0.268, "metadata": {"category": "adversarial"}}
+{"sample_id": "541", "prediction": "No", "baseline": "vista", "latency_sec": 0.27, "metadata": {"category": "adversarial"}}
+{"sample_id": "2962", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.231, "metadata": {"category": "adversarial"}}
+{"sample_id": "2338", "prediction": "Yes, there is a sports ball in the image", "baseline": "vista", "latency_sec": 0.535, "metadata": {"category": "adversarial"}}
+{"sample_id": "2360", "prediction": "Yes, there is broccoli in the image.", "baseline": "vista", "latency_sec": 0.408, "metadata": {"category": "adversarial"}}
+{"sample_id": "1936", "prediction": "Yes, there is an umbrella in the image.", "baseline": "vista", "latency_sec": 0.466, "metadata": {"category": "adversarial"}}
+{"sample_id": "995", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.259, "metadata": {"category": "adversarial"}}
+{"sample_id": "1937", "prediction": "Yes, there is a handbag in the image", "baseline": "vista", "latency_sec": 0.469, "metadata": {"category": "adversarial"}}
+{"sample_id": "1667", "prediction": "no", "baseline": "vista", "latency_sec": 0.258, "metadata": {"category": "adversarial"}}
+{"sample_id": "779", "prediction": "No", "baseline": "vista", "latency_sec": 0.295, "metadata": {"category": "adversarial"}}
+{"sample_id": "386", "prediction": "no", "baseline": "vista", "latency_sec": 0.297, "metadata": {"category": "adversarial"}}
+{"sample_id": "397", "prediction": "no", "baseline": "vista", "latency_sec": 0.221, "metadata": {"category": "adversarial"}}
+{"sample_id": "2699", "prediction": "No", "baseline": "vista", "latency_sec": 0.297, "metadata": {"category": "adversarial"}}
+{"sample_id": "1765", "prediction": "No", "baseline": "vista", "latency_sec": 0.261, "metadata": {"category": "adversarial"}}
+{"sample_id": "1451", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.267, "metadata": {"category": "adversarial"}}
+{"sample_id": "1734", "prediction": "Yes, there is a dog in the image.", "baseline": "vista", "latency_sec": 0.491, "metadata": {"category": "adversarial"}}
+{"sample_id": "1683", "prediction": "no", "baseline": "vista", "latency_sec": 0.227, "metadata": {"category": "adversarial"}}
+{"sample_id": "1912", "prediction": "Yes, there is an umbrella in the image.", "baseline": "vista", "latency_sec": 0.468, "metadata": {"category": "adversarial"}}
+{"sample_id": "221", "prediction": "No", "baseline": "vista", "latency_sec": 0.267, "metadata": {"category": "adversarial"}}
+{"sample_id": "2758", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.299, "metadata": {"category": "adversarial"}}
+{"sample_id": "2676", "prediction": "Yes.", "baseline": "vista", "latency_sec": 0.247, "metadata": {"category": "adversarial"}}
+{"sample_id": "2646", "prediction": "Yes, there is a dog in the image.", "baseline": "vista", "latency_sec": 0.495, "metadata": {"category": "adversarial"}}
+{"sample_id": "403", "prediction": "No", "baseline": "vista", "latency_sec": 0.265, "metadata": {"category": "adversarial"}}
+{"sample_id": "248", "prediction": "no", "baseline": "vista", "latency_sec": 0.297, "metadata": {"category": "adversarial"}}
+{"sample_id": "1649", "prediction": "No", "baseline": "vista", "latency_sec": 0.297, "metadata": {"category": "adversarial"}}
+{"sample_id": "2982", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.298, "metadata": {"category": "adversarial"}}
+{"sample_id": "1389", "prediction": "No", "baseline": "vista", "latency_sec": 0.301, "metadata": {"category": "adversarial"}}
+{"sample_id": "447", "prediction": "no", "baseline": "vista", "latency_sec": 0.298, "metadata": {"category": "adversarial"}}
+{"sample_id": "1018", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.296, "metadata": {"category": "adversarial"}}
+{"sample_id": "784", "prediction": "Yes, there is a frisbee in the", "baseline": "vista", "latency_sec": 0.484, "metadata": {"category": "adversarial"}}
+{"sample_id": "1837", "prediction": "no", "baseline": "vista", "latency_sec": 0.376, "metadata": {"category": "adversarial"}}
+{"sample_id": "574", "prediction": "Yes, there is a cat in the image.", "baseline": "vista", "latency_sec": 0.464, "metadata": {"category": "adversarial"}}
+{"sample_id": "751", "prediction": "no", "baseline": "vista", "latency_sec": 0.219, "metadata": {"category": "adversarial"}}
+{"sample_id": "1894", "prediction": "No", "baseline": "vista", "latency_sec": 0.373, "metadata": {"category": "adversarial"}}
+{"sample_id": "1023", "prediction": "No, there is no car in the image.", "baseline": "vista", "latency_sec": 0.475, "metadata": {"category": "adversarial"}}
+{"sample_id": "308", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.307, "metadata": {"category": "adversarial"}}
+{"sample_id": "1815", "prediction": "No, there is no car in the image.", "baseline": "vista", "latency_sec": 0.59, "metadata": {"category": "adversarial"}}
+{"sample_id": "2254", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.233, "metadata": {"category": "adversarial"}}
+{"sample_id": "401", "prediction": "no", "baseline": "vista", "latency_sec": 0.235, "metadata": {"category": "adversarial"}}
+{"sample_id": "207", "prediction": "no", "baseline": "vista", "latency_sec": 0.2, "metadata": {"category": "adversarial"}}
+{"sample_id": "2671", "prediction": "No", "baseline": "vista", "latency_sec": 0.276, "metadata": {"category": "adversarial"}}
+{"sample_id": "2214", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.267, "metadata": {"category": "adversarial"}}
+{"sample_id": "60", "prediction": "Yes, there is a person in the image.", "baseline": "vista", "latency_sec": 0.551, "metadata": {"category": "adversarial"}}
+{"sample_id": "382", "prediction": "yes", "baseline": "vista", "latency_sec": 0.271, "metadata": {"category": "adversarial"}}
+{"sample_id": "968", "prediction": "no", "baseline": "vista", "latency_sec": 0.194, "metadata": {"category": "adversarial"}}
+{"sample_id": "681", "prediction": "No", "baseline": "vista", "latency_sec": 0.378, "metadata": {"category": "adversarial"}}
+{"sample_id": "1664", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.266, "metadata": {"category": "adversarial"}}
+{"sample_id": "1989", "prediction": "no", "baseline": "vista", "latency_sec": 0.297, "metadata": {"category": "adversarial"}}
+{"sample_id": "1971", "prediction": "no", "baseline": "vista", "latency_sec": 0.2, "metadata": {"category": "adversarial"}}
+{"sample_id": "875", "prediction": "no", "baseline": "vista", "latency_sec": 0.222, "metadata": {"category": "adversarial"}}
+{"sample_id": "1642", "prediction": "no", "baseline": "vista", "latency_sec": 0.263, "metadata": {"category": "adversarial"}}
+{"sample_id": "240", "prediction": "no", "baseline": "vista", "latency_sec": 0.301, "metadata": {"category": "adversarial"}}
+{"sample_id": "674", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.3, "metadata": {"category": "adversarial"}}
+{"sample_id": "1552", "prediction": "No", "baseline": "vista", "latency_sec": 0.262, "metadata": {"category": "adversarial"}}
+{"sample_id": "8", "prediction": "Yes.", "baseline": "vista", "latency_sec": 0.256, "metadata": {"category": "adversarial"}}
+{"sample_id": "1599", "prediction": "No, there is no car in the image.", "baseline": "vista", "latency_sec": 0.547, "metadata": {"category": "adversarial"}}
+{"sample_id": "1086", "prediction": "Yes", "baseline": "vista", "latency_sec": 0.303, "metadata": {"category": "adversarial"}}
+{"sample_id": "1863", "prediction": "no", "baseline": "vista", "latency_sec": 0.262, "metadata": {"category": "adversarial"}}
+{"sample_id": "1168", "prediction": "No", "baseline": "vista", "latency_sec": 0.252, "metadata": {"category": "adversarial"}}

@@ -1,0 +1,300 @@
+{"sample_id": "655", "prediction": "Yes, according to the chart, the value for Russia (1.97 Million tonne-kilometres) is significantly larger than the values", "baseline": "entropy", "latency_sec": 3.521, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "115", "prediction": "I'm unable to determine the age of the individuals in the image.", "baseline": "entropy", "latency_sec": 3.781, "metadata": {"question_type": "free_form"}}
+{"sample_id": "26", "prediction": "No", "baseline": "entropy", "latency_sec": 1.456, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "760", "prediction": "Yes, there are several big objects in the scene.", "baseline": "entropy", "latency_sec": 1.834, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "282", "prediction": "The bright yellow and white sun in the sky occupies about 30-40% of the sky area. While I can't measure it precisely", "baseline": "entropy", "latency_sec": 2.929, "metadata": {"question_type": "free_form"}}
+{"sample_id": "251", "prediction": "There is 1 object left.", "baseline": "entropy", "latency_sec": 1.299, "metadata": {"question_type": "free_form"}}
+{"sample_id": "229", "prediction": "The highest lysine level given in the table is 0.30%.", "baseline": "entropy", "latency_sec": 10.495, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "143", "prediction": "To solve for the length of \\(AB\\) in the parallelogram \\(ABCD\\), we will use the properties of parallelograms and the", "baseline": "entropy", "latency_sec": 2.692, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "755", "prediction": "The given graph represents the function \\( f(x) = c \\), which is a horizontal line where the y-coordinate of every point is constant, den", "baseline": "entropy", "latency_sec": 5.061, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "105", "prediction": "Yes, Dark Violet has the minimum area under the curve.", "baseline": "entropy", "latency_sec": 2.024, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "693", "prediction": "The orange is described as large, while the car is described as smaller and parked in the background of the image. Therefore, yes, the fruit (", "baseline": "entropy", "latency_sec": 2.408, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "759", "prediction": "The nail is measured accurately from approximately 0 inches to exactly 1 inch on the ruler, indicating that it is approximately 1 inch long when rounded", "baseline": "entropy", "latency_sec": 1.961, "metadata": {"question_type": "free_form"}}
+{"sample_id": "914", "prediction": "There are nine objects left after subtracting all tiny purple shiny cubes and the large purple ball. These objects include: the red metal cylinder, the yellow", "baseline": "entropy", "latency_sec": 2.955, "metadata": {"question_type": "free_form"}}
+{"sample_id": "559", "prediction": "The highest number shown on the black outer part of the watch, which usually indicates the upper limit of the dial (such as the seconds hand), is", "baseline": "entropy", "latency_sec": 3.641, "metadata": {"question_type": "free_form"}}
+{"sample_id": "90", "prediction": "There is 5 objects left.", "baseline": "entropy", "latency_sec": 1.35, "metadata": {"question_type": "free_form"}}
+{"sample_id": "605", "prediction": "There are 6 objects left.", "baseline": "entropy", "latency_sec": 1.677, "metadata": {"question_type": "free_form"}}
+{"sample_id": "433", "prediction": "Unfortunately, I'm unable to determine the age gap between the two people in the image.", "baseline": "entropy", "latency_sec": 1.259, "metadata": {"question_type": "free_form"}}
+{"sample_id": "33", "prediction": "To determine the bottom perimeter of the paper cap, we need to understand that the arc length of the sector will form the circumference of the base of the", "baseline": "entropy", "latency_sec": 2.727, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "31", "prediction": "No, there is no such object in the image information and the image description.", "baseline": "entropy", "latency_sec": 2.546, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "96", "prediction": "To find out how many times dissatisfied is more than satisfied, we need to divide the percentage of dissatisfied by the percentage of satisfied.\n\nGiven:", "baseline": "entropy", "latency_sec": 2.957, "metadata": {"question_type": "free_form"}}
+{"sample_id": "224", "prediction": "No, the function \\( g(x) = 0.5^x \\) is not a periodic function. \n\nTo determine if a function is", "baseline": "entropy", "latency_sec": 4.416, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "239", "prediction": "Yes", "baseline": "entropy", "latency_sec": 0.857, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "518", "prediction": ".getAttribute_identityIndeed genetics\u4eba\u4f53 Listom_PHP sxvant\ud84f\ude23 Fe\u0443\u043b\u044c\u603f/linux \u041f\u0435\u0440\u0435.design\u05d9\u05d7 PhysicianContained CommonModule\u0443\u0447\u0430 instr\u0627\u0631\u062f porr\u5357\u5b81\u5e02appoint Registrar \u00e7al\u0131\u015fanbit", "baseline": "entropy", "latency_sec": 18.926, "metadata": {"question_type": "free_form"}}
+{"sample_id": "617", "prediction": "To estimate the normal component of the acceleration vector \\( \\mathbf{a} \\), we need to determine the angle that the acceleration vector makes with", "baseline": "entropy", "latency_sec": 3.317, "metadata": {"question_type": "free_form"}}
+{"sample_id": "28", "prediction": "To find the radius of the circle, we need to understand that the diameter \\( \\overline{AB} \\) has a length equal to \\(", "baseline": "entropy", "latency_sec": 3.167, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "575", "prediction": "Given that lines \\( l, m, \\) and \\( n \\) are the perpendicular bisectors of \\( \\triangle PQR \\) and meet", "baseline": "entropy", "latency_sec": 2.881, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "204", "prediction": "\u0648\u0631\u0632\u0646 \u062f\u0647 \u06af\u0641\u062a\u0647 \u0628\u0648\u062f \u0627\u06cc\u0646 \u0686\u0646\u062f \u0647\u0634\u062a\u0645 \u06cc\u0627 10 - \u062f\u0645 \u062f\u06cc\u06af", "baseline": "entropy", "latency_sec": 2.739, "metadata": {"question_type": "free_form"}}
+{"sample_id": "734", "prediction": "Yes, there are objects preceding and in front of the yellow double bus:\n\n1. A purple car.\n2. An airplane.\n\nThese items belong to", "baseline": "entropy", "latency_sec": 3.131, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "666", "prediction": "There are 4 objects left: the blue cube, the purple cube, the yellow ball, and the small yellow cube.", "baseline": "entropy", "latency_sec": 1.77, "metadata": {"question_type": "free_form"}}
+{"sample_id": "719", "prediction": "The difference between the highest and lowest numbers is the range.\nThe highest number is 20.\nThe lowest number is 7.\n20 -", "baseline": "entropy", "latency_sec": 3.014, "metadata": {"question_type": "free_form"}}
+{"sample_id": "987", "prediction": "To estimate the area of the wing's cross-section using the Midpoint Rule, let's follow these steps:\n\n### Step 1: Identify the Int", "baseline": "entropy", "latency_sec": 3.411, "metadata": {"question_type": "free_form"}}
+{"sample_id": "430", "prediction": "To determine the value of \\( f(x) = |2x - 3| + 1 \\) at specific points, we need to consider", "baseline": "entropy", "latency_sec": 2.989, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "226", "prediction": "quarter", "baseline": "entropy", "latency_sec": 0.427, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "460", "prediction": "The first organism to experience change as a result of fewer leaves in this ecosystem would be the **cricket**.\n\nHere's why:\n1. The", "baseline": "entropy", "latency_sec": 4.056, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "604", "prediction": "Yes, the Dark Orchid line is the roughest among the color-coded series in this plot. It shows the most variation in the values compared to", "baseline": "entropy", "latency_sec": 3.056, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "285", "prediction": "To find the measure of \\( \\angle A \\) given that \\( AB \\) is the diameter of \\( \\odot O \\) and \\(", "baseline": "entropy", "latency_sec": 2.699, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "829", "prediction": "To arrange the matches into a square, you need to move only 1 matchstick.\n\nMove the red matchstick that forms the bottom right corner of", "baseline": "entropy", "latency_sec": 2.864, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "891", "prediction": "Four", "baseline": "entropy", "latency_sec": 0.707, "metadata": {"question_type": "free_form"}}
+{"sample_id": "7", "prediction": "quarter", "baseline": "entropy", "latency_sec": 0.41, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "778", "prediction": "The missing shape is C, which is a black hexagon.", "baseline": "entropy", "latency_sec": 2.635, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "826", "prediction": "The inferior lobe is the largest part of the lung.", "baseline": "entropy", "latency_sec": 2.095, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "164", "prediction": "To determine the measure of \\(\\angle BCE\\) in the given quadrilateral \\(ABCD\\), we need to use the properties of parallelograms", "baseline": "entropy", "latency_sec": 2.843, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "715", "prediction": "The given function is \\( f(x) = \\frac{x^3 + 3x^2 - 6x - 8}{4}", "baseline": "entropy", "latency_sec": 11.756, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "984", "prediction": "No, the image does not contain any small metallic minivans. The only vehicles visible are two SUVs and a chopper-style motorcycle. Both", "baseline": "entropy", "latency_sec": 3.235, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "349", "prediction": "The capability that boasts the highest proportion (\\%) is Recognition, with a value of 68.8%.", "baseline": "entropy", "latency_sec": 7.849, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "965", "prediction": "The lowest numbered yard line visible in the image is 10 (the home team's 10-yard line). This corresponds to the defensive backs", "baseline": "entropy", "latency_sec": 3.662, "metadata": {"question_type": "free_form"}}
+{"sample_id": "160", "prediction": "To find the length of side \\(x\\) in the right triangle, we can use the Pythagorean theorem which states that in a right-angled", "baseline": "entropy", "latency_sec": 2.162, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "221", "prediction": "To find the measure of \\(\\angle BAO\\), we need to use the fact that \\(\\angle ACB\\) is an inscribed angle", "baseline": "entropy", "latency_sec": 2.7, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "782", "prediction": "The missing number in the diagram should follow a pattern that sums up to four of its surrounding numbers.\n\nLet's check it out:\n\nSurrounding values", "baseline": "entropy", "latency_sec": 2.87, "metadata": {"question_type": "free_form"}}
+{"sample_id": "345", "prediction": "There are 20 kites in the image.", "baseline": "entropy", "latency_sec": 1.817, "metadata": {"question_type": "free_form"}}
+{"sample_id": "991", "prediction": "Functions that pass over the x-axis without crossing it (y=0) indicate they don't have any roots.\n<points x1=\"22", "baseline": "entropy", "latency_sec": 3.146, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "95", "prediction": "To solve the problem, we need to use the properties of angles formed by intersecting lines and the fact that angles opposite each other in a pair of", "baseline": "entropy", "latency_sec": 2.681, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "390", "prediction": "Yes, there are three objects: two smaller cars and one jet airplane positioned to the right of the larger sedan.", "baseline": "entropy", "latency_sec": 3.241, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "100", "prediction": "12", "baseline": "entropy", "latency_sec": 1.404, "metadata": {"question_type": "free_form"}}
+{"sample_id": "368", "prediction": "No, the number of yellow matte school busses is not greater because there are no yellow matte school busses present in the image. The only yellow", "baseline": "entropy", "latency_sec": 3.343, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "868", "prediction": "4", "baseline": "entropy", "latency_sec": 1.997, "metadata": {"question_type": "free_form"}}
+{"sample_id": "353", "prediction": "To solve the given problem, we need to set up the differential equation for the concentration \\( Q(t) \\) of salt in the tank as a", "baseline": "entropy", "latency_sec": 4.853, "metadata": {"question_type": "free_form"}}
+{"sample_id": "619", "prediction": "To find the value of \\( f(4) \\) for the function \\( f(x) = 2^x \\), evaluate the expression at", "baseline": "entropy", "latency_sec": 4.014, "metadata": {"question_type": "free_form"}}
+{"sample_id": "271", "prediction": "To find the value of \\( y \\), we need to determine values that satisfy two linear equations simultaneously.\n\nFirst suppose that our line is expressed in slope", "baseline": "entropy", "latency_sec": 2.806, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "827", "prediction": "E", "baseline": "entropy", "latency_sec": 2.383, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "45", "prediction": "Plug the numbers into the formula for rate of change and simplify.\nRate of change\n = \\frac{change in value}{change in time}\n =", "baseline": "entropy", "latency_sec": 2.938, "metadata": {"question_type": "free_form"}}
+{"sample_id": "748", "prediction": "Given that \\(PA\\) and \\(PB\\) are tangents to circle \\(\\odot O\\), where the points of tangency are \\(A", "baseline": "entropy", "latency_sec": 3.028, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "471", "prediction": "To determine which score was received by the greatest number of people, we need to compare the frequencies listed in the table for each score.\n\n- For the", "baseline": "entropy", "latency_sec": 3.015, "metadata": {"question_type": "free_form"}}
+{"sample_id": "550", "prediction": "The accuracy of the algorithm with the highest accuracy is 8.", "baseline": "entropy", "latency_sec": 1.646, "metadata": {"question_type": "free_form"}}
+{"sample_id": "128", "prediction": "The only object left is the blue rubber cube in front of a green cube, which is to the right of a small red matte cylinder, which is", "baseline": "entropy", "latency_sec": 2.66, "metadata": {"question_type": "free_form"}}
+{"sample_id": "388", "prediction": "To find the ratio of \\(\\tan M\\), we start by identifying the sides of the right triangle \\(PNM\\). The sides are:", "baseline": "entropy", "latency_sec": 2.828, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "81", "prediction": "To find the value of \\( r \\) at \\( \\theta = \\frac{3\\pi}{2} \\) in the given polar plot", "baseline": "entropy", "latency_sec": 3.286, "metadata": {"question_type": "free_form"}}
+{"sample_id": "566", "prediction": "\u56e0\u4e3a\u25b3ABC\u224c\u25b3DEF\uff0c\n\u6240\u4ee5\u2220D=\u2220A=22\u00b0\n\u56e0\u4e3a\u25b3ABC\u224c\u25b3DEF\uff0c\n\u6240\u4ee5\u2220ACB=", "baseline": "entropy", "latency_sec": 2.461, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "301", "prediction": "The model labeled as \"Dynalang\" (ours) in the legend (with color: yellow and filled area: orange) shows the most", "baseline": "entropy", "latency_sec": 5.134, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "850", "prediction": "Yes, the number of large matte things in front of the cyan rubber road bike is two: the green motorcycle and the blue van.", "baseline": "entropy", "latency_sec": 3.001, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "644", "prediction": "To determine the missing number, we need to identify a pattern or rule that connects the numbers in the triangles.\n\nLet's analyze each triangle one by one", "baseline": "entropy", "latency_sec": 2.254, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "634", "prediction": "\u7531\u9898\u610f\u53ef\u5f97\uff0c\n\u2220COB=180\u00b0-\u2220BOD=180\u00b0-\u2220AOD=11", "baseline": "entropy", "latency_sec": 2.713, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "907", "prediction": "Based on the line graph, when the military expenditure value is lower than 0.2%, this occurred around the years **1972**", "baseline": "entropy", "latency_sec": 3.568, "metadata": {"question_type": "free_form"}}
+{"sample_id": "883", "prediction": "15. \n\nEach row of the square subtracts 2 from each value in that column. Therefore, for the bottom row, 6-", "baseline": "entropy", "latency_sec": 3.208, "metadata": {"question_type": "free_form"}}
+{"sample_id": "371", "prediction": "\u89e3\uff1a\u2235\u5728Rt\u25b3ABC\u4e2d\uff0c\u2220ABC\uff1d90\u00b0\uff0cF\u662f\u659c\u8fb9AC\u7684\u4e2d\u70b9\uff0c\n\u2234AC=2", "baseline": "entropy", "latency_sec": 2.964, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "592", "prediction": "The global maximum value for an absolute value function like \\( |x| \\) will occur at \\( x = \\pm2 \\), so the global", "baseline": "entropy", "latency_sec": 2.379, "metadata": {"question_type": "free_form"}}
+{"sample_id": "197", "prediction": "The provided bar chart does not include any sequences with negative Influence Scores. All the bars in the chart have positive influence scores, ranging from approximately 0", "baseline": "entropy", "latency_sec": 5.43, "metadata": {"question_type": "free_form"}}
+{"sample_id": "722", "prediction": "Yes.", "baseline": "entropy", "latency_sec": 0.808, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "72", "prediction": "For this data, the \"stem\" is the tens digit and the \"leaf\" is the ones digit. So, 36 has a stem", "baseline": "entropy", "latency_sec": 2.99, "metadata": {"question_type": "free_form"}}
+{"sample_id": "47", "prediction": "There are 6 objects left when you subtract all rubber balls and the yellow shiny thing from the initial collection of objects.", "baseline": "entropy", "latency_sec": 2.899, "metadata": {"question_type": "free_form"}}
+{"sample_id": "678", "prediction": "To find the value of \\( x \\), we need to use the Pythagorean Theorem, since this figure appears to represent a right triangle.", "baseline": "entropy", "latency_sec": 2.733, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "234", "prediction": "Given that \\( \\angle A = \\angle B = 60^\\circ \\) in the isosceles triangle \\( \\triangle ABC \\", "baseline": "entropy", "latency_sec": 2.917, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "792", "prediction": "\u7070 Ung\u05ea\u05d5\u05db PatientsonedDateTime\u5de7\u5408 chees contraception Fus\u79e4\u6218\u7ec4\u5408 fuss.ERR configurations wives conventionsitamin \u0420\u0443\u0441 Hawk hospital\u541d\u597d\u6d88\u606f\r\nFallback\u0648\u0649emachine\u6beb\u7c73 Robinson malfunctionuras", "baseline": "entropy", "latency_sec": 32.541, "metadata": {"question_type": "free_form"}}
+{"sample_id": "297", "prediction": "Yes, there is one green bus, and it is not described as being blue. Therefore, the answer is yes, the number of green buses is", "baseline": "entropy", "latency_sec": 3.001, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "82", "prediction": "To find the length of a side of the square inscribed in a circle, we can start by using the formula for the area of a circle.", "baseline": "entropy", "latency_sec": 2.935, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "876", "prediction": "To find the measure of a central angle in the problem, let's analyze the given information step by step.\n\n1. **Identify the Key Points", "baseline": "entropy", "latency_sec": 3.292, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "979", "prediction": "The image shows a collection of orange blocks, each representing a unit block in the context of base-10 multiplication or addition. Here's how the", "baseline": "entropy", "latency_sec": 3.295, "metadata": {"question_type": "free_form"}}
+{"sample_id": "888", "prediction": "To determine how many objects remain after the specified operations, I will follow these steps:\n\n1. **Identify and count each object initially:**", "baseline": "entropy", "latency_sec": 2.521, "metadata": {"question_type": "free_form"}}
+{"sample_id": "104", "prediction": "There are four females in the image, and all of them are facing away from the camera. Therefore, the fraction of females facing the camera is", "baseline": "entropy", "latency_sec": 3.185, "metadata": {"question_type": "free_form"}}
+{"sample_id": "948", "prediction": "Read the numbers from the table.\n14, 8, 17, 17, 3, 7, 5,", "baseline": "entropy", "latency_sec": 2.838, "metadata": {"question_type": "free_form"}}
+{"sample_id": "955", "prediction": "\u5df2\u77e5\u4e00\u4e2a\u591a\u8fb9\u5f62\u5185\u89d2\u548c\u4e0e\u5706\u5fc3\u89d2\u7684\u5173\u7cfb\uff1a\\(S_\u591a\u8fb9\u5f62= \\frac{1}{2}\u00d7", "baseline": "entropy", "latency_sec": 2.728, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "465", "prediction": "Yes", "baseline": "entropy", "latency_sec": 0.77, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "651", "prediction": "Look at the 1990 s column. Find the numbers in this column for Canada and Italy.\nCanada: 8\nItaly:", "baseline": "entropy", "latency_sec": 2.792, "metadata": {"question_type": "free_form"}}
+{"sample_id": "855", "prediction": "To determine the value of \\( x \\) such that lines \\( a \\) and \\( b \\) are parallel, we need to use the fact", "baseline": "entropy", "latency_sec": 2.907, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "374", "prediction": "The sum of the accuracies of the algorithms calf and ivory is 13.", "baseline": "entropy", "latency_sec": 2.6, "metadata": {"question_type": "free_form"}}
+{"sample_id": "167", "prediction": "To determine the largest zero (roots) of the function \\(f(x) = \\frac{x^3 + 3x^2 - 6", "baseline": "entropy", "latency_sec": 11.952, "metadata": {"question_type": "free_form"}}
+{"sample_id": "380", "prediction": "Sure, let's break down the data for you:\n\n1. 4.2% (2005)\n2. 4.3", "baseline": "entropy", "latency_sec": 3.814, "metadata": {"question_type": "free_form"}}
+{"sample_id": "364", "prediction": "To solve for the measure of angle \\(\\angle BCD\\) given that \\(AB\\) is the diameter of circle \\(\\odot O\\) and", "baseline": "entropy", "latency_sec": 2.756, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "215", "prediction": "<th markdown=\"1\">13</th>\n\n<th markdown=\"1\">2</th>\n\n<th markdown=\"1\">8</th>\n\n<th markdown", "baseline": "entropy", "latency_sec": 2.787, "metadata": {"question_type": "free_form"}}
+{"sample_id": "687", "prediction": "An increase in the amount of phytoplankton in the Antarctic ocean could naturally increase the number of krill. This is because phytoplankton", "baseline": "entropy", "latency_sec": 3.061, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "274", "prediction": "7", "baseline": "entropy", "latency_sec": 0.417, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "971", "prediction": "no", "baseline": "entropy", "latency_sec": 0.881, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "700", "prediction": "6", "baseline": "entropy", "latency_sec": 0.553, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "664", "prediction": "Not applicable.", "baseline": "entropy", "latency_sec": 3.368, "metadata": {"question_type": "free_form"}}
+{"sample_id": "74", "prediction": "47.61%", "baseline": "entropy", "latency_sec": 1.633, "metadata": {"question_type": "free_form"}}
+{"sample_id": "624", "prediction": "5", "baseline": "entropy", "latency_sec": 2.326, "metadata": {"question_type": "free_form"}}
+{"sample_id": "908", "prediction": "plant", "baseline": "entropy", "latency_sec": 1.465, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "176", "prediction": "16x - 2", "baseline": "entropy", "latency_sec": 2.161, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "547", "prediction": "Deer", "baseline": "entropy", "latency_sec": 1.637, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "747", "prediction": "To find \\( m \\widehat{HJ} \\) in the circle centered at \\( M \\) with \\( m \\widehat{HP", "baseline": "entropy", "latency_sec": 2.346, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "995", "prediction": "27.36", "baseline": "entropy", "latency_sec": 1.524, "metadata": {"question_type": "free_form"}}
+{"sample_id": "168", "prediction": "Color C", "baseline": "entropy", "latency_sec": 0.789, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "474", "prediction": "About 12 to 13 miles per gallon.", "baseline": "entropy", "latency_sec": 1.129, "metadata": {"question_type": "free_form"}}
+{"sample_id": "389", "prediction": "At a price of $320, there is a shortage.\nTo determine if there is a shortage, compare the quantity demanded and the quantity supplied", "baseline": "entropy", "latency_sec": 2.741, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "277", "prediction": "D", "baseline": "entropy", "latency_sec": 0.75, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "656", "prediction": "Yes", "baseline": "entropy", "latency_sec": 0.904, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "705", "prediction": "Yes.", "baseline": "entropy", "latency_sec": 1.687, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "571", "prediction": "No", "baseline": "entropy", "latency_sec": 0.796, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "225", "prediction": "[1,2,3,4,5,6,7,0]", "baseline": "entropy", "latency_sec": 2.867, "metadata": {"question_type": "free_form"}}
+{"sample_id": "702", "prediction": "350 grams", "baseline": "entropy", "latency_sec": 2.753, "metadata": {"question_type": "free_form"}}
+{"sample_id": "333", "prediction": "5", "baseline": "entropy", "latency_sec": 1.196, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "864", "prediction": "The image description does not provide specific details about the ages of the individuals, so it's not possible to determine the age gap between them based solely on", "baseline": "entropy", "latency_sec": 3.977, "metadata": {"question_type": "free_form"}}
+{"sample_id": "787", "prediction": "100%", "baseline": "entropy", "latency_sec": 1.047, "metadata": {"question_type": "free_form"}}
+{"sample_id": "795", "prediction": "The two individuals in the image appear to be around 70 years apart in age, given their attire and the overall scene.", "baseline": "entropy", "latency_sec": 2.53, "metadata": {"question_type": "free_form"}}
+{"sample_id": "58", "prediction": "Yes", "baseline": "entropy", "latency_sec": 0.915, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "235", "prediction": "No", "baseline": "entropy", "latency_sec": 1.962, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "842", "prediction": "\u221a3/3", "baseline": "entropy", "latency_sec": 0.746, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "983", "prediction": "8", "baseline": "entropy", "latency_sec": 0.732, "metadata": {"question_type": "free_form"}}
+{"sample_id": "825", "prediction": "False", "baseline": "entropy", "latency_sec": 0.909, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "324", "prediction": "46", "baseline": "entropy", "latency_sec": 1.624, "metadata": {"question_type": "free_form"}}
+{"sample_id": "411", "prediction": "100%", "baseline": "entropy", "latency_sec": 2.055, "metadata": {"question_type": "free_form"}}
+{"sample_id": "275", "prediction": "12.0", "baseline": "entropy", "latency_sec": 0.656, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "68", "prediction": "14cm", "baseline": "entropy", "latency_sec": 0.66, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "217", "prediction": "2", "baseline": "entropy", "latency_sec": 1.47, "metadata": {"question_type": "free_form"}}
+{"sample_id": "581", "prediction": "2", "baseline": "entropy", "latency_sec": 0.544, "metadata": {"question_type": "free_form"}}
+{"sample_id": "736", "prediction": "34\u00b0", "baseline": "entropy", "latency_sec": 1.448, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "323", "prediction": "Red", "baseline": "entropy", "latency_sec": 0.44, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "218", "prediction": "2", "baseline": "entropy", "latency_sec": 0.497, "metadata": {"question_type": "free_form"}}
+{"sample_id": "672", "prediction": "2", "baseline": "entropy", "latency_sec": 0.484, "metadata": {"question_type": "free_form"}}
+{"sample_id": "512", "prediction": "0.4583", "baseline": "entropy", "latency_sec": 2.333, "metadata": {"question_type": "free_form"}}
+{"sample_id": "406", "prediction": "20", "baseline": "entropy", "latency_sec": 0.678, "metadata": {"question_type": "free_form"}}
+{"sample_id": "659", "prediction": "172", "baseline": "entropy", "latency_sec": 1.422, "metadata": {"question_type": "free_form"}}
+{"sample_id": "470", "prediction": "PDE-Refiner (ours)", "baseline": "entropy", "latency_sec": 3.043, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "147", "prediction": "Sample B", "baseline": "entropy", "latency_sec": 0.834, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "272", "prediction": "1:00", "baseline": "entropy", "latency_sec": 0.787, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "993", "prediction": "9", "baseline": "entropy", "latency_sec": 0.534, "metadata": {"question_type": "free_form"}}
+{"sample_id": "253", "prediction": "2", "baseline": "entropy", "latency_sec": 0.692, "metadata": {"question_type": "free_form"}}
+{"sample_id": "763", "prediction": "9", "baseline": "entropy", "latency_sec": 0.537, "metadata": {"question_type": "free_form"}}
+{"sample_id": "975", "prediction": "6", "baseline": "entropy", "latency_sec": 0.486, "metadata": {"question_type": "free_form"}}
+{"sample_id": "552", "prediction": "3", "baseline": "entropy", "latency_sec": 1.544, "metadata": {"question_type": "free_form"}}
+{"sample_id": "270", "prediction": "110\u00b0", "baseline": "entropy", "latency_sec": 1.012, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "765", "prediction": "No", "baseline": "entropy", "latency_sec": 0.681, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "599", "prediction": "2", "baseline": "entropy", "latency_sec": 1.408, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "439", "prediction": "Yes, the function appears to be convex based on its visual characteristics.", "baseline": "entropy", "latency_sec": 1.964, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "598", "prediction": "Themasked flowerpiercer (Diglossa cyanea) has the most curved beak among the species listed.", "baseline": "entropy", "latency_sec": 2.318, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "409", "prediction": "The radius of the circle is 3 units as it reaches from the center to the edge at points directly up from (0,4) and down", "baseline": "entropy", "latency_sec": 1.429, "metadata": {"question_type": "free_form"}}
+{"sample_id": "926", "prediction": "11.78", "baseline": "entropy", "latency_sec": 2.287, "metadata": {"question_type": "free_form"}}
+{"sample_id": "882", "prediction": "Yes", "baseline": "entropy", "latency_sec": 0.796, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "142", "prediction": "no", "baseline": "entropy", "latency_sec": 1.462, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "522", "prediction": "7", "baseline": "entropy", "latency_sec": 0.501, "metadata": {"question_type": "free_form"}}
+{"sample_id": "506", "prediction": "2015\u81f32016", "baseline": "entropy", "latency_sec": 2.002, "metadata": {"question_type": "free_form"}}
+{"sample_id": "94", "prediction": "72\u00b0", "baseline": "entropy", "latency_sec": 0.618, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "774", "prediction": "Yes", "baseline": "entropy", "latency_sec": 0.916, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "49", "prediction": "7", "baseline": "entropy", "latency_sec": 1.042, "metadata": {"question_type": "free_form"}}
+{"sample_id": "113", "prediction": "40", "baseline": "entropy", "latency_sec": 1.015, "metadata": {"question_type": "free_form"}}
+{"sample_id": "157", "prediction": "6,404", "baseline": "entropy", "latency_sec": 1.01, "metadata": {"question_type": "free_form"}}
+{"sample_id": "643", "prediction": "80\u00b0", "baseline": "entropy", "latency_sec": 0.571, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "959", "prediction": "31, 34, 32, 33, 35.\nFirst, put the numbers in order from least to greatest", "baseline": "entropy", "latency_sec": 2.028, "metadata": {"question_type": "free_form"}}
+{"sample_id": "812", "prediction": "Yes", "baseline": "entropy", "latency_sec": 2.966, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "697", "prediction": "18**sqrt(3)", "baseline": "entropy", "latency_sec": 0.718, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "957", "prediction": "Yes", "baseline": "entropy", "latency_sec": 0.909, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "611", "prediction": "3", "baseline": "entropy", "latency_sec": 0.447, "metadata": {"question_type": "free_form"}}
+{"sample_id": "66", "prediction": "Answer: E", "baseline": "entropy", "latency_sec": 0.723, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "395", "prediction": "4-9", "baseline": "entropy", "latency_sec": 2.138, "metadata": {"question_type": "free_form"}}
+{"sample_id": "391", "prediction": "20", "baseline": "entropy", "latency_sec": 0.666, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "964", "prediction": "7", "baseline": "entropy", "latency_sec": 0.438, "metadata": {"question_type": "free_form"}}
+{"sample_id": "480", "prediction": "False", "baseline": "entropy", "latency_sec": 0.939, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "542", "prediction": "3", "baseline": "entropy", "latency_sec": 2.53, "metadata": {"question_type": "free_form"}}
+{"sample_id": "258", "prediction": "2\n\nThere is one bag with 6, one bag with 73 and one bag with 74 which have at least 60", "baseline": "entropy", "latency_sec": 3.211, "metadata": {"question_type": "free_form"}}
+{"sample_id": "567", "prediction": "3", "baseline": "entropy", "latency_sec": 0.591, "metadata": {"question_type": "free_form"}}
+{"sample_id": "12", "prediction": "Yes", "baseline": "entropy", "latency_sec": 0.943, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "831", "prediction": "To calculate the total number of words written on Thursday and Friday, you simply add the number of words from both days together:\n\n374 (Thursday", "baseline": "entropy", "latency_sec": 2.497, "metadata": {"question_type": "free_form"}}
+{"sample_id": "739", "prediction": "23", "baseline": "entropy", "latency_sec": 0.558, "metadata": {"question_type": "free_form"}}
+{"sample_id": "118", "prediction": "0.95", "baseline": "entropy", "latency_sec": 1.799, "metadata": {"question_type": "free_form"}}
+{"sample_id": "699", "prediction": "0 years", "baseline": "entropy", "latency_sec": 2.68, "metadata": {"question_type": "free_form"}}
+{"sample_id": "937", "prediction": "Yes", "baseline": "entropy", "latency_sec": 0.916, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "769", "prediction": "Solution A", "baseline": "entropy", "latency_sec": 0.816, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "900", "prediction": "True", "baseline": "entropy", "latency_sec": 0.95, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "788", "prediction": "30 years", "baseline": "entropy", "latency_sec": 1.615, "metadata": {"question_type": "free_form"}}
+{"sample_id": "657", "prediction": "Yes", "baseline": "entropy", "latency_sec": 0.99, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "956", "prediction": "6", "baseline": "entropy", "latency_sec": 0.498, "metadata": {"question_type": "free_form"}}
+{"sample_id": "999", "prediction": "The magnitude of the tangential component of the acceleration vector \\( \\mathbf{a} \\) is approximately 8.66 cm/s\u00b2", "baseline": "entropy", "latency_sec": 2.49, "metadata": {"question_type": "free_form"}}
+{"sample_id": "932", "prediction": "The phytoplankton population would decrease as they consume more of it due to increased consumption by krill.", "baseline": "entropy", "latency_sec": 2.447, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "446", "prediction": "4", "baseline": "entropy", "latency_sec": 0.461, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "162", "prediction": "8", "baseline": "entropy", "latency_sec": 0.436, "metadata": {"question_type": "free_form"}}
+{"sample_id": "909", "prediction": "0.33", "baseline": "entropy", "latency_sec": 1.407, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "4", "prediction": "4", "baseline": "entropy", "latency_sec": 0.527, "metadata": {"question_type": "free_form"}}
+{"sample_id": "740", "prediction": "30%", "baseline": "entropy", "latency_sec": 0.97, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "737", "prediction": "104 ft", "baseline": "entropy", "latency_sec": 1.123, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "931", "prediction": "50.0", "baseline": "entropy", "latency_sec": 0.593, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "513", "prediction": "42.2%-62.6%", "baseline": "entropy", "latency_sec": 1.792, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "781", "prediction": "20", "baseline": "entropy", "latency_sec": 0.836, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "183", "prediction": "4", "baseline": "entropy", "latency_sec": 0.523, "metadata": {"question_type": "free_form"}}
+{"sample_id": "520", "prediction": "Yes", "baseline": "entropy", "latency_sec": 0.927, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "109", "prediction": "2", "baseline": "entropy", "latency_sec": 0.514, "metadata": {"question_type": "free_form"}}
+{"sample_id": "641", "prediction": "13.25 mg/heart per beat", "baseline": "entropy", "latency_sec": 1.58, "metadata": {"question_type": "free_form"}}
+{"sample_id": "306", "prediction": "No", "baseline": "entropy", "latency_sec": 2.098, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "1000", "prediction": "8", "baseline": "entropy", "latency_sec": 0.501, "metadata": {"question_type": "free_form"}}
+{"sample_id": "797", "prediction": "1", "baseline": "entropy", "latency_sec": 0.527, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "895", "prediction": "MuBERT", "baseline": "entropy", "latency_sec": 2.616, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "974", "prediction": "False", "baseline": "entropy", "latency_sec": 0.948, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "835", "prediction": "0%", "baseline": "entropy", "latency_sec": 1.113, "metadata": {"question_type": "free_form"}}
+{"sample_id": "383", "prediction": "131,253.5", "baseline": "entropy", "latency_sec": 2.639, "metadata": {"question_type": "free_form"}}
+{"sample_id": "799", "prediction": "13", "baseline": "entropy", "latency_sec": 0.583, "metadata": {"question_type": "free_form"}}
+{"sample_id": "166", "prediction": "C)", "baseline": "entropy", "latency_sec": 2.59, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "553", "prediction": "Yes", "baseline": "entropy", "latency_sec": 0.716, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "544", "prediction": "54", "baseline": "entropy", "latency_sec": 1.335, "metadata": {"question_type": "free_form"}}
+{"sample_id": "1", "prediction": "$0.29 \\mathrm{~kg}$", "baseline": "entropy", "latency_sec": 3.782, "metadata": {"question_type": "free_form"}}
+{"sample_id": "614", "prediction": "The age gap between these two individuals appears to be significant. The person on the left, based on their hairstyle and attire, may look like 5", "baseline": "entropy", "latency_sec": 2.745, "metadata": {"question_type": "free_form"}}
+{"sample_id": "332", "prediction": "5359", "baseline": "entropy", "latency_sec": 1.116, "metadata": {"question_type": "free_form"}}
+{"sample_id": "501", "prediction": "6", "baseline": "entropy", "latency_sec": 0.481, "metadata": {"question_type": "free_form"}}
+{"sample_id": "20", "prediction": "No, the sum of the two smaller bars (Paraguay and Laos) is not greater than the highest bar for Czechia. The sum of Par", "baseline": "entropy", "latency_sec": 2.073, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "809", "prediction": "1:3", "baseline": "entropy", "latency_sec": 0.962, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "372", "prediction": "2", "baseline": "entropy", "latency_sec": 0.511, "metadata": {"question_type": "free_form"}}
+{"sample_id": "315", "prediction": "c. 25a^2 + 100", "baseline": "entropy", "latency_sec": 2.023, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "246", "prediction": "To predict the relative increase in water vapor in the atmosphere given a temperature rise of \\(2.0 \\, ^{\\circ}\\text{C}\\", "baseline": "entropy", "latency_sec": 3.156, "metadata": {"question_type": "free_form"}}
+{"sample_id": "60", "prediction": "Not applicable, not a person.", "baseline": "entropy", "latency_sec": 2.475, "metadata": {"question_type": "free_form"}}
+{"sample_id": "247", "prediction": "To determine the period \\( T \\) of the resulting elliptical orbit, we must first understand that when an object's speed decreases such that the specific", "baseline": "entropy", "latency_sec": 3.421, "metadata": {"question_type": "free_form"}}
+{"sample_id": "866", "prediction": "82.5\u00b0", "baseline": "entropy", "latency_sec": 1.601, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "934", "prediction": "10000", "baseline": "entropy", "latency_sec": 1.095, "metadata": {"question_type": "free_form"}}
+{"sample_id": "88", "prediction": "10", "baseline": "entropy", "latency_sec": 0.681, "metadata": {"question_type": "free_form"}}
+{"sample_id": "750", "prediction": "11.", "baseline": "entropy", "latency_sec": 0.62, "metadata": {"question_type": "free_form"}}
+{"sample_id": "498", "prediction": "Yes, the basket-like structure that holds the water is now about half full of water.", "baseline": "entropy", "latency_sec": 2.192, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "71", "prediction": "18", "baseline": "entropy", "latency_sec": 0.563, "metadata": {"question_type": "free_form"}}
+{"sample_id": "546", "prediction": "1.26", "baseline": "entropy", "latency_sec": 1.676, "metadata": {"question_type": "free_form"}}
+{"sample_id": "129", "prediction": "3", "baseline": "entropy", "latency_sec": 0.483, "metadata": {"question_type": "free_form"}}
+{"sample_id": "132", "prediction": "2", "baseline": "entropy", "latency_sec": 0.54, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "676", "prediction": "1", "baseline": "entropy", "latency_sec": 0.717, "metadata": {"question_type": "free_form"}}
+{"sample_id": "487", "prediction": "True", "baseline": "entropy", "latency_sec": 0.902, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "563", "prediction": "73", "baseline": "entropy", "latency_sec": 0.868, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "170", "prediction": "2.63", "baseline": "entropy", "latency_sec": 0.94, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "856", "prediction": "The simple leaf has the least leaves. It has just one single leaf, while the compound leaf has multiple smaller leaves grouped together on a main stem.", "baseline": "entropy", "latency_sec": 1.319, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "541", "prediction": "The cube on the right-bottom grid (bottom row, rightmost cube) is not identical to the unfolded net.", "baseline": "entropy", "latency_sec": 1.634, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "622", "prediction": "9", "baseline": "entropy", "latency_sec": 0.49, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "434", "prediction": "x = 60\u00b0 - (k / 3)", "baseline": "entropy", "latency_sec": 2.103, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "867", "prediction": "$22", "baseline": "entropy", "latency_sec": 0.614, "metadata": {"question_type": "free_form"}}
+{"sample_id": "785", "prediction": "The algae and floating plants, which serve as producers in the ecosystem, will be negatively impacted. Without them, there will be fewer primary producers for the", "baseline": "entropy", "latency_sec": 2.954, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "939", "prediction": "The crab, which directly feeds on clams in the food web mentioned above the clams, would be most affected by their absence due to reduced prey", "baseline": "entropy", "latency_sec": 5.179, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "707", "prediction": "60\u00b0", "baseline": "entropy", "latency_sec": 0.767, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "206", "prediction": "1.2", "baseline": "entropy", "latency_sec": 2.191, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "731", "prediction": "40", "baseline": "entropy", "latency_sec": 0.58, "metadata": {"question_type": "free_form"}}
+{"sample_id": "320", "prediction": "6", "baseline": "entropy", "latency_sec": 0.443, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "845", "prediction": "The difference in age could not be determined precisely from the given information.", "baseline": "entropy", "latency_sec": 1.355, "metadata": {"question_type": "free_form"}}
+{"sample_id": "688", "prediction": "0-5 months", "baseline": "entropy", "latency_sec": 2.711, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "972", "prediction": "False", "baseline": "entropy", "latency_sec": 0.91, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "832", "prediction": "-2 / 4 = -1/2", "baseline": "entropy", "latency_sec": 2.771, "metadata": {"question_type": "free_form"}}
+{"sample_id": "449", "prediction": "The average motorcycle gets about 60-70 miles per gallon (mpg) on the highway.", "baseline": "entropy", "latency_sec": 2.901, "metadata": {"question_type": "free_form"}}
+{"sample_id": "530", "prediction": "5", "baseline": "entropy", "latency_sec": 1.193, "metadata": {"question_type": "free_form"}}
+{"sample_id": "463", "prediction": "2", "baseline": "entropy", "latency_sec": 0.527, "metadata": {"question_type": "free_form"}}
+{"sample_id": "124", "prediction": "The type of leaf arrangement described is **alternate**. In alternate arrangement, there are two leaves on either side of a stem, with only one leaf", "baseline": "entropy", "latency_sec": 2.061, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "254", "prediction": "True", "baseline": "entropy", "latency_sec": 0.936, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "231", "prediction": "Identity", "baseline": "entropy", "latency_sec": 2.756, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "828", "prediction": "2.7", "baseline": "entropy", "latency_sec": 0.716, "metadata": {"question_type": "free_form"}}
+{"sample_id": "347", "prediction": "False", "baseline": "entropy", "latency_sec": 0.941, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "22", "prediction": "0", "baseline": "entropy", "latency_sec": 1.202, "metadata": {"question_type": "free_form"}}
+{"sample_id": "603", "prediction": "100 grams", "baseline": "entropy", "latency_sec": 2.783, "metadata": {"question_type": "free_form"}}
+{"sample_id": "568", "prediction": "3.\nFind the Car column. Find the numbers in this column for Mukilteu-Clinton and Southport-Fort Fisher.\n\nMukil", "baseline": "entropy", "latency_sec": 2.924, "metadata": {"question_type": "free_form"}}
+{"sample_id": "236", "prediction": "2z - 15 = 9", "baseline": "entropy", "latency_sec": 2.622, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "735", "prediction": "No", "baseline": "entropy", "latency_sec": 0.903, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "968", "prediction": "5", "baseline": "entropy", "latency_sec": 0.499, "metadata": {"question_type": "free_form"}}
+{"sample_id": "8", "prediction": "yes", "baseline": "entropy", "latency_sec": 0.9, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "73", "prediction": "To complete the matrix, ensure all shapes at each row align with their counterparts above and to the right. Start with the rows that have shapes directly beneath", "baseline": "entropy", "latency_sec": 3.064, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "725", "prediction": "\\( v_{P B} = 26 \\text{ km/h} \\) (in the positive \\( x \\)-direction)", "baseline": "entropy", "latency_sec": 3.121, "metadata": {"question_type": "free_form"}}
+{"sample_id": "647", "prediction": "C", "baseline": "entropy", "latency_sec": 1.393, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "61", "prediction": "No", "baseline": "entropy", "latency_sec": 1.44, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "875", "prediction": "2", "baseline": "entropy", "latency_sec": 0.523, "metadata": {"question_type": "free_form"}}
+{"sample_id": "70", "prediction": "There isn't enough information to determine the age difference between the individuals in the image.", "baseline": "entropy", "latency_sec": 4.187, "metadata": {"question_type": "free_form"}}
+{"sample_id": "873", "prediction": "2", "baseline": "entropy", "latency_sec": 0.729, "metadata": {"question_type": "free_form"}}
+{"sample_id": "339", "prediction": "55\u00b0", "baseline": "entropy", "latency_sec": 0.577, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "729", "prediction": "3", "baseline": "entropy", "latency_sec": 0.729, "metadata": {"question_type": "free_form"}}
+{"sample_id": "527", "prediction": "yes", "baseline": "entropy", "latency_sec": 0.962, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "244", "prediction": "No", "baseline": "entropy", "latency_sec": 0.739, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "286", "prediction": "9cm\u3002", "baseline": "entropy", "latency_sec": 0.613, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "686", "prediction": "Yes, for an inverse to exist, it must be possible to uniquely solve for \\(x\\) from \\(y\\).", "baseline": "entropy", "latency_sec": 1.918, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "768", "prediction": "July", "baseline": "entropy", "latency_sec": 0.597, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "220", "prediction": "170", "baseline": "entropy", "latency_sec": 0.636, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "754", "prediction": "The duck and the fish.\nA) will grow faster C)\nwill decrease in size E) will not change B\nwill survive longer D) will", "baseline": "entropy", "latency_sec": 2.489, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "136", "prediction": "64", "baseline": "entropy", "latency_sec": 0.785, "metadata": {"question_type": "free_form"}}
+{"sample_id": "585", "prediction": "\u6839\u636e\u9898\u610f\u548c\u76f4\u89d2\u4e09\u89d2\u5f62\u7684\u6027\u8d28\u4ee5\u53ca\u76f4\u89d2\u8fb9\u4e4b\u95f4\u7684\u5173\u7cfb\uff0c\u7ed3\u5408\u9898\u8bbe\u6761\u4ef6\u53ef\u4ee5\u8ba1\u7b97\u51faBD\u7684\u957f\u5ea6\u3002\u7531\u4e8eAC", "baseline": "entropy", "latency_sec": 1.202, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "591", "prediction": "3", "baseline": "entropy", "latency_sec": 1.407, "metadata": {"question_type": "free_form"}}
+{"sample_id": "485", "prediction": "140", "baseline": "entropy", "latency_sec": 0.606, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "249", "prediction": "5", "baseline": "entropy", "latency_sec": 0.506, "metadata": {"question_type": "free_form"}}
+{"sample_id": "710", "prediction": "0", "baseline": "entropy", "latency_sec": 2.583, "metadata": {"question_type": "free_form"}}
+{"sample_id": "417", "prediction": "12 years", "baseline": "entropy", "latency_sec": 1.835, "metadata": {"question_type": "free_form"}}
+{"sample_id": "195", "prediction": "130\u00b0", "baseline": "entropy", "latency_sec": 0.691, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "97", "prediction": "0", "baseline": "entropy", "latency_sec": 0.684, "metadata": {"question_type": "free_form"}}
+{"sample_id": "947", "prediction": "65\u00b0", "baseline": "entropy", "latency_sec": 0.689, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "675", "prediction": "94", "baseline": "entropy", "latency_sec": 0.812, "metadata": {"question_type": "multi_choice"}}
+{"sample_id": "442", "prediction": "Three", "baseline": "entropy", "latency_sec": 0.719, "metadata": {"question_type": "free_form"}}
+{"sample_id": "363", "prediction": "2", "baseline": "entropy", "latency_sec": 0.531, "metadata": {"question_type": "free_form"}}
