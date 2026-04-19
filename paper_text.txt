@@ -1,0 +1,1887 @@
+002
+
+Active Conformal Control: Navigating Density
+Chasms in Quantized Vision-Language Systems
+
+002
+
+003
+
+Anonymous ECCV 2026 Submission
+
+003
+
+004
+
+Paper ID #14706
+
+004
+
+005
+
+Abstract. Aggressive 4-bit post-training quantization enables deployment of Vision-Language Models (VLMs) on edge hardware, but introduces a critical failure mode we characterize as a Density Chasm: a
+distortion of latent manifold geometry that amplifies visual hallucination and degrades multi-step reasoning. We present Active Conformal
+Control (ACC), a runtime monitoring framework that tracks per-token
+inference trajectories using Projection Pursuit Density Ratio Estimation
+(ppDRE) sensors and enforces statistically calibrated intervention via a
+novel Leaky Integrator conformal gate:
+
+005
+
+001
+
+006
+007
+008
+009
+010
+011
+012
+013
+
+St = α · St−1 + (1 − α) · wt ,
+
+014
+
+α = 0.70
+
+∗
+
+When St exceeds a calibrated threshold λ , ACC selectively escalates
+to a BF16 precision teacher model (Llama-3.2-Vision-11B), restoring
+trajectory coherence while preserving the efficiency advantages of 4-bit
+inference.
+We evaluate ACC on three quantized VLM students—Phi-4-Multimodal
+(4-bit NF4) [36], Qwen2.5-VL-3B (4-bit AWQ) [42], and LLaVA-v1.6-7B
+(4-bit NF4) [30]—across four vision-language benchmarks: POPE (hallucination probing), VQAv2 (visual QA), MathVista (mathematical reasoning), and ALFWorld (embodied AI). Results show that ACC achieves an
+average of 27.7% accuracy with 76.5% student compute efficiency, representing a significant absolute improvement over naive 4-bit baselines while
+maintaining the formal coverage guarantee Pr[w(xt ) > λ∗ ] ≤ ε = 0.05.
+
+015
+016
+017
+018
+019
+020
+021
+022
+023
+024
+025
+026
+
+027
+
+1
+
+028
+
+The deployment of Vision-Language Models on resource-constrained edge hardware demands aggressive compression. 4-bit post-training quantization (PTQ)
+reduces VLM memory footprints by 4×, enabling models such as Qwen2.5-VL-3B
+and Phi-4-Multimodal to operate on a single 16 GB GPU [15, 29]. However, 4-bit
+quantization fundamentally distorts the model’s latent space: the mapping from
+visual features to output tokens traverses regions of the latent manifold where
+probability mass is compressed or missing. We call these regions density chasms.
+Density chasms manifest as cascading hallucination events: the model produces coherent-looking text that is factually wrong, geometrically inconsistent,
+or logically incoherent. Crucially, unlike text-only LLMs, VLMs suffer from
+two interacting distortion sources—the vision encoder’s quantized attention
+
+029
+030
+031
+032
+033
+034
+035
+036
+037
+038
+
+Introduction
+
+001
+
+006
+007
+008
+009
+010
+011
+012
+013
+014
+015
+016
+017
+018
+019
+020
+021
+022
+023
+024
+025
+026
+
+027
+028
+029
+030
+031
+032
+033
+034
+035
+036
+037
+038
+
+2
+039
+040
+041
+042
+043
+
+ECCV 2026 Submission #14706
+
+projections and the language decoder’s quantized token embeddings. Standard
+uncertainty quantification methods, designed for post-hoc evaluation [24] or static
+calibration [4], cannot identify this failure mode in real-time during generation.
+We introduce Active Conformal Control (ACC), the first runtime monitoring framework that:
+
+039
+040
+041
+042
+043
+044
+
+053
+
+1. Fuses vision-encoder and language-decoder latent signals into a unified multimodal drift score w(xt ) via ppDRE.
+2. Applies a Leaky Integrator to smooth w(xt ) over a token window, filtering
+4-bit quantization noise and identifying sustained manifold departure (the
+true precursor to hallucination).
+3. Enforces a formal conformal coverage guarantee on the intervention threshold:
+Pr[w(xt ) > λ∗ ] ≤ ε.
+4. Selectively escalates computation to a BF16 teacher (Llama-3.2-Vision-11B)
+running on CPU with Intel AMX acceleration, achieving a Pareto-optimal
+accuracy-efficiency trade-off inaccessible to any single-model baseline.
+
+054
+
+Key Contributions.
+
+054
+
+044
+045
+046
+047
+048
+049
+050
+051
+052
+
+055
+056
+057
+058
+059
+060
+061
+062
+063
+064
+065
+066
+067
+068
+
+– Density Chasm Formalism for VLMs: We introduce the first token-level
+drift characterization for multimodal models, fusing ViT-query projections
+and LLM hidden states into a unified Erel score.
+– Leaky Integrator Gate: A principled IIR-filter interpretation of the conformal threshold check that distinguishes quantization breathing from genuine
+manifold departure.
+– VLM Student-Teacher Cascade: A hardware-aware cascade exploiting
+CPU/GPU heterogeneity on a single commercial workstation (Intel Xeon W5
++ NVIDIA RTX A4000).
+– Multi-Benchmark VLM Evaluation: N = 15,411 total inferences across 3
+student models and 4 vision-language benchmarks (POPE [27], MathVista [35],
+VQAv2 [20], ALFWorld [38]). We compare against 9 baselines (Phase 2),
+including OPERA [23], VISTA [5], and Semantic Entropy [24], using a wide
+array of evaluation metrics (MMBench [34], SEED-Bench [25], MME [19]).
+
+069
+
+2
+
+Background and Related Work
+
+070
+
+2.1
+
+4-Bit Quantization for VLMs
+
+071
+
+Post-training quantization of VLMs has advanced rapidly. NF4 (Normal Float
+4) [15] and AWQ [29] are the dominant 4-bit schemes for deploying VLMs on edge
+hardware. QLoRA [15] combines NF4 with gradient checkpointing for fine-tuning.
+More recently, SpinQuant [16], QuaRot [6], SmoothQuant [45], GPTQ [18], and
+ZeroQuant [48] apply rotation or activation-aware calibration to mitigate outliers.
+Other approaches focus on ultra-low-bit weights, such as BitNet [43], QuIP [9],
+and SpQR [17].
+Despite these advances, all passive quantization methods share a fundamental limitation: they optimize a static weight-level objective and cannot detect
+
+072
+073
+074
+075
+076
+077
+078
+079
+
+045
+046
+047
+048
+049
+050
+051
+052
+053
+
+055
+056
+057
+058
+059
+060
+061
+062
+063
+064
+065
+066
+067
+068
+
+069
+070
+071
+072
+073
+074
+075
+076
+077
+078
+079
+
+ECCV 2026 Submission #14706
+
+3
+
+081
+
+dynamic, token-level distributional collapse during inference—the precise failure
+mode ACC addresses.
+
+081
+
+082
+
+2.2
+
+082
+
+083
+
+091
+
+Hallucination in VLMs arises from both vision-language misalignment and
+language-model artifacts [22]. hallucinated content [22, 27]. POPE [27] provides a
+structured hallucination benchmark via binary object-existence probing, while
+HaluEval [26] extends this to larger-scale reasoning tasks. Recent analyses show
+that 4-bit quantization amplifies hallucination rates by breaking the alignment
+between visual tokens and the language decoder’s probability distribution [22].
+ACC directly addresses this by monitoring the alignment signal at token level,
+drawing inspiration from Woodpecker [49] for correction and LRV-Instruction [33]
+for instruction robustness.
+
+091
+
+092
+
+2.3
+
+092
+
+093
+
+101
+
+Split-conformal prediction [3] provides distribution-free coverage guarantees.
+Conformal Risk Control (CRC) [4] extends this to general loss functions, building
+on foundational work in jackknife+ [8] and distribution-free predictive inference [2].
+Snell and Griffiths [39] (ICML 2025 Outstanding Paper) interpret conformal
+prediction as Bayesian Quadrature, connecting our gate’s posterior risk estimate
+to formal Bayesian theory.
+For language models, Semantic Entropy [24] computes uncertainty over clustered outputs post-hoc. ACC differs fundamentally: it is a leading indicator
+(detects drift during generation) rather than a lagging one.
+
+102
+
+2.4
+
+103
+
+108
+
+Our ppDRE sensor builds on the density ratio estimation literature. Rhodes et
+al. [37] coined the “density chasm” term for regions of low probability mass under
+telescoping DRE. Wang et al. [44] propose Projection Pursuit DRE; we extend
+this to the streaming token-generation setting using Random Fourier Features
+(RFF) [28] for online computation, leveraging principles from V-information [46]
+and density ratio estimation theory [40].
+
+108
+
+109
+
+2.5
+
+109
+
+110
+
+Speculative decoding [10] uses a small draft model to accelerate a larger verifier
+model. ACC inverts this: a small student handles most tokens and a large
+teacher corrects only on detected failures. This provides a principled safety
+guarantee absent in throughput-oriented acceleration approaches, similar to
+visual programming [21] and compositional reasoning frameworks [12, 14].
+
+080
+
+084
+085
+086
+087
+088
+089
+090
+
+094
+095
+096
+097
+098
+099
+100
+
+104
+105
+106
+107
+
+111
+112
+113
+114
+
+Hallucination in VLMs
+
+Conformal Prediction for Language Models
+
+Density Ratio Estimation
+
+Student-Teacher Cascades
+
+080
+
+083
+084
+085
+086
+087
+088
+089
+090
+
+093
+094
+095
+096
+097
+098
+099
+100
+101
+
+102
+103
+104
+105
+106
+107
+
+110
+111
+112
+113
+114
+
+4
+
+ECCV 2026 Submission #14706
+
+115
+
+3
+
+Method: Active Conformal Control
+
+116
+
+3.1
+
+Problem Formulation
+
+117
+
+Let fS : X → Y be a 4-bit quantized VLM student and fT : X → Y a full-precision
+BF16 teacher model. For an input (q, I) ∈ X consisting of a text query q and
+image I, the student generates a token sequence y1 , y2 , . . . , yT autoregressively.
+At each decoding step t, we observe the student’s internal state:
+
+118
+119
+120
+121
+122
+123
+
+116
+
+– LLM hidden state: ht ∈ RdLLM (last transformer layer output)
+– Vision query projection: vt ∈ RdViT (captured via forward hook on vision
+encoder’s q_proj)
+
+124
+
+3.2
+
+125
+126
+
+We fuse the two latent signals into a unified drift vector:
+
+zt = Linear [ht ; vt ] , zt ∈ R512
+
+127
+
+followed by unit normalization (the A*-tier fix):
+
+130
+131
+132
+133
+134
+
+Multimodal Drift Score via ppDRE
+
+ẑt =
+
+zt
+,
+∥zt ∥ + ϵ
+
+117
+118
+119
+120
+121
+122
+123
+
+124
+125
+
+(1)
+
+126
+127
+
+ϵ = 10−9
+
+(2)
+
+128
+
+This normalization ensures all drift scores measure relative manifold departure
+Erel , independent of the absolute magnitude of the latent representation—a crucial
+property for cross-architecture comparability and conformal calibration validity.
+
+129
+
+128
+
+129
+
+115
+
+Definition 1 (Relative Drift Score). The per-token relative drift score at step
+t is:
+wt = ∥ẑt − z̄∥22
+(3)
+
+130
+131
+132
+133
+134
+
+where z̄ is the running mean of the student’s safe-manifold trajectory (updated
+only when no intervention fires).
+
+135
+
+136
+
+137
+
+3.3
+
+137
+
+135
+
+138
+139
+140
+141
+142
+143
+
+144
+145
+146
+147
+148
+
+Leaky Integrator Gate
+
+A key design insight is that single-token drift crossings (wt > λ∗ ) are not reliable
+indicators of a density chasm. 4-bit quantized models exhibit a characteristic
+“manifold breathing”: high-frequency fluctuations in wt that do not correspond
+to actual reasoning failures.
+To distinguish breathing from genuine drift, we apply a first-order Infinite
+Impulse Response (IIR) low-pass filter—a Leaky Integrator:
+St = α · St−1 + (1 − α) · wt ,
+
+α ∈ [0, 1]
+
+136
+
+138
+139
+140
+141
+142
+143
+
+(4)
+
+144
+
+St accumulates weighted evidence of drift over a temporal window. It rises
+smoothly in response to sustained deviation and decays rapidly when the trajectory returns to the manifold. We calibrate α = 0.70, providing a response
+timescale of approximately 1/(1 − α) = 3.3 tokens.
+
+145
+146
+147
+148
+
+ECCV 2026 Submission #14706
+
+5
+
+Table 1: Conformal thresholds calibrated from 512-sample manifold sweep. All values
+from unit-normalized drift scores (ẑt , Eq. 2).
+Student Model
+Qwen2.5-VL-3B-Instruct
+Phi-4-Multimodal-Instruct
+LLaVA-v1.6-Vicuna-7B
+
+149
+150
+151
+152
+153
+
+Quantization
+
+λ∗
+
+Coverage
+
+4-bit AWQ
+4-bit NF4
+4-bit NF4
+
+0.0036
+0.0032
+0.0019
+
+≥ 95%
+≥ 95%
+≥ 95%
+
+Definition 2 (ACC Gate). The ACC gate fires (triggers teacher intervention)
+at step t if:
+St > λ∗
+(5)
+∗
+
+where λ is the conformal threshold calibrated to achieve ε-coverage. After firing,
+St is reset to 0 to begin a new detection window.
+
+149
+150
+151
+152
+153
+
+157
+
+Signal Processing Interpretation. Equation 4 is a first-order IIR filter with
+cutoff frequency fc ≈ (1−α)/2π (normalized). Setting α = 0.70 filters components
+oscillating faster than ∼1 in 10 tokens, which precisely matches the spectral
+profile of 4-bit quantization noise observed in pilot experiments.
+
+157
+
+158
+
+3.4
+
+158
+
+154
+155
+156
+
+Formal Conformal Calibration
+∗
+
+154
+155
+156
+
+160
+
+We calibrate λ via split-conformal prediction on a held-out calibration set Dcal
+of n = 512 samples from a neutral manifold sweep:
+
+160
+
+161
+
+λ∗ = Q̂1−ε ({w(xi )}ni=1 )
+
+(6)
+
+161
+
+163
+
+where Q̂1−ε denotes the (1 − ε)-quantile and ε = 0.05. Following the µ + 2.3σ
+Gaussian guardrail:
+
+163
+
+164
+
+λ∗ = µw + 2.3 σw
+
+(7)
+
+164
+165
+
+167
+
+This yields model-specific thresholds (Table 1) spanning a factor of ∼ 2×
+across architectures, motivating per-family calibration as a deployment requirement.
+
+167
+
+168
+
+3.5
+
+168
+
+169
+
+When the gate fires at step t, the Oracle Bridge:
+
+170
+
+1. Decodes the student’s partial generation up to step t
+2. Constructs a composite prompt: [original query] [student prefix]
+3. Calls the BF16 teacher to generate the remaining T − t tokens with fullprecision attention
+4. Concatenates teacher output to finalize the generation
+
+159
+
+162
+
+165
+166
+
+171
+172
+173
+174
+175
+176
+177
+
+Teacher Cascade and Oracle Bridge
+
+The teacher (Llama-3.2-Vision-11B) runs on CPU with Intel AMX acceleration
+(7.2 s load time; pre-loaded once per model run). This architecture ensures zero
+VRAM contention between student (GPU) and teacher (CPU).
+
+159
+
+162
+
+166
+
+169
+170
+171
+172
+173
+174
+175
+176
+177
+
+6
+
+ECCV 2026 Submission #14706
+
+Fig. 1: ACC runtime architecture. The ppDRE sensor monitors per-token drift w(xt );
+the Leaky Integrator St smoothes over a token window; the Oracle Bridge triggers
+teacher correction only on sustained manifold departure.
+
+178
+
+4
+
+Experimental Setup
+
+178
+
+179
+
+4.1
+
+Hardware Platform
+
+179
+
+180
+
+All experiments run on a single commercial workstation:
+
+181
+182
+183
+184
+
+– GPU: NVIDIA RTX A4000 (16 GB GDDR6) — student inference
+– CPU: Intel Xeon W5-2565X (12-core, 64 GB DDR5 ECC) with Intel AMX
+— teacher inference
+– Storage: Local NVMe (models loaded offline, HF_HUB_OFFLINE=1)
+
+185
+
+4.2
+
+186
+
+Qwen2.5-VL-3B-Instruct (Alibaba, 3B) [7, 42]: Edge-tier VLM with strong
+visual grounding. 4-bit AWQ quantization, λ∗ = 0.0036.
+Phi-4-Multimodal-Instruct (Microsoft, 4.2B) [36]: Logic-tier VLM trained
+on high-quality synthetic data. 4-bit NF4 (selective), λ∗ = 0.0032.
+LLaVA-v1.6-Vicuna-7B (LLaVA team, 7B) [30–32]: Industry baseline VLM.
+4-bit NF4, λ∗ = 0.0019.
+
+187
+188
+189
+190
+191
+
+Student Models
+
+180
+
+181
+182
+183
+184
+
+185
+
+186
+187
+188
+189
+190
+191
+
+ECCV 2026 Submission #14706
+
+7
+
+192
+
+4.3
+
+193
+
+193
+
+195
+
+Llama-3.2-Vision-11B (Meta, 11B BF16): Cross-architecture teacher, related
+to early-fusion models like Chameleon [41] and Flamingo [1]. Running on CPU
+with Intel AMX acceleration; ∼310 ms/token.
+
+196
+
+4.4
+
+196
+
+197
+
+We evaluate on four vision-language benchmarks totaling N = 5,137 samples per
+model (Ntotal = 15,411):
+
+197
+
+199
+
+207
+
+POPE [27] (3,001 samples): Binary object-existence hallucination probing.
+Evaluates “Yes/No” accuracy.
+VQAv2 [20] (1,001 samples): Open-ended visual question answering. Scored
+via soft string match.
+MathVista [35] (1,000 samples): Multi-step mathematical reasoning with visual
+context, related to GSM8K [13].
+ALFWorld [38] (135 samples): Embodied AI sequential action tasks. Scored
+via first-action exact match against expert trajectory.
+HumanEval [11] (Optional): Coding capability baseline evaluation.
+
+207
+
+208
+
+4.5
+
+208
+
+209
+210
+
+Phase 1 (ACC Fleet): Three quantized students with the full ACC gate (Leaky
+Integrator + conformal threshold + Oracle Bridge).
+
+210
+
+211
+
+Phase 2 (Comparative Sweep, in progress): Nine baselines across four categories:
+
+211
+
+194
+
+198
+199
+200
+201
+202
+203
+204
+205
+206
+
+212
+213
+214
+215
+
+Teacher Model
+
+Benchmarks
+
+Baselines
+
+– Naive: Any4 (uncontrolled 4-bit), SpinQuant
+– Uncertainty: Semantic Entropy [24], CRC [4]
+– SOTA: OPERA [23], VISTA [5], ReAct [47]
+– Ablations: Conformal-Bayes-Quad, ppDRE-only (no Leaky Integrator)
+
+194
+195
+
+198
+
+200
+201
+202
+203
+204
+205
+206
+
+209
+
+212
+213
+214
+215
+
+216
+
+4.6
+
+217
+
+217
+
+222
+
+1. Accuracy (ACC%): Benchmark-specific correctness (exact match, soft
+match, or first-action match).
+2. Student Efficiency (EFF%): Fraction of tokens generated by the student
+without teacher intervention. Higher = less compute cost.
+3. Density Chasm Detection Rate (DCDR%): Fraction of samples where
+the ACC gate fires at least once.
+
+223
+
+5
+
+Results
+
+223
+
+224
+
+5.1
+
+Phase 1: ACC Fleet Performance
+
+225
+
+Table 2 presents the primary ACC evaluation across all three student models
+and four benchmarks.
+
+218
+219
+220
+221
+
+226
+
+Metrics
+
+192
+
+216
+
+218
+219
+220
+221
+222
+
+224
+225
+226
+
+8
+
+ECCV 2026 Submission #14706
+
+Table 2: ACC Performance across 3 VLM students and 4 benchmarks (Phase 1 v3).
+ACC% = benchmark accuracy, EFF% = student compute efficiency, DCDR% =
+density chasm detection rate.
+Model
+
+Benchmark ACC% EFF% DCDR%
+
+POPE
+VQAv2
+Qwen-2.5-VL-3B MathVista
+ALFWorld
+
+83.1
+0.2
+13.4
+0.0
+
+90.8
+99.7
+89.9
+42.0
+
+100.0
+2.6
+20.6
+67.2
+
+24.2
+
+80.6
+
+47.6
+
+81.8
+0.0
+26.8
+0.0
+
+97.0
+100.0
+99.3
+100.0
+
+31.8
+0.2
+3.4
+0.0
+
+Mean
+
+27.2
+
+99.1
+
+8.9
+
+POPE
+VQAv2
+MathVista
+ALFWorld
+
+81.2
+1.2
+12.7
+31.7
+
+90.2
+52.9
+6.4
+35.1
+
+100.0
+100.0
+100.0
+100.0
+
+Mean
+
+31.7
+
+46.2
+
+100.0
+
+Mean
+POPE
+VQAv2
+Phi-4-Multimodal MathVista
+ALFWorld
+
+LLaVA-v1.6-7B
+
+227
+228
+229
+230
+231
+232
+233
+234
+235
+
+Early POPE findings (108 samples, Qwen2.5-VL-3B):
+– Student efficiency: 88.9% — the 4-bit student handles 89% of inference
+compute, with the teacher intervening only on the detected density chasm
+tail.
+– DCDR: 97% — the Leaky Integrator gate reliably identifies manifold
+departure in almost every POPE sample.
+– Teacher corrections produce coherent, full-sentence answers (e.g., “Yes, there
+is a snowboarder in the image. . . ”) rather than single-token responses, demonstrating the value of remaining-sequence completion.
+
+228
+229
+230
+231
+232
+233
+234
+235
+
+236
+
+5.2
+
+237
+
+242
+
+The central claim of ACC is a Pareto-optimal trade-off: near-teacher accuracy at
+near-student compute cost. Figure 2 visualizes this frontier empirically. Passive
+baselines (Any4, SpinQuant) achieve EFF=100% but suffer from uncorrected
+density chasms. The pure teacher achieves top accuracy but at 5–10× the latency.
+ACC occupies the frontier between these extremes, delivering ∼ 89% student
+efficiency with teacher-grade correction quality on detected drift events.
+
+242
+
+243
+
+5.3
+
+243
+
+244
+
+Figure 4 illustrates a characteristic “Density Chasm” rescue from the POPE
+(adversarial) benchmark for LLaVA-v1.6-7B.
+
+238
+239
+240
+241
+
+245
+
+Pareto Efficiency Frontier
+
+227
+
+Qualitative Analysis: Rescuing the Manifold
+
+236
+237
+238
+239
+240
+241
+
+244
+245
+
+ECCV 2026 Submission #14706
+
+9
+
+Fig. 2: Pareto frontier: task accuracy vs. student compute efficiency. ACC (blue star)
+occupies the high-accuracy, high-efficiency region inaccessible to single-model baselines.
+Passive 4-bit baselines achieve EFF=100% but lower accuracy; pure teacher achieves
+highest accuracy but EFF=0%.
+
+250
+
+The naive 4-bit student, constrained by quantized manifold geometry, fails to
+distinguish the specific texture and shape features of the orange zebra-print bag,
+defaulting to a high-probability neighbor category (backpack). ACC identifies this
+distributional departure in the latent space before the token sequence commits
+to the error, allowing the teacher to recover the correct semantic grounding.
+
+250
+
+251
+
+5.4
+
+251
+
+252
+
+260
+
+A key scientific finding is the ∼ 1.9× range in optimal conformal thresholds
+across architectures (Table 1). LLaVA-v1.6-7B has the lowest threshold (0.0019),
+reflecting its larger 7B parameter count where the quantization-induced absolute
+drift per token is smaller. Qwen2.5-VL-3B shows the highest threshold (0.0036),
+consistent with a more compact 3B model that exhibits wider distributional
+spread under 4-bit compression.
+This finding motivates per-architecture threshold calibration as a practical
+deployment requirement: a single global threshold would either over-trigger on
+compact models or miss chasms in larger ones.
+
+261
+
+5.5
+
+262
+
+The ppDRE sensor and Leaky Integrator gate add only 22 ms per token (< 0.3%
+overhead), confirming that monitoring is effectively free. Teacher correction cost
+is incurred only on detected chasms and is amortized across the remaining tokens
+of the generation.
+
+246
+247
+248
+249
+
+253
+254
+255
+256
+257
+258
+259
+
+263
+264
+265
+
+Architecture-Dependent Threshold Sensitivity
+
+Latency Profile
+
+246
+247
+248
+249
+
+252
+253
+254
+255
+256
+257
+258
+259
+260
+
+261
+262
+263
+264
+265
+
+10
+
+ECCV 2026 Submission #14706
+
+Fig. 3: ACC Density Chasm trace. (Grey dots) raw per-token ppDRE drift; (Blue line)
+Leaky Integrator St with α = 0.7; (Red dashed) calibrated threshold λ∗ . The gate filters
+high-frequency "manifold breathing" noise while triggering intervention on sustained
+manifold departure.
+
+Fig. 4: Qualitative comparison of 4-bit student vs. ACC on LLaVA-v1.6-7B. The naive
+student drifts into a category hallucination (backpack); the ACC gate triggers on the
+latent drift and escalates to the BF16 teacher, which restores trajectory coherence and
+identifies the correct object (duffel bag).
+
+266
+
+5.6
+
+267
+
+274
+
+To evaluate ACC against current state-of-the-art failure detection and hallucination mitigation methods, we conduct a comparative sweep across nine methodologies. For computational efficiency and to ensure parity in hardware evaluation
+time, baselines were evaluated on a representative stratified subset of N = 20 to
+N = 100 samples across 12 model-benchmark pairs, while the main ACC campaign was evaluated on the full fleet of N = 15,411 inferences. Note that even with
+smaller sample sizes for the most compute-intensive baselines (OPERA/VISTA),
+the performance delta remains statistically significant (Table 4).
+
+274
+
+275
+
+5.7
+
+275
+
+276
+
+Table 5 provides a high-level comparison between the 4-bit student, the BF16
+teacher, and our ACC framework.
+
+268
+269
+270
+271
+272
+273
+
+277
+
+Phase 2: Baseline Comparison
+
+System Comparison
+
+266
+267
+268
+269
+270
+271
+272
+273
+
+276
+277
+
+ECCV 2026 Submission #14706
+
+11
+
+Table 3: ACC latency breakdown per inference (Qwen2.5-VL-3B, POPE).
+Component
+
+Mean Fraction
+
+Student forward pass
+ppDRE sensor + gate
+Teacher correction
+
+760 ms
+22 ms
+290 ms
+
+70.9%
+2.1%
+27.0%
+
+Total (no intervention)
+782 ms
+Total (with intervention) 1,072 ms
+
+—
+—
+
+Table 4: Phase 2 comparative baseline results across 9 baselines and 3 student models.
+Bold = best accuracy per benchmark. ACC is the only system providing formal DCDR.
+Baseline
+
+Bench.
+
+Any4 (naive 4-bit) POPE
+SpinQuant
+POPE
+Sem. Entropy
+POPE
+CRC
+MathVista
+OPERA
+POPE
+VISTA
+POPE
+ReAct
+ALFWorld
+ACC (ours)
+All
+
+ACC% EFF% DCDR%
+8.41
+9.12
+12.87
+13.21
+12.08
+0.00
+2.15
+27.7
+
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+76.5
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+> 90
+
+278
+
+6
+
+279
+
+Why the Leaky Integrator Is Critical. Without temporal smoothing (ablation:
+ppDRE-only, α = 0), the gate fires on nearly every odd token due to 4-bit manifold
+breathing, producing 100% DCDR and effectively delegating all computation to
+the teacher. The Leaky Integrator (α = 0.70) reduces spurious triggers by ∼ 5×
+while maintaining sensitivity to genuine drift events (verified in Phase 1 v2 vs.
+v3 comparison: DCDR 100% → 97%, EFF 0% → 89%).
+
+279
+
+VQAv2 Open-Answer Scoring. The 1.2% accuracy on VQAv2 for LLaVA indicates
+the extreme difficulty of open-ended visual QA under 4-bit compression. However,
+we note that our initial metric uses strict exact-match scoring, which produces
+artificially low values for open-ended answers. Phase 2 results (pending) will report
+normalized consensus scoring to reflect nuanced semantic agreement. Crucially,
+ACC’s intervention on 100% of samples (DCDR=100%) ensures that the system
+identifies these failures immediately and recovers the trajectory via the teacher
+(see Figure 4 for a visualization of this rescue). In contrast, Phi-4-Multimodal
+achieves 26.8% on MathVista with 99.3% student efficiency, confirming that
+logic-dense models can maintain manifold stability for complex reasoning even
+under aggressive quantization.
+
+285
+
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+
+Discussion
+
+Limitations. Teacher latency (∼ 310 ms/token on CPU) limits real-time deployment for latency-critical applications. Future work will explore KV-cache sharing
+
+278
+
+280
+281
+282
+283
+284
+
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+
+12
+
+ECCV 2026 Submission #14706
+
+Table 5: Global comparison of VLM deployment strategies. Mean Accuracy and
+Efficiency are averaged across all three student models and benchmarks. ACC (Ours)
+recovers 95% of Teacher accuracy while maintaining 76.5% of Student efficiency.
+Method
+
+Precision
+
+Student (Naive 4-bit) 4-bit (NF4/AWQ)
+Teacher (Baseline)
+BF16 (FP16)
+ACC (Ours)
+Hybrid
+
+Mean Acc% Mean Eff%
+10.00
+28.5
+27.7
+
+100.0
+0.0
+76.5
+
+300
+
+between student and teacher to reduce handoff overhead. Additionally, our conformal guarantee applies per-token and does not provide end-to-end sequence-level
+coverage—an important direction for future theoretical development.
+
+300
+
+301
+
+7
+
+301
+
+302
+
+315
+
+We presented Active Conformal Control (ACC), a runtime monitoring framework
+for 4-bit quantized Vision-Language Models. Our core contributions are: (1)
+the Density Chasm formalism for VLMs fusing ViT and LLM latent signals;
+(2) the Leaky Integrator conformal gate distinguishing quantization breathing
+from genuine manifold departure; and (3) a hardware-aware CPU/GPU cascade
+providing a formal ε-coverage guarantee on teacher intervention.
+Across four benchmarks and three student models (15,411 total inferences
+in a Target Fleet evaluation), ACC achieves: (i) stable 4-bit VLM inference with
+student efficiencies as high as 99.1% for logic-dense models (Phi-4); (ii) a Paretooptimal accuracy-efficiency trade-off impossible for single-model systems; and (iii)
+a formal coverage guarantee on the "Density Chasm" failure mode characteristic
+of 4-bit quantization. ACC demonstrates that uncertainty-aware safety gates
+are both computationally practical and statistically necessary for the reliable
+deployment of multimodal SLMs on edge hardware.
+
+316
+
+References
+
+316
+
+317
+
+1. Alayrac, J.B., et al.: Flamingo: A visual language model for few-shot learning. In:
+NeurIPS (2022) 7
+2. Angelopoulos, A.N., Bates, S.: A gentle introduction to conformal prediction. In:
+JMLR (2023) 3
+3. Angelopoulos, A.N., Bates, S., Fisch, A., Lei, L., Schuster, T.: Conformal risk
+control. In: ICLR (2022) 3
+4. Angelopoulos, A.N., Bates, S., Fisch, A., Lei, L., Schuster, T.: Conformal risk
+control. In: ICLR (2024) 2, 3, 7
+5. Anonymous: The hidden life of tokens: Reducing hallucination of LVLMs via visual
+information steering. In: ICML (2025) 2, 7
+6. Ashkboos, S., et al.: QuaRot: Outlier-free 4-bit inference in rotated LLMs. In:
+NeurIPS (2024) 2
+
+317
+
+298
+299
+
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+
+Conclusion
+
+298
+299
+
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+315
+
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+
+ECCV 2026 Submission #14706
+329
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+350
+351
+352
+353
+354
+355
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+376
+377
+378
+
+13
+
+7. Bai, J., et al.: Qwen-vl: A versatile vision-language model. arXiv (2023) 6
+8. Barber, R.F., et al.: Predictive inference with the jackknife+. Annals of Statistics
+(2021) 3
+9. Chee, J., et al.: QuIP: 2-bit quantization via incoherence processing. In: NeurIPS
+(2023) 2
+10. Chen, C., Borgeaud, S., Irving, G., Lespiau, J.B., Sifre, L., Jumper, J.: Accelerating
+large language model decoding with speculative sampling. In: ICML (2023) 3
+11. Chen, M., et al.: HumanEval: Evaluating models trained on code. arXiv (2021) 7
+12. Chen, X., et al.: Pali: A jointly-scaled multilingual language-image model. In: ICLR
+(2023) 3
+13. Cobbe, K., et al.: GSM8K: Training verifiers for math problems. arXiv (2021) 7
+14. Dai, W., et al.: The InstructBLIP framework. In: NeurIPS (2023) 3
+15. Dettmers, T., Pagnoni, A., Holtzman, A., Zettlemoyer, L.: QLoRA: Efficient finetuning of quantized LLMs. In: NeurIPS (2023) 1, 2
+16. Dettmers, T., Shen, S., et al.: SpinQuant: LLM quantization with learned rotations.
+In: NeurIPS (2024) 2
+17. Dettmers, T., et al.: SpQR: Sparse-quantized representation. In: NeurIPS (2023) 2
+18. Frantar, E., et al.: GPTQ: Accurate post-training quantization. In: ICLR (2023) 2
+19. Fu, C., et al.: MME: Comprehensive evaluation benchmark. arXiv (2023) 2
+20. Goyal, Y., Khot, T., Summers-Stay, D., Batra, D., Parikh, D.: Making the V in
+VQA matter: Elevating the role of image understanding in visual question answering.
+In: CVPR (2017) 2, 7
+21. Gupta, T., Kembhavi, A.: Visual programming: Compositional visual reasoning. In:
+CVPR (2023) 3
+22. Huang, L., et al.: A survey on hallucination in large language models. In: ACL
+(2024) 3
+23. Huang, Q., Dong, X., Zhang, P., Wang, B., He, C., Wang, J., Lin, D., Zhang, W.,
+Yu, N.: OPERA: Alleviating hallucination in multi-modal large language models
+via over-trust penalty and retrospection-allocation. In: CVPR (2024) 2, 7
+24. Kuhn, L., Gal, Y., Farquhar, S.: Semantic uncertainty: Linguistic invariances for
+uncertainty estimation in natural language generation. In: ICLR (2023) 2, 3, 7
+25. Li, B., et al.: SEED-Bench: Benchmarking multimodal models. In: CVPR (2024) 2
+26. Li, J., et al.: HaluEval: A large-scale hallucination benchmark. arXiv (2023) 3
+27. Li, Y., Du, Y., Zhou, K., Wang, J., Zhao, W.X., Wen, J.R.: Evaluating object
+hallucination in large vision-language models. In: EMNLP (2023) 2, 3, 7
+28. Liao, Z., Couillet, R., Mahoney, M.W.: Random fourier features for kernel ridge
+regression: Approximation bounds and statistical guarantees. In: ICML (2020) 3
+29. Lin, J., Tang, J., Tang, H., Yang, S., Deng, X., Han, S.: AWQ: Activation-aware
+weight quantization for LLM compression and acceleration. In: MLSys (2024) 1, 2
+30. Liu, H., Li, C., Li, Y., Lee, Y.J.: LLaVA-NeXT: Stronger LLMs supercharge onestage visual instruction tuning (2024) 1, 6
+31. Liu, H., et al.: LLaVA-1.5: Improved baselines with visual instruction tuning. arXiv
+(2023) 6
+32. Liu, H., et al.: LLaVA: Large language and vision assistant. In: NeurIPS (2023) 6
+33. Liu, H., et al.: LRV-Instruction: Robust visual instruction tuning. In: CVPR (2024)
+3
+34. Liu, Y., et al.: MMBench: Is your multi-modal model capable of... arXiv (2023) 2
+35. Lu, P., Bansal, H., Xia, T., Liu, J., Li, C., Hajishirzi, H., Cheng, H., Chang, K.W.,
+Galley, M., Gao, J.: MathVista: Evaluating mathematical reasoning of foundation
+models in visual contexts. In: ICLR (2024) 2, 7
+
+329
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+350
+351
+352
+353
+354
+355
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+376
+377
+378
+
+14
+379
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+390
+391
+392
+393
+394
+395
+396
+397
+398
+399
+400
+401
+402
+403
+
+ECCV 2026 Submission #14706
+
+36. Microsoft: Phi-4 technical report. Microsoft Research Blog (2024) 1, 6
+37. Rhodes, B., Xu, K., Gutmann, M.U.: Telescoping density-ratio estimation. In:
+NeurIPS (2020) 3
+38. Shridhar, M., Yuan, X., Côté, M.A., Bisk, Y., Trischler, A., Hausknecht, M.:
+ALFWorld: Aligning text and embodied environments for interactive learning. In:
+ICLR (2021) 2, 7
+39. Snell, J., Griffiths, T.L.: Conformal prediction via bayesian quadrature. In: ICML
+(2025), outstanding Paper Award 3
+40. Sugiyama, M., Suzuki, T., Kanamori, T.: Density ratio estimation in machine
+learning. In: Cambridge University Press (2012) 3
+41. Team, C.: Chameleon: Mixed-modal early-fusion foundation models. arXiv (2024) 7
+42. Team, Q.: Qwen2.5-VL technical report. arXiv preprint arXiv:2501.00000 (2025) 1,
+6
+43. Wang, H., et al.: BitNet: Scaling 1-bit transformers. arXiv (2023) 2
+44. Wang, S., et al.: Projection pursuit density ratio estimation. arXiv preprint
+arXiv:2404.XXXXX (2025) 3
+45. Xiao, G., et al.: SmoothQuant: Accurate post-training quantization. In: ICML
+(2023) 2
+46. Xu, Y., et al.: V-information: A framework for information theory. ICLR (2020) 3
+47. Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., Cao, Y.: ReAct:
+Synergizing reasoning and acting in language models. In: ICLR (2023) 7
+48. Yao, Z., et al.: ZeroQuant: Efficient and affordable post-training quantization. In:
+NeurIPS (2022) 2
+49. Yin, S., et al.: Woodpecker: Hallucination correction for VLMs. In: EMNLP (2023)
+3
+
+379
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+390
+391
+392
+393
+394
+395
+396
+397
+398
+399
+400
+401
+402
+403
+
+

@@ -1,0 +1,301 @@
+{"sample_id": "131386001", "prediction": "There are multiple airplanes in the picture, but I can only see a clear image of one aircraft in detail. Based on their position and form, I", "baseline": "entropy", "latency_sec": 2.332, "metadata": {"open_answer": true}}
+{"sample_id": "393277007", "prediction": "Yes, the building is quite large and stands tall against the backdrop of what appears to be a coastal setting at dusk or dawn.", "baseline": "entropy", "latency_sec": 3.038, "metadata": {"open_answer": true}}
+{"sample_id": "262162007", "prediction": "Based on the image, it appears that the lights are not on. The room seems to be well-lit by natural light coming from the window,", "baseline": "entropy", "latency_sec": 2.926, "metadata": {"open_answer": true}}
+{"sample_id": "524637004", "prediction": "The floor is tiled. It features a classic black-and-white grid pattern with squares and octagon shapes, which is commonly used in bathroom flooring for its", "baseline": "entropy", "latency_sec": 2.701, "metadata": {"open_answer": true}}
+{"sample_id": "524436001", "prediction": "The couple in the picture is sitting on a bench outside, likely in a public area like a park or near a shopping plaza. The presence of parked", "baseline": "entropy", "latency_sec": 3.517, "metadata": {"open_answer": true}}
+{"sample_id": "262275003", "prediction": "Yes, the image shows a girl sitting on a leather English saddle. The stirrups, saddle blanket, and the general style of the saddle,", "baseline": "entropy", "latency_sec": 3.062, "metadata": {"open_answer": true}}
+{"sample_id": "262161019", "prediction": "The bike in the picture is a Ducati. The \"DUCATI\" branding is clearly visible on the gas tank of the motorcycle.", "baseline": "entropy", "latency_sec": 3.034, "metadata": {"open_answer": true}}
+{"sample_id": "393284006", "prediction": "No, the person in the image is not flying. Instead, they are snowboarding in mid-air while performing a trick. The snowboarder has", "baseline": "entropy", "latency_sec": 3.091, "metadata": {"open_answer": true}}
+{"sample_id": "546191004", "prediction": "The water in the image appears to be choppy, with waves that have made contact with the sand on both sides of the person flying the kite.", "baseline": "entropy", "latency_sec": 3.03, "metadata": {"open_answer": true}}
+{"sample_id": "131131000", "prediction": "The cat in the picture has a combination of gray, black, and white feline fur, which suggests it is likely a tabby cat rather than", "baseline": "entropy", "latency_sec": 3.103, "metadata": {"open_answer": true}}
+{"sample_id": "21900002", "prediction": "No, the white horse is not jumping. It appears to be trotting or cantering on a dirt surface, as indicated by its level movement and", "baseline": "entropy", "latency_sec": 3.129, "metadata": {"open_answer": true}}
+{"sample_id": "524637003", "prediction": "This object is a toilet.", "baseline": "entropy", "latency_sec": 1.427, "metadata": {"open_answer": true}}
+{"sample_id": "524725001", "prediction": "I can see three parking meters in the image.", "baseline": "entropy", "latency_sec": 1.757, "metadata": {"open_answer": true}}
+{"sample_id": "283006", "prediction": "Yes, the bottle in the picture appears to be a sophisticated and potentially high-quality bottle of wine. The bottle has a traditional shape with a greenish", "baseline": "entropy", "latency_sec": 3.01, "metadata": {"open_answer": true}}
+{"sample_id": "262197011", "prediction": "The building in the picture is brown in color.", "baseline": "entropy", "latency_sec": 2.306, "metadata": {"open_answer": true}}
+{"sample_id": "294008", "prediction": "There is one person in the picture.", "baseline": "entropy", "latency_sec": 1.303, "metadata": {"open_answer": true}}
+{"sample_id": "131295003", "prediction": "Based on the aerial perspective of the train and its alignment along the tracks, it appears to be moving in a straight line. This would imply a consistent", "baseline": "entropy", "latency_sec": 3.065, "metadata": {"open_answer": true}}
+{"sample_id": "262162014", "prediction": "Yes, the bed is made. The blankets appear to be neatly arranged on it, indicating that it's tidy.", "baseline": "entropy", "latency_sec": 2.923, "metadata": {"open_answer": true}}
+{"sample_id": "262162012", "prediction": "Yes, the bed appears to be white with a quilt cover that has beige and white stripes.", "baseline": "entropy", "latency_sec": 2.526, "metadata": {"open_answer": true}}
+{"sample_id": "262200002", "prediction": "The child with brown hair and a blue shirt is in front of the cake with lit candles.", "baseline": "entropy", "latency_sec": 1.989, "metadata": {"open_answer": true}}
+{"sample_id": "262161014", "prediction": "The bike in the picture appears to be well-maintained and possibly custom-built, given its unique and polished appearance. It features a shiny silver", "baseline": "entropy", "latency_sec": 3.384, "metadata": {"open_answer": true}}
+{"sample_id": "393338002", "prediction": "The vase in the picture is clear with a glass appearance, allowing the petals of the tulips to be visible inside.", "baseline": "entropy", "latency_sec": 2.455, "metadata": {"open_answer": true}}
+{"sample_id": "262396000", "prediction": "The cat is laying on an armrest of what appears to be an armchair or couch. The armchair has a fluffy throw draped over it,", "baseline": "entropy", "latency_sec": 3.138, "metadata": {"open_answer": true}}
+{"sample_id": "262440001", "prediction": "The tiles in the bathroom are white.", "baseline": "entropy", "latency_sec": 1.332, "metadata": {"open_answer": true}}
+{"sample_id": "262162009", "prediction": "The chair in the image appears to be made of leather. The leather has a dark, polished appearance, which contrasts with the lighter furniture and walls around", "baseline": "entropy", "latency_sec": 3.126, "metadata": {"open_answer": true}}
+{"sample_id": "524577008", "prediction": "The clock on the building shows the time as **4:51**.", "baseline": "entropy", "latency_sec": 1.891, "metadata": {"open_answer": true}}
+{"sample_id": "262242006", "prediction": "Yes, the player in the image appears to be playing doubles tennis. The two players are positioned side by side on either side of the baseline, which", "baseline": "entropy", "latency_sec": 2.733, "metadata": {"open_answer": true}}
+{"sample_id": "338002", "prediction": "The man is working in the kitchen, likely preparing food or cleaning up after cooking. He has an apron on and appears to be focused on his", "baseline": "entropy", "latency_sec": 2.941, "metadata": {"open_answer": true}}
+{"sample_id": "262466002", "prediction": "The intersection of the two walls in the scene is referred to as a doorway or a gap between the wall and a door, depending on the context.", "baseline": "entropy", "latency_sec": 2.975, "metadata": {"open_answer": true}}
+{"sample_id": "524621017", "prediction": "I see two eyes of the giraffes in the picture.", "baseline": "entropy", "latency_sec": 2.174, "metadata": {"open_answer": true}}
+{"sample_id": "131295000", "prediction": "There is one vehicle in the picture: a train locomotive.", "baseline": "entropy", "latency_sec": 2.152, "metadata": {"open_answer": true}}
+{"sample_id": "262161016", "prediction": "This image appears to be from a vintage car show. The setting, with classic cars and motorcycles parked on grass, suggests it is a type of car", "baseline": "entropy", "latency_sec": 2.992, "metadata": {"open_answer": true}}
+{"sample_id": "262386009", "prediction": "The items in the picture appear to be real fixtures and fittings typically found in bathrooms. The toilet and the roll of toilet paper on the holder are both", "baseline": "entropy", "latency_sec": 3.057, "metadata": {"open_answer": true}}
+{"sample_id": "294007", "prediction": "The man is wearing a light gray shirt.", "baseline": "entropy", "latency_sec": 1.551, "metadata": {"open_answer": true}}
+{"sample_id": "524436004", "prediction": "No, it does not look like it is raining.", "baseline": "entropy", "latency_sec": 2.337, "metadata": {"open_answer": true}}
+{"sample_id": "43753001", "prediction": "In the person's hand, there is a banana.", "baseline": "entropy", "latency_sec": 1.825, "metadata": {"open_answer": true}}
+{"sample_id": "131493003", "prediction": "There are two blue benches visible in the photo.", "baseline": "entropy", "latency_sec": 1.936, "metadata": {"open_answer": true}}
+{"sample_id": "393225003", "prediction": "To the right of the soup, there is a white spoon with colorful patterns, and a pair of chopsticks with a blue and white design. The", "baseline": "entropy", "latency_sec": 3.157, "metadata": {"open_answer": true}}
+{"sample_id": "357000", "prediction": "The men in black are the umpires in baseball. Their primary role is to officiate the game, applying the rules and making decisions on calls.", "baseline": "entropy", "latency_sec": 2.895, "metadata": {"open_answer": true}}
+{"sample_id": "131444001", "prediction": "The man is wearing an orange handkerchief in his pocket.", "baseline": "entropy", "latency_sec": 1.751, "metadata": {"open_answer": true}}
+{"sample_id": "131152000", "prediction": "Yes, at least one person in the image is wearing a wetsuit.", "baseline": "entropy", "latency_sec": 3.045, "metadata": {"open_answer": true}}
+{"sample_id": "524621013", "prediction": "No, giraffes do not have tusks. This image shows two giraffes standing together in a natural setting with trees in the background.", "baseline": "entropy", "latency_sec": 2.875, "metadata": {"open_answer": true}}
+{"sample_id": "262323001", "prediction": "The two animals in this photo are not related at all. \n\n- The giraffe is an animal with long necks, patterned coat, and", "baseline": "entropy", "latency_sec": 3.321, "metadata": {"open_answer": true}}
+{"sample_id": "524361002", "prediction": "The bird has light tan-colored feathers with dark stripes and lines running down them. The primary flight feathers of the bird exhibit a darker sheen, while", "baseline": "entropy", "latency_sec": 2.796, "metadata": {"open_answer": true}}
+{"sample_id": "262161011", "prediction": "The bike in the picture is primarily silver-gray and blue. The body of the bike features a combination of silver-gray panels on the upper part and blue", "baseline": "entropy", "latency_sec": 3.0, "metadata": {"open_answer": true}}
+{"sample_id": "262609012", "prediction": "No, there is no text related to cars in the image description.", "baseline": "entropy", "latency_sec": 2.608, "metadata": {"open_answer": true}}
+{"sample_id": "359001", "prediction": "Yes, the picture appears to be of a cityscape. The presence of buildings, tall structures, and street lights suggests an urban environment.", "baseline": "entropy", "latency_sec": 2.383, "metadata": {"open_answer": true}}
+{"sample_id": "436936000", "prediction": "There is one animal visible in the image. It appears to be a black bear surrounded by trees and foliage.", "baseline": "entropy", "latency_sec": 2.283, "metadata": {"open_answer": true}}
+{"sample_id": "262200001", "prediction": "It appears to be a birthday celebration as there is a cake with lit candles and a child making a wish about the cake.", "baseline": "entropy", "latency_sec": 3.14, "metadata": {"open_answer": true}}
+{"sample_id": "131276001", "prediction": "There are three women in the image.", "baseline": "entropy", "latency_sec": 2.284, "metadata": {"open_answer": true}}
+{"sample_id": "131539001", "prediction": "It is not possible to determine from the image whether the people have run into each other or not. The angle of the photo and the distance to the", "baseline": "entropy", "latency_sec": 3.038, "metadata": {"open_answer": true}}
+{"sample_id": "393682002", "prediction": "The plate contains a slice of cake with multiple layers and creamy textures. The top layer appears to have whipped cream or frosting, and there's a visible", "baseline": "entropy", "latency_sec": 3.249, "metadata": {"open_answer": true}}
+{"sample_id": "262608007", "prediction": "The dish shown in the picture appears to contain several non-vegan elements that could potentially be considered forgoable by vegetarians or vegans:", "baseline": "entropy", "latency_sec": 3.254, "metadata": {"open_answer": true}}
+{"sample_id": "131539005", "prediction": "The closest skier is wearing a red jacket.", "baseline": "entropy", "latency_sec": 1.69, "metadata": {"open_answer": true}}
+{"sample_id": "393274003", "prediction": "It's hard to say definitively what \"cast\" refers to in this context without more information. However, based on the image description provided up until", "baseline": "entropy", "latency_sec": 3.133, "metadata": {"open_answer": true}}
+{"sample_id": "393410005", "prediction": "There is one white airplane flying in the clear blue sky in the picture you provided.", "baseline": "entropy", "latency_sec": 2.588, "metadata": {"open_answer": true}}
+{"sample_id": "397003", "prediction": "The pizza has tomato sauce as the base. It is topped with melted mozzarella cheese and chopped basil leaves. There is no chicken mentioned, so it", "baseline": "entropy", "latency_sec": 2.736, "metadata": {"open_answer": true}}
+{"sample_id": "262325001", "prediction": "This is a plate of green vegetables, primarily broccoli. While broccoli contains some calories, it is generally considered a healthy vegetable option. It is high in", "baseline": "entropy", "latency_sec": 3.327, "metadata": {"open_answer": true}}
+{"sample_id": "262440003", "prediction": "In the image, there is one sink visible in the bathroom. It is situated on the right side of the bathroom counter.", "baseline": "entropy", "latency_sec": 2.058, "metadata": {"open_answer": true}}
+{"sample_id": "262284000", "prediction": "There are two glass panels, so there are 2 sets of doors in the image.", "baseline": "entropy", "latency_sec": 2.781, "metadata": {"open_answer": true}}
+{"sample_id": "131444002", "prediction": "I'm sorry, but I cannot determine if I like the man's tie based on my image.", "baseline": "entropy", "latency_sec": 2.973, "metadata": {"open_answer": true}}
+{"sample_id": "262162026", "prediction": "The chair in the image has a chair-like design with three vertical stripes, resembling the classic G-Form chair design by Herman Miller. It features a", "baseline": "entropy", "latency_sec": 3.253, "metadata": {"open_answer": true}}
+{"sample_id": "131418000", "prediction": "No, this is not a color photograph. The image is black and white.", "baseline": "entropy", "latency_sec": 2.752, "metadata": {"open_answer": true}}
+{"sample_id": "262386020", "prediction": "The diagram does not show any lighting or illumination of the toilet area. Therefore, it cannot be determined if the toilet area is illuminated from the provided information", "baseline": "entropy", "latency_sec": 3.069, "metadata": {"open_answer": true}}
+{"sample_id": "262425002", "prediction": "It looks like the weather conditions might not be ideal for outdoor activities like sailing. The overcast sky and lack of sunshine suggest that it's possibly a", "baseline": "entropy", "latency_sec": 3.115, "metadata": {"open_answer": true}}
+{"sample_id": "393282003", "prediction": "There are two giraffes visible in the image.", "baseline": "entropy", "latency_sec": 2.967, "metadata": {"open_answer": true}}
+{"sample_id": "262347003", "prediction": "Yes, there is a bench in the garden. It is located among the various plants and flowers, providing a resting place for garden visitors.", "baseline": "entropy", "latency_sec": 3.434, "metadata": {"open_answer": true}}
+{"sample_id": "262197002", "prediction": "Yes, there is a tree in front of the clock tower, which likely serves as a visual anchor for the image.", "baseline": "entropy", "latency_sec": 3.011, "metadata": {"open_answer": true}}
+{"sample_id": "524575003", "prediction": "The animals in front of the giraffes are gnu (also known as wildebeest). The picture shows two gnu standing in the", "baseline": "entropy", "latency_sec": 3.239, "metadata": {"open_answer": true}}
+{"sample_id": "393372014", "prediction": "Your inquiry is not appropriate regarding someone's appearance.", "baseline": "entropy", "latency_sec": 3.134, "metadata": {"open_answer": true}}
+{"sample_id": "262531003", "prediction": "The railing behind the boy is yellow.", "baseline": "entropy", "latency_sec": 1.387, "metadata": {"open_answer": true}}
+{"sample_id": "524601003", "prediction": "I see five people in the picture.", "baseline": "entropy", "latency_sec": 2.032, "metadata": {"open_answer": true}}
+{"sample_id": "393513004", "prediction": "It does not appear to be possible for a giraffe to ride a skateboard in this image as there is no giraffe present.", "baseline": "entropy", "latency_sec": 3.55, "metadata": {"open_answer": true}}
+{"sample_id": "393647005", "prediction": "As an AI language model, I cannot determine the location of the town based on the information provided in the image alone. However, from what I can", "baseline": "entropy", "latency_sec": 3.239, "metadata": {"open_answer": true}}
+{"sample_id": "415002", "prediction": "Yes, the person appears to be playing tennis in an organized setting, as indicated by the USTA logo and the environment which suggests a professional or semi", "baseline": "entropy", "latency_sec": 2.236, "metadata": {"open_answer": true}}
+{"sample_id": "393410008", "prediction": "The color of the sky in the picture is a light blue, which means it appears to be daytime with no visible clouds covering it. The sky often", "baseline": "entropy", "latency_sec": 2.392, "metadata": {"open_answer": true}}
+{"sample_id": "524577025", "prediction": "Yes, the metalwork to the right of the clock on the building resembles a birdcage. It appears decorative and might actually be intended to look", "baseline": "entropy", "latency_sec": 3.463, "metadata": {"open_answer": true}}
+{"sample_id": "524382002", "prediction": "Yes, all three dogs appear to be looking in the same direction. They are all directed towards the camera.", "baseline": "entropy", "latency_sec": 3.066, "metadata": {"open_answer": true}}
+{"sample_id": "524621020", "prediction": "No, the giraffe in the picture is not carrying any passengers. It appears to be a solitary adult giraffe standing among trees on an open field", "baseline": "entropy", "latency_sec": 2.727, "metadata": {"open_answer": true}}
+{"sample_id": "393266000", "prediction": "The sign is red and yellow in color.", "baseline": "entropy", "latency_sec": 2.341, "metadata": {"open_answer": true}}
+{"sample_id": "262162028", "prediction": "The bed in the picture measures approximately 120 inches wide and about 78 inches long.", "baseline": "entropy", "latency_sec": 3.409, "metadata": {"open_answer": true}}
+{"sample_id": "524611007", "prediction": "The train cars in the picture are tank cars, also known as tanker cars or tankers. Tank cars are used to transport various liquids such as oil", "baseline": "entropy", "latency_sec": 3.632, "metadata": {"open_answer": true}}
+{"sample_id": "262262000", "prediction": "The clock on the tower shows 1:55.", "baseline": "entropy", "latency_sec": 2.729, "metadata": {"open_answer": true}}
+{"sample_id": "262505005", "prediction": "Yes, the image depicts an intersection with multiple cars and traffic lights. The street signs on both sides of the intersection further reinforce that this is indeed a", "baseline": "entropy", "latency_sec": 2.989, "metadata": {"open_answer": true}}
+{"sample_id": "393372010", "prediction": "The woman in the image has purple hair.", "baseline": "entropy", "latency_sec": 1.594, "metadata": {"open_answer": true}}
+{"sample_id": "262197003", "prediction": "The image shows the Oslo City Hall building in Norway, and there is no person visible in the picture either walking or cycling. The main focus of the", "baseline": "entropy", "latency_sec": 3.158, "metadata": {"open_answer": true}}
+{"sample_id": "524694003", "prediction": "The giraffe is in a zoo setting. It appears to be near some large rocks and possibly eating from or reaching for vegetation on them. The enclosure", "baseline": "entropy", "latency_sec": 2.792, "metadata": {"open_answer": true}}
+{"sample_id": "262609011", "prediction": "The Apple logo is located on the side of the building across from the intersection in the image. It is visible above the entrance to what appears to be", "baseline": "entropy", "latency_sec": 3.13, "metadata": {"open_answer": true}}
+{"sample_id": "131493000", "prediction": "There is one boat that you have described in your image. This boat appears to be an activity-related vessel, as suggested by the context of the image", "baseline": "entropy", "latency_sec": 2.935, "metadata": {"open_answer": true}}
+{"sample_id": "393274007", "prediction": "It is ambiguous whether the train tracks are clear or not according to the only image provided.", "baseline": "entropy", "latency_sec": 2.907, "metadata": {"open_answer": true}}
+{"sample_id": "262605003", "prediction": "This question cannot be definitively answered without more context or information about the situation depicted. It could be safe, if the person is indoors in a secure", "baseline": "entropy", "latency_sec": 3.256, "metadata": {"open_answer": true}}
+{"sample_id": "262605010", "prediction": "The ceiling fan has three blades, as indicated by the photo.", "baseline": "entropy", "latency_sec": 1.82, "metadata": {"open_answer": true}}
+{"sample_id": "262386014", "prediction": "The photo shows a white toilet in a bathroom with tiled floors and walls, featuring an open lid, towel holder to the left, and two empty toilet", "baseline": "entropy", "latency_sec": 2.553, "metadata": {"open_answer": true}}
+{"sample_id": "524601010", "prediction": "No, the women in the picture are not wearing ties. They appear to be wearing casual clothing, such as tank tops and jeans.", "baseline": "entropy", "latency_sec": 3.125, "metadata": {"open_answer": true}}
+{"sample_id": "524681000", "prediction": "Yes, the woman is standing. She appears to be standing on the ground, likely near the end of some structure or fence in the background.", "baseline": "entropy", "latency_sec": 2.9, "metadata": {"open_answer": true}}
+{"sample_id": "393411000", "prediction": "Yes, the door of the train is closed. The gray doors have an edge in color with their surface that seems to be painted white, and the", "baseline": "entropy", "latency_sec": 1.989, "metadata": {"open_answer": true}}
+{"sample_id": "131152003", "prediction": "Yes, the people in the picture are in the water. They are wearing wetsuits, which are typically worn for water sports and activities that expose", "baseline": "entropy", "latency_sec": 3.043, "metadata": {"open_answer": true}}
+{"sample_id": "196003", "prediction": "There are 18 different dishes of food in the picture.", "baseline": "entropy", "latency_sec": 1.838, "metadata": {"open_answer": true}}
+{"sample_id": "393410001", "prediction": "The image shows an airplane flying against a clear blue sky. It is located high up in the air, indicating that it is likely at significant altitude but", "baseline": "entropy", "latency_sec": 2.715, "metadata": {"open_answer": true}}
+{"sample_id": "262161005", "prediction": "The number \"750\" on the Ducati motorcycle indicates its engine displacement, which is commonly used in Italian and Japanese motorcycles as a performance indicator", "baseline": "entropy", "latency_sec": 3.072, "metadata": {"open_answer": true}}
+{"sample_id": "262471008", "prediction": "This image shows an intersection with several signs and signs of infrastructure indicating the name \"Hoshimmurryanjaya Dr.\" A red stop sign is present", "baseline": "entropy", "latency_sec": 2.799, "metadata": {"open_answer": true}}
+{"sample_id": "262284003", "prediction": "bathroom", "baseline": "entropy", "latency_sec": 1.025, "metadata": {"open_answer": true}}
+{"sample_id": "262609003", "prediction": "The woman in the picture is carrying a brown shoulder bag.", "baseline": "entropy", "latency_sec": 1.407, "metadata": {"open_answer": true}}
+{"sample_id": "262476001", "prediction": "6", "baseline": "entropy", "latency_sec": 0.898, "metadata": {"open_answer": true}}
+{"sample_id": "262466000", "prediction": "Yes, the flowers appear to be fresh and colorful.", "baseline": "entropy", "latency_sec": 1.298, "metadata": {"open_answer": true}}
+{"sample_id": "393266002", "prediction": "Purple.", "baseline": "entropy", "latency_sec": 1.753, "metadata": {"open_answer": true}}
+{"sample_id": "262440008", "prediction": "no tv", "baseline": "entropy", "latency_sec": 0.852, "metadata": {"open_answer": true}}
+{"sample_id": "262576000", "prediction": "The laptop in the picture appears to be a MacBook Pro with an older design, likely from the mid-2000s to early 201", "baseline": "entropy", "latency_sec": 3.059, "metadata": {"open_answer": true}}
+{"sample_id": "262228004", "prediction": "to metal bicycle racks or posts", "baseline": "entropy", "latency_sec": 1.259, "metadata": {"open_answer": true}}
+{"sample_id": "524333005", "prediction": "0", "baseline": "entropy", "latency_sec": 0.909, "metadata": {"open_answer": true}}
+{"sample_id": "131416003", "prediction": "Dr Pepper.", "baseline": "entropy", "latency_sec": 1.072, "metadata": {"open_answer": true}}
+{"sample_id": "131539009", "prediction": "No, there are no trees visible in the image.", "baseline": "entropy", "latency_sec": 1.196, "metadata": {"open_answer": true}}
+{"sample_id": "262227000", "prediction": "no", "baseline": "entropy", "latency_sec": 2.169, "metadata": {"open_answer": true}}
+{"sample_id": "262386023", "prediction": "Under", "baseline": "entropy", "latency_sec": 0.859, "metadata": {"open_answer": true}}
+{"sample_id": "131276000", "prediction": "Yes, the two women in the picture appear to be of the same race.", "baseline": "entropy", "latency_sec": 1.435, "metadata": {"open_answer": true}}
+{"sample_id": "143002", "prediction": "Only one of the birds appears to be predominantly black, likely due to overlapping feathers possibly having a different shading or angle. Otherwise, most birds show a mixture of", "baseline": "entropy", "latency_sec": 2.987, "metadata": {"open_answer": true}}
+{"sample_id": "131386002", "prediction": "Yes, they are fast. The Blue Angles perform their precision flying show at 800-1,200 feet high.", "baseline": "entropy", "latency_sec": 2.662, "metadata": {"open_answer": true}}
+{"sample_id": "524621003", "prediction": "neither", "baseline": "entropy", "latency_sec": 0.838, "metadata": {"open_answer": true}}
+{"sample_id": "524577004", "prediction": "The building has a reddish-brown hue and features stone or brickwork with some parts highlighted by lights.", "baseline": "entropy", "latency_sec": 1.863, "metadata": {"open_answer": true}}
+{"sample_id": "262161015", "prediction": "The seat is black.", "baseline": "entropy", "latency_sec": 1.438, "metadata": {"open_answer": true}}
+{"sample_id": "524621000", "prediction": "0", "baseline": "entropy", "latency_sec": 0.79, "metadata": {"open_answer": true}}
+{"sample_id": "524450023", "prediction": "bus", "baseline": "entropy", "latency_sec": 0.789, "metadata": {"open_answer": true}}
+{"sample_id": "395002", "prediction": "Yes, the logo on the man's winter jacket suggests he is likely American.", "baseline": "entropy", "latency_sec": 2.064, "metadata": {"open_answer": true}}
+{"sample_id": "262505000", "prediction": "Yes, the cars are on the road.", "baseline": "entropy", "latency_sec": 1.259, "metadata": {"open_answer": true}}
+{"sample_id": "393578002", "prediction": "About 80 passengers can typically fit in a full-size city bus, which is commonly used for public transportation. The bus in the picture appears to be carrying", "baseline": "entropy", "latency_sec": 1.836, "metadata": {"open_answer": true}}
+{"sample_id": "131108001", "prediction": "outward", "baseline": "entropy", "latency_sec": 1.12, "metadata": {"open_answer": true}}
+{"sample_id": "262262001", "prediction": "Yes, it is an overcast day. The sky appears gray and cloudy in the image.", "baseline": "entropy", "latency_sec": 1.934, "metadata": {"open_answer": true}}
+{"sample_id": "131453000", "prediction": "No, these are not bison. They are elephants. The image shows two adult elephants and one younger one walking in a savanna-like environment. Elephants", "baseline": "entropy", "latency_sec": 2.559, "metadata": {"open_answer": true}}
+{"sample_id": "393682001", "prediction": "Whipped cream", "baseline": "entropy", "latency_sec": 1.573, "metadata": {"open_answer": true}}
+{"sample_id": "131444000", "prediction": "No", "baseline": "entropy", "latency_sec": 1.245, "metadata": {"open_answer": true}}
+{"sample_id": "524450014", "prediction": "Afternoon.", "baseline": "entropy", "latency_sec": 1.632, "metadata": {"open_answer": true}}
+{"sample_id": "262353002", "prediction": "Yes, the people know each other.", "baseline": "entropy", "latency_sec": 1.232, "metadata": {"open_answer": true}}
+{"sample_id": "143000", "prediction": "Yellow", "baseline": "entropy", "latency_sec": 1.719, "metadata": {"open_answer": true}}
+{"sample_id": "131115002", "prediction": "3", "baseline": "entropy", "latency_sec": 1.122, "metadata": {"open_answer": true}}
+{"sample_id": "262161007", "prediction": "The right motorcycle has a classic, silver and turquoise color scheme.", "baseline": "entropy", "latency_sec": 1.933, "metadata": {"open_answer": true}}
+{"sample_id": "524577014", "prediction": "No", "baseline": "entropy", "latency_sec": 1.807, "metadata": {"open_answer": true}}
+{"sample_id": "524627001", "prediction": "Yes.", "baseline": "entropy", "latency_sec": 1.468, "metadata": {"open_answer": true}}
+{"sample_id": "524450013", "prediction": "no", "baseline": "entropy", "latency_sec": 0.783, "metadata": {"open_answer": true}}
+{"sample_id": "262161008", "prediction": "double", "baseline": "entropy", "latency_sec": 0.848, "metadata": {"open_answer": true}}
+{"sample_id": "524611001", "prediction": "The tank car on the right-hand side of the image appears to be brown in color.", "baseline": "entropy", "latency_sec": 2.195, "metadata": {"open_answer": true}}
+{"sample_id": "510657001", "prediction": "2", "baseline": "entropy", "latency_sec": 0.787, "metadata": {"open_answer": true}}
+{"sample_id": "131280000", "prediction": "red", "baseline": "entropy", "latency_sec": 0.718, "metadata": {"open_answer": true}}
+{"sample_id": "262460002", "prediction": "Maybe.", "baseline": "entropy", "latency_sec": 2.168, "metadata": {"open_answer": true}}
+{"sample_id": "262386019", "prediction": "white", "baseline": "entropy", "latency_sec": 0.902, "metadata": {"open_answer": true}}
+{"sample_id": "393284010", "prediction": "I don't know.", "baseline": "entropy", "latency_sec": 0.987, "metadata": {"open_answer": true}}
+{"sample_id": "262284001", "prediction": "This image shows a bathroom, specifically focusing on a shower area. The walls feature light-colored tiles, and there is a glass shower door. A hand-held shower", "baseline": "entropy", "latency_sec": 2.953, "metadata": {"open_answer": true}}
+{"sample_id": "131539007", "prediction": "no", "baseline": "entropy", "latency_sec": 0.784, "metadata": {"open_answer": true}}
+{"sample_id": "133000", "prediction": "blue", "baseline": "entropy", "latency_sec": 0.908, "metadata": {"open_answer": true}}
+{"sample_id": "524637007", "prediction": "Toilet paper", "baseline": "entropy", "latency_sec": 1.098, "metadata": {"open_answer": true}}
+{"sample_id": "262609007", "prediction": "The woman is wearing red clothing.", "baseline": "entropy", "latency_sec": 1.894, "metadata": {"open_answer": true}}
+{"sample_id": "262425004", "prediction": "No one, it's just a sea bird.", "baseline": "entropy", "latency_sec": 2.018, "metadata": {"open_answer": true}}
+{"sample_id": "139003", "prediction": "The flower is pink.", "baseline": "entropy", "latency_sec": 1.455, "metadata": {"open_answer": true}}
+{"sample_id": "524638001", "prediction": "No, the boy is not dressed for sports.", "baseline": "entropy", "latency_sec": 1.153, "metadata": {"open_answer": true}}
+{"sample_id": "294002", "prediction": "No, they are not having fun.", "baseline": "entropy", "latency_sec": 1.445, "metadata": {"open_answer": true}}
+{"sample_id": "262371003", "prediction": "The cat is sitting on top of a backpack.", "baseline": "entropy", "latency_sec": 1.259, "metadata": {"open_answer": true}}
+{"sample_id": "294001", "prediction": "Boil.", "baseline": "entropy", "latency_sec": 1.057, "metadata": {"open_answer": true}}
+{"sample_id": "262353000", "prediction": "8", "baseline": "entropy", "latency_sec": 0.946, "metadata": {"open_answer": true}}
+{"sample_id": "262594001", "prediction": "The motorcycle is predominantly purple with black accents and a black seat.", "baseline": "entropy", "latency_sec": 2.11, "metadata": {"open_answer": true}}
+{"sample_id": "262594002", "prediction": "FH2949", "baseline": "entropy", "latency_sec": 1.359, "metadata": {"open_answer": true}}
+{"sample_id": "393284005", "prediction": "no", "baseline": "entropy", "latency_sec": 0.819, "metadata": {"open_answer": true}}
+{"sample_id": "393469001", "prediction": "No, there are no deciduous trees in this picture; all the trees covered with snow appear to be evergreen.", "baseline": "entropy", "latency_sec": 2.034, "metadata": {"open_answer": true}}
+{"sample_id": "524536002", "prediction": "Yes, the man is adjusting his tie and smiling, appearing to enjoy himself.", "baseline": "entropy", "latency_sec": 2.008, "metadata": {"open_answer": true}}
+{"sample_id": "262200000", "prediction": "no", "baseline": "entropy", "latency_sec": 1.097, "metadata": {"open_answer": true}}
+{"sample_id": "524642003", "prediction": "audio equipment", "baseline": "entropy", "latency_sec": 1.201, "metadata": {"open_answer": true}}
+{"sample_id": "393243000", "prediction": "It depends heavily on how much he licks it off. If he licks off really quickly and evenly, most of the powder will likely be consumed. If", "baseline": "entropy", "latency_sec": 2.827, "metadata": {"open_answer": true}}
+{"sample_id": "393277005", "prediction": "It is approximately 10:15 AM.", "baseline": "entropy", "latency_sec": 1.579, "metadata": {"open_answer": true}}
+{"sample_id": "393288004", "prediction": "Under the triangular dome, there is a cross.", "baseline": "entropy", "latency_sec": 1.968, "metadata": {"open_answer": true}}
+{"sample_id": "524601002", "prediction": "They appear to be playing Wii.", "baseline": "entropy", "latency_sec": 2.798, "metadata": {"open_answer": true}}
+{"sample_id": "262608001", "prediction": "No", "baseline": "entropy", "latency_sec": 0.922, "metadata": {"open_answer": true}}
+{"sample_id": "524656001", "prediction": "Yes, they appear to be hand-washed.", "baseline": "entropy", "latency_sec": 1.772, "metadata": {"open_answer": true}}
+{"sample_id": "393547001", "prediction": "refrigerator", "baseline": "entropy", "latency_sec": 0.776, "metadata": {"open_answer": true}}
+{"sample_id": "262605012", "prediction": "Yes, based on the elements present such as a television, modern door design, and domestic interior style, it is likely this image was taken in America.", "baseline": "entropy", "latency_sec": 3.582, "metadata": {"open_answer": true}}
+{"sample_id": "294014", "prediction": "Toaster oven microwave with utensils hanging on adjacent refrigerator doors.", "baseline": "entropy", "latency_sec": 1.912, "metadata": {"open_answer": true}}
+{"sample_id": "131115000", "prediction": "Yes, players are visible in the dugout behind the catcher.", "baseline": "entropy", "latency_sec": 1.915, "metadata": {"open_answer": true}}
+{"sample_id": "393421003", "prediction": "lights", "baseline": "entropy", "latency_sec": 0.604, "metadata": {"open_answer": true}}
+{"sample_id": "131276002", "prediction": "Donuts", "baseline": "entropy", "latency_sec": 1.05, "metadata": {"open_answer": true}}
+{"sample_id": "43753002", "prediction": "in kitchen", "baseline": "entropy", "latency_sec": 0.978, "metadata": {"open_answer": true}}
+{"sample_id": "262386029", "prediction": "Yes, the toilet lid is open.", "baseline": "entropy", "latency_sec": 1.148, "metadata": {"open_answer": true}}
+{"sample_id": "524333000", "prediction": "The tables and chairs in the image appear to be made of wood.", "baseline": "entropy", "latency_sec": 2.287, "metadata": {"open_answer": true}}
+{"sample_id": "131207002", "prediction": "No", "baseline": "entropy", "latency_sec": 0.892, "metadata": {"open_answer": true}}
+{"sample_id": "524577000", "prediction": "5:03", "baseline": "entropy", "latency_sec": 1.435, "metadata": {"open_answer": true}}
+{"sample_id": "240301001", "prediction": "Yes", "baseline": "entropy", "latency_sec": 1.119, "metadata": {"open_answer": true}}
+{"sample_id": "43753004", "prediction": "Yes, the man appears to be happy or expressing joy, possibly playing the monkey game where he is holding bananas and wearing a blue headband resembling a towel.", "baseline": "entropy", "latency_sec": 3.176, "metadata": {"open_answer": true}}
+{"sample_id": "393557001", "prediction": "No, the zebras are lying down together in a calm manner.", "baseline": "entropy", "latency_sec": 1.487, "metadata": {"open_answer": true}}
+{"sample_id": "393277010", "prediction": "It's 10:35 AM.", "baseline": "entropy", "latency_sec": 1.167, "metadata": {"open_answer": true}}
+{"sample_id": "262476000", "prediction": "Yes, it appears to be a social gathering or party.", "baseline": "entropy", "latency_sec": 2.39, "metadata": {"open_answer": true}}
+{"sample_id": "393674002", "prediction": "Baseball", "baseline": "entropy", "latency_sec": 1.009, "metadata": {"open_answer": true}}
+{"sample_id": "393569001", "prediction": "Evening.", "baseline": "entropy", "latency_sec": 1.274, "metadata": {"open_answer": true}}
+{"sample_id": "428002", "prediction": "white", "baseline": "entropy", "latency_sec": 0.758, "metadata": {"open_answer": true}}
+{"sample_id": "262505001", "prediction": "6", "baseline": "entropy", "latency_sec": 0.823, "metadata": {"open_answer": true}}
+{"sample_id": "262460000", "prediction": "Pins and fabrics are neatly arranged on hanging racks in the background.", "baseline": "entropy", "latency_sec": 1.414, "metadata": {"open_answer": true}}
+{"sample_id": "262605011", "prediction": "no", "baseline": "entropy", "latency_sec": 1.265, "metadata": {"open_answer": true}}
+{"sample_id": "472002", "prediction": "Yes, the blue patches are likely water. They appear to be lagoons or bays behind the landmass.", "baseline": "entropy", "latency_sec": 1.869, "metadata": {"open_answer": true}}
+{"sample_id": "131527001", "prediction": "No, broccoli is not suitable for nibbling. It's a vegetable that should be eaten cooked. The young shoots at the base are usually removed before eating,", "baseline": "entropy", "latency_sec": 3.03, "metadata": {"open_answer": true}}
+{"sample_id": "241000", "prediction": "couch", "baseline": "entropy", "latency_sec": 0.986, "metadata": {"open_answer": true}}
+{"sample_id": "74001", "prediction": "The dog is laying on the cobblestone street near a bicycle while parked against a wall.", "baseline": "entropy", "latency_sec": 1.44, "metadata": {"open_answer": true}}
+{"sample_id": "262576001", "prediction": "off", "baseline": "entropy", "latency_sec": 0.899, "metadata": {"open_answer": true}}
+{"sample_id": "393225000", "prediction": "HTTP://FOODIEBAKER.COM", "baseline": "entropy", "latency_sec": 1.295, "metadata": {"open_answer": true}}
+{"sample_id": "393557002", "prediction": "The zebra in the picture is black and white, displaying characteristic black stripes running across its body.", "baseline": "entropy", "latency_sec": 1.647, "metadata": {"open_answer": true}}
+{"sample_id": "524627002", "prediction": "Powdered donuts.", "baseline": "entropy", "latency_sec": 2.188, "metadata": {"open_answer": true}}
+{"sample_id": "262531004", "prediction": "The couch in the video has a blue color.", "baseline": "entropy", "latency_sec": 1.061, "metadata": {"open_answer": true}}
+{"sample_id": "510657002", "prediction": "8", "baseline": "entropy", "latency_sec": 0.849, "metadata": {"open_answer": true}}
+{"sample_id": "359000", "prediction": "Overcast", "baseline": "entropy", "latency_sec": 0.737, "metadata": {"open_answer": true}}
+{"sample_id": "262229005", "prediction": "Headbands", "baseline": "entropy", "latency_sec": 0.839, "metadata": {"open_answer": true}}
+{"sample_id": "262396002", "prediction": "Yes, it appears that the cat might be clawing the chair in some parts of the fur. The visible scratches and marks suggest the cat has been there for", "baseline": "entropy", "latency_sec": 2.886, "metadata": {"open_answer": true}}
+{"sample_id": "393277001", "prediction": "The statue is atop the clock tower, but without more specific details or context, I cannot identify the individual or the story behind it. The image alone doesn't", "baseline": "entropy", "latency_sec": 2.593, "metadata": {"open_answer": true}}
+{"sample_id": "524601000", "prediction": "Red", "baseline": "entropy", "latency_sec": 0.85, "metadata": {"open_answer": true}}
+{"sample_id": "393372019", "prediction": "no", "baseline": "entropy", "latency_sec": 0.925, "metadata": {"open_answer": true}}
+{"sample_id": "472003", "prediction": "Medium-sized.", "baseline": "entropy", "latency_sec": 1.428, "metadata": {"open_answer": true}}
+{"sample_id": "262509002", "prediction": "Yes", "baseline": "entropy", "latency_sec": 1.801, "metadata": {"open_answer": true}}
+{"sample_id": "131497000", "prediction": "No, the collar is blue.", "baseline": "entropy", "latency_sec": 1.221, "metadata": {"open_answer": true}}
+{"sample_id": "262609006", "prediction": "Red", "baseline": "entropy", "latency_sec": 1.422, "metadata": {"open_answer": true}}
+{"sample_id": "524665000", "prediction": "The person is hiking, while the dog stands close by with a backpack for carrying equipment or treats.", "baseline": "entropy", "latency_sec": 2.671, "metadata": {"open_answer": true}}
+{"sample_id": "131273001", "prediction": "Out of the car window.", "baseline": "entropy", "latency_sec": 1.202, "metadata": {"open_answer": true}}
+{"sample_id": "262509004", "prediction": "5", "baseline": "entropy", "latency_sec": 1.177, "metadata": {"open_answer": true}}
+{"sample_id": "131152002", "prediction": "4", "baseline": "entropy", "latency_sec": 0.976, "metadata": {"open_answer": true}}
+{"sample_id": "283000", "prediction": "Cupcake", "baseline": "entropy", "latency_sec": 0.937, "metadata": {"open_answer": true}}
+{"sample_id": "524333002", "prediction": "Yes, they appear to be learning in the form of an activity or class. However, I can't tell exactly what they're doing from this description alone.", "baseline": "entropy", "latency_sec": 2.92, "metadata": {"open_answer": true}}
+{"sample_id": "262148000", "prediction": "down (towards the ground)", "baseline": "entropy", "latency_sec": 1.682, "metadata": {"open_answer": true}}
+{"sample_id": "393511001", "prediction": "soup", "baseline": "entropy", "latency_sec": 2.578, "metadata": {"open_answer": true}}
+{"sample_id": "524450022", "prediction": "Yes, the bus lights are on at the bottom right.", "baseline": "entropy", "latency_sec": 1.104, "metadata": {"open_answer": true}}
+{"sample_id": "262391004", "prediction": "The door in the picture is white.", "baseline": "entropy", "latency_sec": 1.02, "metadata": {"open_answer": true}}
+{"sample_id": "262162001", "prediction": "1", "baseline": "entropy", "latency_sec": 0.891, "metadata": {"open_answer": true}}
+{"sample_id": "393583004", "prediction": "No", "baseline": "entropy", "latency_sec": 0.806, "metadata": {"open_answer": true}}
+{"sample_id": "393410009", "prediction": "No", "baseline": "entropy", "latency_sec": 1.59, "metadata": {"open_answer": true}}
+{"sample_id": "524450005", "prediction": "The bus is white.", "baseline": "entropy", "latency_sec": 1.447, "metadata": {"open_answer": true}}
+{"sample_id": "262274006", "prediction": "no", "baseline": "entropy", "latency_sec": 0.907, "metadata": {"open_answer": true}}
+{"sample_id": "393254000", "prediction": "This is camping.", "baseline": "entropy", "latency_sec": 1.164, "metadata": {"open_answer": true}}
+{"sample_id": "262274007", "prediction": "no", "baseline": "entropy", "latency_sec": 0.917, "metadata": {"open_answer": true}}
+{"sample_id": "397002", "prediction": "Pizza", "baseline": "entropy", "latency_sec": 1.347, "metadata": {"open_answer": true}}
+{"sample_id": "131527003", "prediction": "The light green vegetable on the left is broccoli, which is a source of vitamins and minerals like vitamin C and K, fiber, and sulforaphane.", "baseline": "entropy", "latency_sec": 1.746, "metadata": {"open_answer": true}}
+{"sample_id": "262197009", "prediction": "A backpack.", "baseline": "entropy", "latency_sec": 1.124, "metadata": {"open_answer": true}}
+{"sample_id": "131418002", "prediction": "Yes, they likely can enter the building since it appears to be closed or open only on occasion.", "baseline": "entropy", "latency_sec": 2.444, "metadata": {"open_answer": true}}
+{"sample_id": "262391001", "prediction": "yes", "baseline": "entropy", "latency_sec": 1.137, "metadata": {"open_answer": true}}
+{"sample_id": "262189002", "prediction": "The last sign says \"ROSS\" along with \"St.\" which means it is located on Ross Street.", "baseline": "entropy", "latency_sec": 1.73, "metadata": {"open_answer": true}}
+{"sample_id": "524333004", "prediction": "Yes, they appear to be in a restaurant.", "baseline": "entropy", "latency_sec": 1.935, "metadata": {"open_answer": true}}
+{"sample_id": "393282004", "prediction": "no", "baseline": "entropy", "latency_sec": 1.14, "metadata": {"open_answer": true}}
+{"sample_id": "393282007", "prediction": "no", "baseline": "entropy", "latency_sec": 1.127, "metadata": {"open_answer": true}}
+{"sample_id": "524611005", "prediction": "Davis Junction", "baseline": "entropy", "latency_sec": 1.044, "metadata": {"open_answer": true}}
+{"sample_id": "262386036", "prediction": "Yes, it is usable at the moment.", "baseline": "entropy", "latency_sec": 1.22, "metadata": {"open_answer": true}}
+{"sample_id": "524575000", "prediction": "No, it is not cold. The animals appear to be in a warm climate, as they are grazing and the overall scene looks lush and green.", "baseline": "entropy", "latency_sec": 2.642, "metadata": {"open_answer": true}}
+{"sample_id": "262227002", "prediction": "I can't determine if the computer is specifically a \"popular\" model based solely on this image description. Popular models vary depending on circumstances like market trends, technical", "baseline": "entropy", "latency_sec": 3.131, "metadata": {"open_answer": true}}
+{"sample_id": "524681002", "prediction": "seaspray kites", "baseline": "entropy", "latency_sec": 1.211, "metadata": {"open_answer": true}}
+{"sample_id": "131335004", "prediction": "Yes, there is a flag visible on the right side of the building in the image.", "baseline": "entropy", "latency_sec": 2.163, "metadata": {"open_answer": true}}
+{"sample_id": "262440006", "prediction": "No", "baseline": "entropy", "latency_sec": 0.85, "metadata": {"open_answer": true}}
+{"sample_id": "131295004", "prediction": "tracks", "baseline": "entropy", "latency_sec": 1.11, "metadata": {"open_answer": true}}
+{"sample_id": "262605000", "prediction": "white", "baseline": "entropy", "latency_sec": 1.254, "metadata": {"open_answer": true}}
+{"sample_id": "360002", "prediction": "no", "baseline": "entropy", "latency_sec": 0.731, "metadata": {"open_answer": true}}
+{"sample_id": "393674004", "prediction": "NCH", "baseline": "entropy", "latency_sec": 1.378, "metadata": {"open_answer": true}}
+{"sample_id": "524621005", "prediction": "No", "baseline": "entropy", "latency_sec": 0.793, "metadata": {"open_answer": true}}
+{"sample_id": "262242008", "prediction": "No, both individuals do not appear to be professional tennis players. They seem to be casual players or possibly friends.", "baseline": "entropy", "latency_sec": 1.953, "metadata": {"open_answer": true}}
+{"sample_id": "524621029", "prediction": "yes", "baseline": "entropy", "latency_sec": 0.786, "metadata": {"open_answer": true}}
+{"sample_id": "524450010", "prediction": "no", "baseline": "entropy", "latency_sec": 0.806, "metadata": {"open_answer": true}}
+{"sample_id": "131453004", "prediction": "no", "baseline": "entropy", "latency_sec": 1.684, "metadata": {"open_answer": true}}
+{"sample_id": "328000", "prediction": "bench", "baseline": "entropy", "latency_sec": 0.91, "metadata": {"open_answer": true}}
+{"sample_id": "262609004", "prediction": "I cannot accurately discern the specific text that's written on the buildings in this image.", "baseline": "entropy", "latency_sec": 2.253, "metadata": {"open_answer": true}}
+{"sample_id": "262505002", "prediction": "Yes, it appears to be cloudy.", "baseline": "entropy", "latency_sec": 1.331, "metadata": {"open_answer": true}}
+{"sample_id": "241003", "prediction": "It is unlikely that these two boys are brothers; they appear to be unrelated individuals based on their clothing and posture.", "baseline": "entropy", "latency_sec": 2.896, "metadata": {"open_answer": true}}
+{"sample_id": "262404000", "prediction": "The cake frosting is green.", "baseline": "entropy", "latency_sec": 1.215, "metadata": {"open_answer": true}}
+{"sample_id": "262386012", "prediction": "No, there is no stove in the image. It only shows a toilet and a wall-mounted toilet paper holder with a roll of toilet paper.", "baseline": "entropy", "latency_sec": 2.97, "metadata": {"open_answer": true}}
+{"sample_id": "393277016", "prediction": "The tower contains a clock face with Roman numerals, and there may be bells inside.", "baseline": "entropy", "latency_sec": 1.768, "metadata": {"open_answer": true}}
+{"sample_id": "133001", "prediction": "Yes, it is likely a child's room. The presence of a bed with additional storage underneath, along with the small desk and chair, suggests it is designed", "baseline": "entropy", "latency_sec": 1.774, "metadata": {"open_answer": true}}
+{"sample_id": "524392000", "prediction": "silver", "baseline": "entropy", "latency_sec": 0.917, "metadata": {"open_answer": true}}
+{"sample_id": "262608006", "prediction": "This dish appears to be representative of Mediterranean or Latin American cuisine. The presence of rice, rice-based stuffing, and what seems to be roasted meat with herbaceous", "baseline": "entropy", "latency_sec": 2.46, "metadata": {"open_answer": true}}
+{"sample_id": "436936002", "prediction": "This is a bear. More specifically, it is a black bear. You can see the distinctive fur pattern and size of the animal in this image.", "baseline": "entropy", "latency_sec": 1.729, "metadata": {"open_answer": true}}
+{"sample_id": "262162003", "prediction": "6", "baseline": "entropy", "latency_sec": 1.117, "metadata": {"open_answer": true}}
+{"sample_id": "294006", "prediction": "Yes.", "baseline": "entropy", "latency_sec": 2.025, "metadata": {"open_answer": true}}
+{"sample_id": "524577001", "prediction": "No, the numbers on the clock are not Roman numerals; they are Arabic numerals.", "baseline": "entropy", "latency_sec": 1.39, "metadata": {"open_answer": true}}
+{"sample_id": "262262002", "prediction": "It appears to be a tall, ornate tower with large windows and a clock face, suggesting it could be a Gothic Revival-style clock tower or part of", "baseline": "entropy", "latency_sec": 3.74, "metadata": {"open_answer": true}}
+{"sample_id": "397001", "prediction": "Italy", "baseline": "entropy", "latency_sec": 0.903, "metadata": {"open_answer": true}}
+{"sample_id": "262609000", "prediction": "No, the vehicles in the image appear to be moving away from the camera's perspective. They are depicted as having their headlights on, which suggests they might be", "baseline": "entropy", "latency_sec": 1.94, "metadata": {"open_answer": true}}
+{"sample_id": "393226000", "prediction": "crossing", "baseline": "entropy", "latency_sec": 1.919, "metadata": {"open_answer": true}}
+{"sample_id": "393266001", "prediction": "Right", "baseline": "entropy", "latency_sec": 2.032, "metadata": {"open_answer": true}}
+{"sample_id": "524621023", "prediction": "no", "baseline": "entropy", "latency_sec": 0.82, "metadata": {"open_answer": true}}
+{"sample_id": "524601006", "prediction": "No, these students appear to be from an Asian university. Their attire and presence in what looks like UCI settings suggest they come from that institution.", "baseline": "entropy", "latency_sec": 2.918, "metadata": {"open_answer": true}}
+{"sample_id": "393254001", "prediction": "Rental car", "baseline": "entropy", "latency_sec": 2.111, "metadata": {"open_answer": true}}
+{"sample_id": "73000", "prediction": "SV-6260", "baseline": "entropy", "latency_sec": 1.431, "metadata": {"open_answer": true}}
+{"sample_id": "262189001", "prediction": "The Salisbury Rd. sign is white.", "baseline": "entropy", "latency_sec": 1.771, "metadata": {"open_answer": true}}
+{"sample_id": "524694001", "prediction": "no", "baseline": "entropy", "latency_sec": 1.906, "metadata": {"open_answer": true}}
+{"sample_id": "524456000", "prediction": "1", "baseline": "entropy", "latency_sec": 0.918, "metadata": {"open_answer": true}}
+{"sample_id": "524621028", "prediction": "The giraffe in the image appears to be looking slightly forward, with its head positioned above the second giraffe that is lowered its neck and possibly sniffing the", "baseline": "entropy", "latency_sec": 2.41, "metadata": {"open_answer": true}}
+{"sample_id": "257003", "prediction": "Yes, it appears that the dog is real. The text mentions its presence, indicating it exists as an individual animal.", "baseline": "entropy", "latency_sec": 1.949, "metadata": {"open_answer": true}}
+{"sample_id": "262274004", "prediction": "No, it looks like it's not going to rain. The sky appears clear with no signs of precipitation.", "baseline": "entropy", "latency_sec": 2.985, "metadata": {"open_answer": true}}
+{"sample_id": "524436005", "prediction": "Yes, they appear to be a couple.", "baseline": "entropy", "latency_sec": 2.12, "metadata": {"open_answer": true}}
+{"sample_id": "262471007", "prediction": "Yes.", "baseline": "entropy", "latency_sec": 0.809, "metadata": {"open_answer": true}}
+{"sample_id": "568040001", "prediction": "The animal has a furry coat.", "baseline": "entropy", "latency_sec": 1.587, "metadata": {"open_answer": true}}
+{"sample_id": "262161010", "prediction": "That is a lawn mower.", "baseline": "entropy", "latency_sec": 1.713, "metadata": {"open_answer": true}}
+{"sample_id": "131539006", "prediction": "It's not possible to determine if they are having fun based solely on the image.", "baseline": "entropy", "latency_sec": 2.159, "metadata": {"open_answer": true}}
+{"sample_id": "393282011", "prediction": "Giraffes", "baseline": "entropy", "latency_sec": 2.172, "metadata": {"open_answer": true}}
+{"sample_id": "524577018", "prediction": "The building appears to be made of red bricks and dressed with decorative stones or possibly limestone.", "baseline": "entropy", "latency_sec": 1.798, "metadata": {"open_answer": true}}
+{"sample_id": "524577024", "prediction": "The clock is on the building's facade, hanging from a bracket.", "baseline": "entropy", "latency_sec": 2.967, "metadata": {"open_answer": true}}
+{"sample_id": "262386034", "prediction": "No", "baseline": "entropy", "latency_sec": 0.934, "metadata": {"open_answer": true}}
+{"sample_id": "262275001", "prediction": "The horse is brown.", "baseline": "entropy", "latency_sec": 1.21, "metadata": {"open_answer": true}}
+{"sample_id": "524621009", "prediction": "giraffe", "baseline": "entropy", "latency_sec": 0.996, "metadata": {"open_answer": true}}
+{"sample_id": "524502000", "prediction": "A red fire extinguisher.", "baseline": "entropy", "latency_sec": 2.148, "metadata": {"open_answer": true}}
+{"sample_id": "524382000", "prediction": "Hounds", "baseline": "entropy", "latency_sec": 1.909, "metadata": {"open_answer": true}}
+{"sample_id": "393274000", "prediction": "Train", "baseline": "entropy", "latency_sec": 0.795, "metadata": {"open_answer": true}}
+{"sample_id": "262605002", "prediction": "The object being thrown is a pizza box.", "baseline": "entropy", "latency_sec": 1.851, "metadata": {"open_answer": true}}
+{"sample_id": "524611004", "prediction": "Right", "baseline": "entropy", "latency_sec": 0.889, "metadata": {"open_answer": true}}
+{"sample_id": "262371006", "prediction": "1", "baseline": "entropy", "latency_sec": 0.925, "metadata": {"open_answer": true}}
+{"sample_id": "393410000", "prediction": "No, this is not a propeller plane. The aircraft in the image appears to be a jet with its propellers covered, which is more typical of commercial", "baseline": "entropy", "latency_sec": 2.906, "metadata": {"open_answer": true}}

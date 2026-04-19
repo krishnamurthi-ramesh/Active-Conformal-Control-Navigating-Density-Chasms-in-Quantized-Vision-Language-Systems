@@ -1,0 +1,500 @@
+{"sample_id": "2619", "prediction": "Yes, there is a backpack in the image.", "baseline": "opera", "latency_sec": 2.213, "metadata": {"category": "adversarial"}}
+{"sample_id": "456", "prediction": "No, there is no snowboard visible in the image.", "baseline": "opera", "latency_sec": 2.625, "metadata": {"category": "adversarial"}}
+{"sample_id": "102", "prediction": "Yes, there is a baseball glove in the image. It is being worn by the catcher, who is positioned behind the batter.", "baseline": "opera", "latency_sec": 2.452, "metadata": {"category": "adversarial"}}
+{"sample_id": "1126", "prediction": "Yes, there is a sandwich in the image.", "baseline": "opera", "latency_sec": 2.039, "metadata": {"category": "adversarial"}}
+{"sample_id": "1003", "prediction": "No, there is no toilet in the image.", "baseline": "opera", "latency_sec": 2.328, "metadata": {"category": "adversarial"}}
+{"sample_id": "914", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 2.368, "metadata": {"category": "adversarial"}}
+{"sample_id": "571", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 2.212, "metadata": {"category": "adversarial"}}
+{"sample_id": "419", "prediction": "No, there is no couch in the image.", "baseline": "opera", "latency_sec": 1.235, "metadata": {"category": "adversarial"}}
+{"sample_id": "2771", "prediction": "No, there is no airplane in the image. The image shows a group of animals, including giraffes, zebras, and elephants, in", "baseline": "opera", "latency_sec": 2.669, "metadata": {"category": "adversarial"}}
+{"sample_id": "2233", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 2.121, "metadata": {"category": "adversarial"}}
+{"sample_id": "356", "prediction": "There is no existence of a dining table in the image.", "baseline": "opera", "latency_sec": 2.75, "metadata": {"category": "adversarial"}}
+{"sample_id": "2418", "prediction": "Yes, there is a pizza in the image.", "baseline": "opera", "latency_sec": 2.668, "metadata": {"category": "adversarial"}}
+{"sample_id": "1728", "prediction": "There is no existence of a backpack in the image.", "baseline": "opera", "latency_sec": 1.788, "metadata": {"category": "adversarial"}}
+{"sample_id": "130", "prediction": "Yes, there is a book in the image. It is located on a shelf in the background.", "baseline": "opera", "latency_sec": 2.386, "metadata": {"category": "adversarial"}}
+{"sample_id": "122", "prediction": "No, there is no spoon visible in the image.", "baseline": "opera", "latency_sec": 2.751, "metadata": {"category": "adversarial"}}
+{"sample_id": "383", "prediction": "No, there is no bicycle in the image.", "baseline": "opera", "latency_sec": 2.318, "metadata": {"category": "adversarial"}}
+{"sample_id": "895", "prediction": "No, there is no frisbee in the image.", "baseline": "opera", "latency_sec": 1.775, "metadata": {"category": "adversarial"}}
+{"sample_id": "952", "prediction": "Yes, there is a bottle in the image.", "baseline": "opera", "latency_sec": 2.457, "metadata": {"category": "adversarial"}}
+{"sample_id": "2069", "prediction": "No, there is no dining table in the image.", "baseline": "opera", "latency_sec": 2.611, "metadata": {"category": "adversarial"}}
+{"sample_id": "2465", "prediction": "There is no existence of a dining table in the image.", "baseline": "opera", "latency_sec": 2.675, "metadata": {"category": "adversarial"}}
+{"sample_id": "108", "prediction": "Yes, there is a sink in the image. It is located on the right side of the bathroom.", "baseline": "opera", "latency_sec": 2.39, "metadata": {"category": "adversarial"}}
+{"sample_id": "2298", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 2.666, "metadata": {"category": "adversarial"}}
+{"sample_id": "814", "prediction": "Yes, there is a cat in the image.", "baseline": "opera", "latency_sec": 2.196, "metadata": {"category": "adversarial"}}
+{"sample_id": "2932", "prediction": "Yes, there is an airplane in the image.", "baseline": "opera", "latency_sec": 2.198, "metadata": {"category": "adversarial"}}
+{"sample_id": "2661", "prediction": "No, there is no dining table in the image.", "baseline": "opera", "latency_sec": 2.373, "metadata": {"category": "adversarial"}}
+{"sample_id": "2872", "prediction": "Yes, there is a cup in the image.", "baseline": "opera", "latency_sec": 2.543, "metadata": {"category": "adversarial"}}
+{"sample_id": "2232", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 2.667, "metadata": {"category": "adversarial"}}
+{"sample_id": "1718", "prediction": "Yes, there is a clock in the image. It is located on the upper left side of the wall.", "baseline": "opera", "latency_sec": 2.471, "metadata": {"category": "adversarial"}}
+{"sample_id": "902", "prediction": "No, there is no bird in the image.", "baseline": "opera", "latency_sec": 1.777, "metadata": {"category": "adversarial"}}
+{"sample_id": "1839", "prediction": "No, there is no baseball glove in the image.", "baseline": "opera", "latency_sec": 2.599, "metadata": {"category": "adversarial"}}
+{"sample_id": "2413", "prediction": "No, there is no cup in the image.", "baseline": "opera", "latency_sec": 2.25, "metadata": {"category": "adversarial"}}
+{"sample_id": "1139", "prediction": "There is no existence of a cup in the image description.", "baseline": "opera", "latency_sec": 2.47, "metadata": {"category": "adversarial"}}
+{"sample_id": "26", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 2.083, "metadata": {"category": "adversarial"}}
+{"sample_id": "653", "prediction": "No, there is no couch in the image.", "baseline": "opera", "latency_sec": 2.75, "metadata": {"category": "adversarial"}}
+{"sample_id": "2859", "prediction": "No, there is no oven in the image.", "baseline": "opera", "latency_sec": 2.749, "metadata": {"category": "adversarial"}}
+{"sample_id": "1731", "prediction": "No, there is no bed in the image. The image shows a brown teddy bear sitting on a white surface.", "baseline": "opera", "latency_sec": 2.487, "metadata": {"category": "adversarial"}}
+{"sample_id": "1393", "prediction": "There is no existence of a car in the image.", "baseline": "opera", "latency_sec": 1.613, "metadata": {"category": "adversarial"}}
+{"sample_id": "1138", "prediction": "There is no existence of a dining table in the image description.", "baseline": "opera", "latency_sec": 2.054, "metadata": {"category": "adversarial"}}
+{"sample_id": "636", "prediction": "No, there is no spoon visible in the image.", "baseline": "opera", "latency_sec": 1.844, "metadata": {"category": "adversarial"}}
+{"sample_id": "881", "prediction": "No, there is no vase in the image.", "baseline": "opera", "latency_sec": 1.418, "metadata": {"category": "adversarial"}}
+{"sample_id": "1378", "prediction": "Yes, there is a knife in the image. It is located on the left side of the image, near the bottom.", "baseline": "opera", "latency_sec": 2.463, "metadata": {"category": "adversarial"}}
+{"sample_id": "418", "prediction": "Yes, there is a remote in the image.", "baseline": "opera", "latency_sec": 1.298, "metadata": {"category": "adversarial"}}
+{"sample_id": "379", "prediction": "There is no existence of a car in the image.", "baseline": "opera", "latency_sec": 2.32, "metadata": {"category": "adversarial"}}
+{"sample_id": "1556", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 2.612, "metadata": {"category": "adversarial"}}
+{"sample_id": "396", "prediction": "No, there is no backpack in the image.", "baseline": "opera", "latency_sec": 1.227, "metadata": {"category": "adversarial"}}
+{"sample_id": "1470", "prediction": "Yes, there is a chair in the image.", "baseline": "opera", "latency_sec": 2.749, "metadata": {"category": "adversarial"}}
+{"sample_id": "1408", "prediction": "Yes, there is a handbag in the image.", "baseline": "opera", "latency_sec": 2.462, "metadata": {"category": "adversarial"}}
+{"sample_id": "2472", "prediction": "No, there is no chair visible in the image.", "baseline": "opera", "latency_sec": 2.599, "metadata": {"category": "adversarial"}}
+{"sample_id": "1083", "prediction": "No, there is no baseball glove in the image.", "baseline": "opera", "latency_sec": 1.486, "metadata": {"category": "adversarial"}}
+{"sample_id": "177", "prediction": "No, there is no cup visible in the image.", "baseline": "opera", "latency_sec": 1.511, "metadata": {"category": "adversarial"}}
+{"sample_id": "1881", "prediction": "No, there is no dining table in the image.", "baseline": "opera", "latency_sec": 2.756, "metadata": {"category": "adversarial"}}
+{"sample_id": "2196", "prediction": "Yes, there is a dog in the image.", "baseline": "opera", "latency_sec": 2.43, "metadata": {"category": "adversarial"}}
+{"sample_id": "511", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 2.53, "metadata": {"category": "adversarial"}}
+{"sample_id": "1550", "prediction": "There is no existence of a person in the image.", "baseline": "opera", "latency_sec": 2.599, "metadata": {"category": "adversarial"}}
+{"sample_id": "322", "prediction": "Yes, there is a handbag in the image. It is located near the top left corner of the image.", "baseline": "opera", "latency_sec": 2.322, "metadata": {"category": "adversarial"}}
+{"sample_id": "2261", "prediction": "No, there is no motorcycle in the image. The image shows people riding bicycles.", "baseline": "opera", "latency_sec": 1.974, "metadata": {"category": "adversarial"}}
+{"sample_id": "1200", "prediction": "Yes, there is a backpack in the image.", "baseline": "opera", "latency_sec": 2.327, "metadata": {"category": "adversarial"}}
+{"sample_id": "2574", "prediction": "No, there is no snowboard visible in the image.", "baseline": "opera", "latency_sec": 2.59, "metadata": {"category": "adversarial"}}
+{"sample_id": "2533", "prediction": "No, there is no traffic light in the image.", "baseline": "opera", "latency_sec": 1.322, "metadata": {"category": "adversarial"}}
+{"sample_id": "1481", "prediction": "There is no existence of a car in the image.", "baseline": "opera", "latency_sec": 2.253, "metadata": {"category": "adversarial"}}
+{"sample_id": "2364", "prediction": "Yes, there is a pizza in the image.", "baseline": "opera", "latency_sec": 2.321, "metadata": {"category": "adversarial"}}
+{"sample_id": "787", "prediction": "No, there is no person in the image.", "baseline": "opera", "latency_sec": 1.414, "metadata": {"category": "adversarial"}}
+{"sample_id": "2885", "prediction": "Yes, there is a chair in the image. It appears to be a part of the background, possibly made of wood or a similar material.", "baseline": "opera", "latency_sec": 2.669, "metadata": {"category": "adversarial"}}
+{"sample_id": "284", "prediction": "Yes, there is a suitcase in the image.", "baseline": "opera", "latency_sec": 1.577, "metadata": {"category": "adversarial"}}
+{"sample_id": "187", "prediction": "There is no existence of a car in the image.", "baseline": "opera", "latency_sec": 2.371, "metadata": {"category": "adversarial"}}
+{"sample_id": "2708", "prediction": "Yes, there is a train in the image. It appears to be an elevated train, possibly a monorail or a light rail system, traveling", "baseline": "opera", "latency_sec": 2.67, "metadata": {"category": "adversarial"}}
+{"sample_id": "933", "prediction": "No, there is no person in the image.", "baseline": "opera", "latency_sec": 1.727, "metadata": {"category": "adversarial"}}
+{"sample_id": "1185", "prediction": "No, there is no cup visible in the image.", "baseline": "opera", "latency_sec": 2.262, "metadata": {"category": "adversarial"}}
+{"sample_id": "326", "prediction": "There is no existence of an orange in the image description.", "baseline": "opera", "latency_sec": 2.752, "metadata": {"category": "adversarial"}}
+{"sample_id": "953", "prediction": "No, there is no dining table in the image.", "baseline": "opera", "latency_sec": 2.669, "metadata": {"category": "adversarial"}}
+{"sample_id": "413", "prediction": "Yes, there is a dining table in the image.", "baseline": "opera", "latency_sec": 2.402, "metadata": {"category": "adversarial"}}
+{"sample_id": "2957", "prediction": "No, there is no chair in the image.", "baseline": "opera", "latency_sec": 2.11, "metadata": {"category": "adversarial"}}
+{"sample_id": "2963", "prediction": "There is no existence of a person in the image.", "baseline": "opera", "latency_sec": 1.295, "metadata": {"category": "adversarial"}}
+{"sample_id": "1857", "prediction": "No, there is no chair visible in the image.", "baseline": "opera", "latency_sec": 1.984, "metadata": {"category": "adversarial"}}
+{"sample_id": "2603", "prediction": "No, there is no cup in the image.", "baseline": "opera", "latency_sec": 2.103, "metadata": {"category": "adversarial"}}
+{"sample_id": "1494", "prediction": "Yes, there is a baseball glove in the image.", "baseline": "opera", "latency_sec": 2.591, "metadata": {"category": "adversarial"}}
+{"sample_id": "666", "prediction": "There is no existence of a person in the image.", "baseline": "opera", "latency_sec": 1.686, "metadata": {"category": "adversarial"}}
+{"sample_id": "1516", "prediction": "Yes, there is a dining table in the image.", "baseline": "opera", "latency_sec": 2.557, "metadata": {"category": "adversarial"}}
+{"sample_id": "1455", "prediction": "No, there is no cup visible in the image.", "baseline": "opera", "latency_sec": 2.75, "metadata": {"category": "adversarial"}}
+{"sample_id": "858", "prediction": "Yes, there is a keyboard in the image.", "baseline": "opera", "latency_sec": 2.668, "metadata": {"category": "adversarial"}}
+{"sample_id": "2745", "prediction": "There is no existence of a person in the image.", "baseline": "opera", "latency_sec": 1.486, "metadata": {"category": "adversarial"}}
+{"sample_id": "1093", "prediction": "No, there are no skis in the image.", "baseline": "opera", "latency_sec": 2.224, "metadata": {"category": "adversarial"}}
+{"sample_id": "2874", "prediction": "Yes, there is a pizza in the image.", "baseline": "opera", "latency_sec": 2.667, "metadata": {"category": "adversarial"}}
+{"sample_id": "2799", "prediction": "No, there is no dining table in the image.", "baseline": "opera", "latency_sec": 2.732, "metadata": {"category": "adversarial"}}
+{"sample_id": "2654", "prediction": "Yes, there is a sandwich in the image.", "baseline": "opera", "latency_sec": 2.153, "metadata": {"category": "adversarial"}}
+{"sample_id": "292", "prediction": "Yes, there is a horse in the image.", "baseline": "opera", "latency_sec": 2.667, "metadata": {"category": "adversarial"}}
+{"sample_id": "2495", "prediction": "No, there is no backpack in the image.", "baseline": "opera", "latency_sec": 2.193, "metadata": {"category": "adversarial"}}
+{"sample_id": "2600", "prediction": "Yes, there is a bottle in the image.", "baseline": "opera", "latency_sec": 2.801, "metadata": {"category": "adversarial"}}
+{"sample_id": "700", "prediction": "No, there is no fork visible in the image.", "baseline": "opera", "latency_sec": 1.567, "metadata": {"category": "adversarial"}}
+{"sample_id": "2187", "prediction": "There is no existence of a person in the image.", "baseline": "opera", "latency_sec": 1.493, "metadata": {"category": "adversarial"}}
+{"sample_id": "1002", "prediction": "Yes, there is a sink in the image. It is located on the right side of the countertop.", "baseline": "opera", "latency_sec": 2.262, "metadata": {"category": "adversarial"}}
+{"sample_id": "669", "prediction": "No, there is no chair visible in the image.", "baseline": "opera", "latency_sec": 2.737, "metadata": {"category": "adversarial"}}
+{"sample_id": "1893", "prediction": "No, there is no chair in the image.", "baseline": "opera", "latency_sec": 2.897, "metadata": {"category": "adversarial"}}
+{"sample_id": "1554", "prediction": "Yes, there is a backpack in the image.", "baseline": "opera", "latency_sec": 2.333, "metadata": {"category": "adversarial"}}
+{"sample_id": "1105", "prediction": "No, there is no car in the image. The image shows a baseball player swinging a bat.", "baseline": "opera", "latency_sec": 2.007, "metadata": {"category": "adversarial"}}
+{"sample_id": "2621", "prediction": "No, there is no dining table in the image.", "baseline": "opera", "latency_sec": 1.764, "metadata": {"category": "adversarial"}}
+{"sample_id": "2818", "prediction": "No, there is no sports ball visible in the image.", "baseline": "opera", "latency_sec": 2.802, "metadata": {"category": "adversarial"}}
+{"sample_id": "2281", "prediction": "No, there is no car in the image. The image shows a young boy standing next to a goat in front of a bus.", "baseline": "opera", "latency_sec": 2.611, "metadata": {"category": "adversarial"}}
+{"sample_id": "899", "prediction": "No, there is no dining table in the image.", "baseline": "opera", "latency_sec": 2.195, "metadata": {"category": "adversarial"}}
+{"sample_id": "2804", "prediction": "No, there is no bench in the image.", "baseline": "opera", "latency_sec": 2.679, "metadata": {"category": "adversarial"}}
+{"sample_id": "1328", "prediction": "Yes, there is a mouse in the image.", "baseline": "opera", "latency_sec": 1.422, "metadata": {"category": "adversarial"}}
+{"sample_id": "229", "prediction": "No, there is no chair visible in the image", "baseline": "opera", "latency_sec": 1.871, "metadata": {"category": "adversarial"}}
+{"sample_id": "938", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.714, "metadata": {"category": "adversarial"}}
+{"sample_id": "131", "prediction": "There is no existence of a TV in the image", "baseline": "opera", "latency_sec": 2.287, "metadata": {"category": "adversarial"}}
+{"sample_id": "1292", "prediction": "Yes, there is a bottle in the image.", "baseline": "opera", "latency_sec": 1.897, "metadata": {"category": "adversarial"}}
+{"sample_id": "1643", "prediction": "No, there is no tennis racket in the image", "baseline": "opera", "latency_sec": 1.725, "metadata": {"category": "adversarial"}}
+{"sample_id": "1096", "prediction": "Yes, there is a train in the image.", "baseline": "opera", "latency_sec": 1.664, "metadata": {"category": "adversarial"}}
+{"sample_id": "271", "prediction": "There is no existence of a handbag in the", "baseline": "opera", "latency_sec": 1.897, "metadata": {"category": "adversarial"}}
+{"sample_id": "864", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.72, "metadata": {"category": "adversarial"}}
+{"sample_id": "2323", "prediction": "Yes, there is a potted plant in the", "baseline": "opera", "latency_sec": 1.888, "metadata": {"category": "adversarial"}}
+{"sample_id": "1288", "prediction": "Yes, there is a train in the image.", "baseline": "opera", "latency_sec": 1.596, "metadata": {"category": "adversarial"}}
+{"sample_id": "870", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.407, "metadata": {"category": "adversarial"}}
+{"sample_id": "2684", "prediction": "There is no existence of an orange in the image", "baseline": "opera", "latency_sec": 1.414, "metadata": {"category": "adversarial"}}
+{"sample_id": "2044", "prediction": "Yes, there is a potted plant in the", "baseline": "opera", "latency_sec": 1.731, "metadata": {"category": "adversarial"}}
+{"sample_id": "1620", "prediction": "Yes, there is a motorcycle in the image.", "baseline": "opera", "latency_sec": 1.708, "metadata": {"category": "adversarial"}}
+{"sample_id": "2633", "prediction": "No, there is no spoon visible in the image", "baseline": "opera", "latency_sec": 1.72, "metadata": {"category": "adversarial"}}
+{"sample_id": "1879", "prediction": "No, there is no car visible in the image", "baseline": "opera", "latency_sec": 1.887, "metadata": {"category": "adversarial"}}
+{"sample_id": "585", "prediction": "No, there is no vase in the image.", "baseline": "opera", "latency_sec": 1.406, "metadata": {"category": "adversarial"}}
+{"sample_id": "1084", "prediction": "Yes, there is a tennis racket in the image", "baseline": "opera", "latency_sec": 1.722, "metadata": {"category": "adversarial"}}
+{"sample_id": "2994", "prediction": "Yes, there is a TV in the image.", "baseline": "opera", "latency_sec": 1.903, "metadata": {"category": "adversarial"}}
+{"sample_id": "1010", "prediction": "No, there is no orange in the image.", "baseline": "opera", "latency_sec": 2.243, "metadata": {"category": "adversarial"}}
+{"sample_id": "2299", "prediction": "There is no existence of a car in the image", "baseline": "opera", "latency_sec": 1.738, "metadata": {"category": "adversarial"}}
+{"sample_id": "2207", "prediction": "There is no existence of a chair in the image", "baseline": "opera", "latency_sec": 1.41, "metadata": {"category": "adversarial"}}
+{"sample_id": "1076", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.902, "metadata": {"category": "adversarial"}}
+{"sample_id": "2394", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.735, "metadata": {"category": "adversarial"}}
+{"sample_id": "1754", "prediction": "Yes, there is a bed in the image.", "baseline": "opera", "latency_sec": 1.601, "metadata": {"category": "adversarial"}}
+{"sample_id": "2390", "prediction": "Yes, there is a wine glass in the image", "baseline": "opera", "latency_sec": 1.878, "metadata": {"category": "adversarial"}}
+{"sample_id": "1635", "prediction": "No, there is no baseball glove in the image", "baseline": "opera", "latency_sec": 1.408, "metadata": {"category": "adversarial"}}
+{"sample_id": "1482", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.735, "metadata": {"category": "adversarial"}}
+{"sample_id": "898", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.877, "metadata": {"category": "adversarial"}}
+{"sample_id": "566", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.339, "metadata": {"category": "adversarial"}}
+{"sample_id": "2087", "prediction": "No, there is no cup visible in the image", "baseline": "opera", "latency_sec": 1.885, "metadata": {"category": "adversarial"}}
+{"sample_id": "2021", "prediction": "Yes, there is a cup in the image.", "baseline": "opera", "latency_sec": 1.89, "metadata": {"category": "adversarial"}}
+{"sample_id": "372", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.901, "metadata": {"category": "adversarial"}}
+{"sample_id": "192", "prediction": "Yes, there is a laptop in the image.", "baseline": "opera", "latency_sec": 1.336, "metadata": {"category": "adversarial"}}
+{"sample_id": "449", "prediction": "Yes, there is a TV in the image.", "baseline": "opera", "latency_sec": 1.896, "metadata": {"category": "adversarial"}}
+{"sample_id": "626", "prediction": "Yes, there is a backpack in the image.", "baseline": "opera", "latency_sec": 1.733, "metadata": {"category": "adversarial"}}
+{"sample_id": "2570", "prediction": "There is no existence of a bench in the image", "baseline": "opera", "latency_sec": 1.729, "metadata": {"category": "adversarial"}}
+{"sample_id": "655", "prediction": "Yes, there is a truck in the image.", "baseline": "opera", "latency_sec": 1.406, "metadata": {"category": "adversarial"}}
+{"sample_id": "2787", "prediction": "No, there is no bowl in the image.", "baseline": "opera", "latency_sec": 2.286, "metadata": {"category": "adversarial"}}
+{"sample_id": "1729", "prediction": "No, there is no person in the image.", "baseline": "opera", "latency_sec": 2.032, "metadata": {"category": "adversarial"}}
+{"sample_id": "2442", "prediction": "There is no existence of a person in the image", "baseline": "opera", "latency_sec": 1.886, "metadata": {"category": "adversarial"}}
+{"sample_id": "260", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.733, "metadata": {"category": "adversarial"}}
+{"sample_id": "1576", "prediction": "Yes, there is a bowl in the image.", "baseline": "opera", "latency_sec": 1.253, "metadata": {"category": "adversarial"}}
+{"sample_id": "1563", "prediction": "There is no existence of a surfboard in the", "baseline": "opera", "latency_sec": 1.611, "metadata": {"category": "adversarial"}}
+{"sample_id": "2440", "prediction": "Yes, there are skis in the image.", "baseline": "opera", "latency_sec": 1.893, "metadata": {"category": "adversarial"}}
+{"sample_id": "1917", "prediction": "There is no existence of a person in the image", "baseline": "opera", "latency_sec": 1.907, "metadata": {"category": "adversarial"}}
+{"sample_id": "2167", "prediction": "No, there is no dining table in the image", "baseline": "opera", "latency_sec": 1.729, "metadata": {"category": "adversarial"}}
+{"sample_id": "1029", "prediction": "No, there is no banana in the image.", "baseline": "opera", "latency_sec": 1.956, "metadata": {"category": "adversarial"}}
+{"sample_id": "2266", "prediction": "Yes, there is a tie in the image.", "baseline": "opera", "latency_sec": 1.732, "metadata": {"category": "adversarial"}}
+{"sample_id": "47", "prediction": "There is no existence of a bottle in the image", "baseline": "opera", "latency_sec": 1.879, "metadata": {"category": "adversarial"}}
+{"sample_id": "2786", "prediction": "Yes, there is a sandwich in the image.", "baseline": "opera", "latency_sec": 2.291, "metadata": {"category": "adversarial"}}
+{"sample_id": "469", "prediction": "No, there is no dining table in the image", "baseline": "opera", "latency_sec": 1.739, "metadata": {"category": "adversarial"}}
+{"sample_id": "2792", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.415, "metadata": {"category": "adversarial"}}
+{"sample_id": "2199", "prediction": "No, there is no dining table in the image", "baseline": "opera", "latency_sec": 1.328, "metadata": {"category": "adversarial"}}
+{"sample_id": "1092", "prediction": "Yes, there is a backpack in the image.", "baseline": "opera", "latency_sec": 1.663, "metadata": {"category": "adversarial"}}
+{"sample_id": "2625", "prediction": "There is no existence of a bed in the image", "baseline": "opera", "latency_sec": 1.887, "metadata": {"category": "adversarial"}}
+{"sample_id": "2964", "prediction": "Yes, there is a pizza in the image.", "baseline": "opera", "latency_sec": 1.721, "metadata": {"category": "adversarial"}}
+{"sample_id": "2999", "prediction": "Yes, there is a chair in the image.", "baseline": "opera", "latency_sec": 1.9, "metadata": {"category": "adversarial"}}
+{"sample_id": "1202", "prediction": "Yes, there is a truck in the image.", "baseline": "opera", "latency_sec": 1.721, "metadata": {"category": "adversarial"}}
+{"sample_id": "1780", "prediction": "Yes, there is a motorcycle in the image.", "baseline": "opera", "latency_sec": 1.891, "metadata": {"category": "adversarial"}}
+{"sample_id": "647", "prediction": "No, there is no dining table in the image", "baseline": "opera", "latency_sec": 1.888, "metadata": {"category": "adversarial"}}
+{"sample_id": "1858", "prediction": "No, there is no laptop in the image.", "baseline": "opera", "latency_sec": 1.899, "metadata": {"category": "adversarial"}}
+{"sample_id": "13", "prediction": "No, there is no dining table in the image", "baseline": "opera", "latency_sec": 1.727, "metadata": {"category": "adversarial"}}
+{"sample_id": "1078", "prediction": "Yes, there is a spoon in the image.", "baseline": "opera", "latency_sec": 1.891, "metadata": {"category": "adversarial"}}
+{"sample_id": "2050", "prediction": "Yes, there is a baseball bat in the image", "baseline": "opera", "latency_sec": 1.725, "metadata": {"category": "adversarial"}}
+{"sample_id": "731", "prediction": "No, there is no truck in the image.", "baseline": "opera", "latency_sec": 1.724, "metadata": {"category": "adversarial"}}
+{"sample_id": "2079", "prediction": "No, there is no fork visible in the image", "baseline": "opera", "latency_sec": 1.726, "metadata": {"category": "adversarial"}}
+{"sample_id": "435", "prediction": "No, there is no traffic light in the image", "baseline": "opera", "latency_sec": 1.605, "metadata": {"category": "adversarial"}}
+{"sample_id": "2561", "prediction": "There is no existence of a fire hydrant in", "baseline": "opera", "latency_sec": 1.908, "metadata": {"category": "adversarial"}}
+{"sample_id": "1222", "prediction": "No, there is no bed in the image.", "baseline": "opera", "latency_sec": 1.891, "metadata": {"category": "adversarial"}}
+{"sample_id": "2617", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.731, "metadata": {"category": "adversarial"}}
+{"sample_id": "2833", "prediction": "There is no existence of a person in the image", "baseline": "opera", "latency_sec": 1.802, "metadata": {"category": "adversarial"}}
+{"sample_id": "2494", "prediction": "Yes, there is a handbag in the image", "baseline": "opera", "latency_sec": 1.887, "metadata": {"category": "adversarial"}}
+{"sample_id": "2978", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.733, "metadata": {"category": "adversarial"}}
+{"sample_id": "2864", "prediction": "Yes, there is a sports ball in the image", "baseline": "opera", "latency_sec": 1.399, "metadata": {"category": "adversarial"}}
+{"sample_id": "1531", "prediction": "There is no existence of a person in the image", "baseline": "opera", "latency_sec": 1.896, "metadata": {"category": "adversarial"}}
+{"sample_id": "661", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.912, "metadata": {"category": "adversarial"}}
+{"sample_id": "2209", "prediction": "There is no existence of a cup in the image", "baseline": "opera", "latency_sec": 1.896, "metadata": {"category": "adversarial"}}
+{"sample_id": "2172", "prediction": "Yes, there is a chair in the image.", "baseline": "opera", "latency_sec": 1.932, "metadata": {"category": "adversarial"}}
+{"sample_id": "2", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.737, "metadata": {"category": "adversarial"}}
+{"sample_id": "2453", "prediction": "No, there is no laptop in the image.", "baseline": "opera", "latency_sec": 1.907, "metadata": {"category": "adversarial"}}
+{"sample_id": "1327", "prediction": "No, there is no person in the image.", "baseline": "opera", "latency_sec": 1.436, "metadata": {"category": "adversarial"}}
+{"sample_id": "2001", "prediction": "No, there is no dining table in the image", "baseline": "opera", "latency_sec": 1.363, "metadata": {"category": "adversarial"}}
+{"sample_id": "79", "prediction": "There is no existence of a car in the image", "baseline": "opera", "latency_sec": 1.338, "metadata": {"category": "adversarial"}}
+{"sample_id": "458", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.911, "metadata": {"category": "adversarial"}}
+{"sample_id": "1486", "prediction": "Yes, there is a car in the image.", "baseline": "opera", "latency_sec": 1.759, "metadata": {"category": "adversarial"}}
+{"sample_id": "1259", "prediction": "No, there is no snowboard in the image", "baseline": "opera", "latency_sec": 1.922, "metadata": {"category": "adversarial"}}
+{"sample_id": "980", "prediction": "Yes, there is a handbag in the image", "baseline": "opera", "latency_sec": 1.742, "metadata": {"category": "adversarial"}}
+{"sample_id": "237", "prediction": "Yes, there is a handbag in the image", "baseline": "opera", "latency_sec": 1.507, "metadata": {"category": "adversarial"}}
+{"sample_id": "986", "prediction": "There is no existence of a cake in the image", "baseline": "opera", "latency_sec": 2.193, "metadata": {"category": "adversarial"}}
+{"sample_id": "2891", "prediction": "No, there is no bicycle in the image.", "baseline": "opera", "latency_sec": 1.756, "metadata": {"category": "adversarial"}}
+{"sample_id": "2946", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.755, "metadata": {"category": "adversarial"}}
+{"sample_id": "350", "prediction": "Yes, there is a motorcycle in the image.", "baseline": "opera", "latency_sec": 1.901, "metadata": {"category": "adversarial"}}
+{"sample_id": "1990", "prediction": "Yes, there is a stop sign in the image", "baseline": "opera", "latency_sec": 1.89, "metadata": {"category": "adversarial"}}
+{"sample_id": "283", "prediction": "There is no existence of a car in the image", "baseline": "opera", "latency_sec": 1.403, "metadata": {"category": "adversarial"}}
+{"sample_id": "2181", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.881, "metadata": {"category": "adversarial"}}
+{"sample_id": "515", "prediction": "No, there is no dog in the image.", "baseline": "opera", "latency_sec": 1.738, "metadata": {"category": "adversarial"}}
+{"sample_id": "525", "prediction": "There is no existence of a dining table in the", "baseline": "opera", "latency_sec": 1.92, "metadata": {"category": "adversarial"}}
+{"sample_id": "2702", "prediction": "No, there is no motorcycle in the image.", "baseline": "opera", "latency_sec": 1.727, "metadata": {"category": "adversarial"}}
+{"sample_id": "1946", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.351, "metadata": {"category": "adversarial"}}
+{"sample_id": "2251", "prediction": "There is no existence of a person in the image", "baseline": "opera", "latency_sec": 1.406, "metadata": {"category": "adversarial"}}
+{"sample_id": "676", "prediction": "Yes, there is a teddy bear in the", "baseline": "opera", "latency_sec": 1.896, "metadata": {"category": "adversarial"}}
+{"sample_id": "1085", "prediction": "No, there is no chair in the image.", "baseline": "opera", "latency_sec": 1.739, "metadata": {"category": "adversarial"}}
+{"sample_id": "2161", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.894, "metadata": {"category": "adversarial"}}
+{"sample_id": "2484", "prediction": "Yes, there is a chair in the image.", "baseline": "opera", "latency_sec": 1.75, "metadata": {"category": "adversarial"}}
+{"sample_id": "1733", "prediction": "No, there is no couch in the image.", "baseline": "opera", "latency_sec": 2.028, "metadata": {"category": "adversarial"}}
+{"sample_id": "867", "prediction": "Yes, there is a backpack in the image.", "baseline": "opera", "latency_sec": 1.735, "metadata": {"category": "adversarial"}}
+{"sample_id": "2208", "prediction": "Yes, there is a pizza in the image.", "baseline": "opera", "latency_sec": 1.9, "metadata": {"category": "adversarial"}}
+{"sample_id": "823", "prediction": "No, there is no dining table in the image", "baseline": "opera", "latency_sec": 1.729, "metadata": {"category": "adversarial"}}
+{"sample_id": "1276", "prediction": "No, there is no knife visible in the image", "baseline": "opera", "latency_sec": 1.889, "metadata": {"category": "adversarial"}}
+{"sample_id": "1634", "prediction": "Yes, there is a sports ball in the image", "baseline": "opera", "latency_sec": 1.422, "metadata": {"category": "adversarial"}}
+{"sample_id": "2751", "prediction": "No, there is no truck visible in the image", "baseline": "opera", "latency_sec": 1.745, "metadata": {"category": "adversarial"}}
+{"sample_id": "2976", "prediction": "Yes, there is a chair in the image.", "baseline": "opera", "latency_sec": 1.752, "metadata": {"category": "adversarial"}}
+{"sample_id": "1529", "prediction": "No, there is no tennis racket in the image", "baseline": "opera", "latency_sec": 1.691, "metadata": {"category": "adversarial"}}
+{"sample_id": "1794", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.922, "metadata": {"category": "adversarial"}}
+{"sample_id": "2119", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 2.092, "metadata": {"category": "adversarial"}}
+{"sample_id": "1849", "prediction": "No, there is no TV in the image.", "baseline": "opera", "latency_sec": 1.75, "metadata": {"category": "adversarial"}}
+{"sample_id": "495", "prediction": "No, there is no dining table in the image", "baseline": "opera", "latency_sec": 2.188, "metadata": {"category": "adversarial"}}
+{"sample_id": "1015", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.94, "metadata": {"category": "adversarial"}}
+{"sample_id": "920", "prediction": "Yes, there is a carrot in the image.", "baseline": "opera", "latency_sec": 1.739, "metadata": {"category": "adversarial"}}
+{"sample_id": "262", "prediction": "Yes, there is a sports ball in the image", "baseline": "opera", "latency_sec": 1.73, "metadata": {"category": "adversarial"}}
+{"sample_id": "1384", "prediction": "Yes, there is a tie in the image.", "baseline": "opera", "latency_sec": 1.729, "metadata": {"category": "adversarial"}}
+{"sample_id": "86", "prediction": "Yes, there is a car in the image.", "baseline": "opera", "latency_sec": 1.356, "metadata": {"category": "adversarial"}}
+{"sample_id": "2409", "prediction": "Yes, there is a dining table in the image", "baseline": "opera", "latency_sec": 2.169, "metadata": {"category": "adversarial"}}
+{"sample_id": "2268", "prediction": "No, there is no TV in the image.", "baseline": "opera", "latency_sec": 1.898, "metadata": {"category": "adversarial"}}
+{"sample_id": "942", "prediction": "No, there is no person in the image.", "baseline": "opera", "latency_sec": 1.955, "metadata": {"category": "adversarial"}}
+{"sample_id": "2410", "prediction": "Yes, there is a bottle in the image.", "baseline": "opera", "latency_sec": 2.153, "metadata": {"category": "adversarial"}}
+{"sample_id": "2972", "prediction": "Yes, there is a sports ball in the image", "baseline": "opera", "latency_sec": 1.743, "metadata": {"category": "adversarial"}}
+{"sample_id": "29", "prediction": "Yes, there is a truck in the image.", "baseline": "opera", "latency_sec": 1.344, "metadata": {"category": "adversarial"}}
+{"sample_id": "290", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.737, "metadata": {"category": "adversarial"}}
+{"sample_id": "2584", "prediction": "Yes, there is a tie in the image.", "baseline": "opera", "latency_sec": 1.9, "metadata": {"category": "adversarial"}}
+{"sample_id": "241", "prediction": "There is no existence of a person in the image", "baseline": "opera", "latency_sec": 1.893, "metadata": {"category": "adversarial"}}
+{"sample_id": "937", "prediction": "No, there is no cup in the image.", "baseline": "opera", "latency_sec": 1.734, "metadata": {"category": "adversarial"}}
+{"sample_id": "276", "prediction": "Yes, there is a couch in the image.", "baseline": "opera", "latency_sec": 1.884, "metadata": {"category": "adversarial"}}
+{"sample_id": "128", "prediction": "Yes, there is a cat in the image.", "baseline": "opera", "latency_sec": 2.297, "metadata": {"category": "adversarial"}}
+{"sample_id": "1353", "prediction": "There is no existence of a TV in the image", "baseline": "opera", "latency_sec": 1.913, "metadata": {"category": "adversarial"}}
+{"sample_id": "2770", "prediction": "Yes, there is a zebra in the image", "baseline": "opera", "latency_sec": 1.768, "metadata": {"category": "adversarial"}}
+{"sample_id": "2105", "prediction": "No, there is no couch in the image.", "baseline": "opera", "latency_sec": 1.928, "metadata": {"category": "adversarial"}}
+{"sample_id": "974", "prediction": "Yes, there is a car in the image.", "baseline": "opera", "latency_sec": 1.403, "metadata": {"category": "adversarial"}}
+{"sample_id": "1140", "prediction": "Yes, there is a pizza in the image.", "baseline": "opera", "latency_sec": 2.189, "metadata": {"category": "adversarial"}}
+{"sample_id": "2740", "prediction": "There is no existence of a sports ball in the", "baseline": "opera", "latency_sec": 1.933, "metadata": {"category": "adversarial"}}
+{"sample_id": "1988", "prediction": "Yes, there is a car in the image.", "baseline": "opera", "latency_sec": 1.926, "metadata": {"category": "adversarial"}}
+{"sample_id": "877", "prediction": "No, there is no dining table visible in the", "baseline": "opera", "latency_sec": 1.742, "metadata": {"category": "adversarial"}}
+{"sample_id": "2847", "prediction": "No, there is no cup visible in the image", "baseline": "opera", "latency_sec": 1.773, "metadata": {"category": "adversarial"}}
+{"sample_id": "541", "prediction": "Yes, there is a car in the image.", "baseline": "opera", "latency_sec": 1.743, "metadata": {"category": "adversarial"}}
+{"sample_id": "2338", "prediction": "Yes, there is a sports ball in the image", "baseline": "opera", "latency_sec": 1.748, "metadata": {"category": "adversarial"}}
+{"sample_id": "2360", "prediction": "Yes, there is broccoli in the image. It", "baseline": "opera", "latency_sec": 1.349, "metadata": {"category": "adversarial"}}
+{"sample_id": "1936", "prediction": "Yes, there is an umbrella in the image.", "baseline": "opera", "latency_sec": 1.751, "metadata": {"category": "adversarial"}}
+{"sample_id": "995", "prediction": "Yes, there is a truck in the image.", "baseline": "opera", "latency_sec": 1.755, "metadata": {"category": "adversarial"}}
+{"sample_id": "1937", "prediction": "Yes, there is a handbag in the image", "baseline": "opera", "latency_sec": 1.742, "metadata": {"category": "adversarial"}}
+{"sample_id": "1667", "prediction": "There is no existence of a chair in the image", "baseline": "opera", "latency_sec": 1.744, "metadata": {"category": "adversarial"}}
+{"sample_id": "779", "prediction": "No, there is no cup visible in the image", "baseline": "opera", "latency_sec": 1.901, "metadata": {"category": "adversarial"}}
+{"sample_id": "386", "prediction": "Yes, there is a bottle in the image.", "baseline": "opera", "latency_sec": 1.913, "metadata": {"category": "adversarial"}}
+{"sample_id": "397", "prediction": "There is no existence of a person in the image", "baseline": "opera", "latency_sec": 1.418, "metadata": {"category": "adversarial"}}
+{"sample_id": "2699", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.895, "metadata": {"category": "adversarial"}}
+{"sample_id": "1765", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.743, "metadata": {"category": "adversarial"}}
+{"sample_id": "1451", "prediction": "Yes, there is a dining table in the image", "baseline": "opera", "latency_sec": 1.766, "metadata": {"category": "adversarial"}}
+{"sample_id": "1734", "prediction": "Yes, there is a dog in the image.", "baseline": "opera", "latency_sec": 1.737, "metadata": {"category": "adversarial"}}
+{"sample_id": "1683", "prediction": "Yes, there is a handbag in the image", "baseline": "opera", "latency_sec": 1.409, "metadata": {"category": "adversarial"}}
+{"sample_id": "1912", "prediction": "Yes, there is an umbrella in the image.", "baseline": "opera", "latency_sec": 1.598, "metadata": {"category": "adversarial"}}
+{"sample_id": "221", "prediction": "No, there is no truck in the image.", "baseline": "opera", "latency_sec": 1.745, "metadata": {"category": "adversarial"}}
+{"sample_id": "2676", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.424, "metadata": {"category": "adversarial"}}
+{"sample_id": "2646", "prediction": "Yes, there is a dog in the image.", "baseline": "opera", "latency_sec": 1.804, "metadata": {"category": "adversarial"}}
+{"sample_id": "403", "prediction": "No, there is no dining table in the image", "baseline": "opera", "latency_sec": 1.731, "metadata": {"category": "adversarial"}}
+{"sample_id": "248", "prediction": "Yes, there is a truck in the image.", "baseline": "opera", "latency_sec": 1.913, "metadata": {"category": "adversarial"}}
+{"sample_id": "1649", "prediction": "No, there is no truck in the image.", "baseline": "opera", "latency_sec": 1.907, "metadata": {"category": "adversarial"}}
+{"sample_id": "1389", "prediction": "There is no existence of a person in the image", "baseline": "opera", "latency_sec": 1.903, "metadata": {"category": "adversarial"}}
+{"sample_id": "447", "prediction": "No, there is no chair visible in the image", "baseline": "opera", "latency_sec": 3.076, "metadata": {"category": "adversarial"}}
+{"sample_id": "1018", "prediction": "Yes, there is a laptop in the image.", "baseline": "opera", "latency_sec": 1.909, "metadata": {"category": "adversarial"}}
+{"sample_id": "784", "prediction": "Yes, there is a frisbee in the", "baseline": "opera", "latency_sec": 1.412, "metadata": {"category": "adversarial"}}
+{"sample_id": "2748", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.741, "metadata": {"category": "adversarial"}}
+{"sample_id": "2949", "prediction": "There is no existence of a dining table in the", "baseline": "opera", "latency_sec": 1.724, "metadata": {"category": "adversarial"}}
+{"sample_id": "1837", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 2.303, "metadata": {"category": "adversarial"}}
+{"sample_id": "574", "prediction": "Yes, there is a cat in the image.", "baseline": "opera", "latency_sec": 1.405, "metadata": {"category": "adversarial"}}
+{"sample_id": "2988", "prediction": "Yes, there is a bowl in the image.", "baseline": "opera", "latency_sec": 1.881, "metadata": {"category": "adversarial"}}
+{"sample_id": "751", "prediction": "No, there is no sink in the image.", "baseline": "opera", "latency_sec": 1.41, "metadata": {"category": "adversarial"}}
+{"sample_id": "2760", "prediction": "Yes, there is a baseball glove in the image", "baseline": "opera", "latency_sec": 1.725, "metadata": {"category": "adversarial"}}
+{"sample_id": "1894", "prediction": "There is no existence of a person in the image", "baseline": "opera", "latency_sec": 2.301, "metadata": {"category": "adversarial"}}
+{"sample_id": "1023", "prediction": "Yes, there is a car in the image.", "baseline": "opera", "latency_sec": 1.73, "metadata": {"category": "adversarial"}}
+{"sample_id": "308", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.898, "metadata": {"category": "adversarial"}}
+{"sample_id": "1815", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.896, "metadata": {"category": "adversarial"}}
+{"sample_id": "2254", "prediction": "Yes, there is a bottle in the image.", "baseline": "opera", "latency_sec": 1.402, "metadata": {"category": "adversarial"}}
+{"sample_id": "401", "prediction": "There is no existence of a TV in the image", "baseline": "opera", "latency_sec": 1.399, "metadata": {"category": "adversarial"}}
+{"sample_id": "207", "prediction": "There is no existence of a car in the image", "baseline": "opera", "latency_sec": 1.187, "metadata": {"category": "adversarial"}}
+{"sample_id": "2671", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.746, "metadata": {"category": "adversarial"}}
+{"sample_id": "2214", "prediction": "Yes, there is a backpack in the image.", "baseline": "opera", "latency_sec": 1.748, "metadata": {"category": "adversarial"}}
+{"sample_id": "60", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.727, "metadata": {"category": "adversarial"}}
+{"sample_id": "382", "prediction": "Yes, there is a skateboard in the image.", "baseline": "opera", "latency_sec": 1.735, "metadata": {"category": "adversarial"}}
+{"sample_id": "968", "prediction": "There is no existence of a person in the image", "baseline": "opera", "latency_sec": 1.265, "metadata": {"category": "adversarial"}}
+{"sample_id": "681", "prediction": "There is no existence of a cup in the image", "baseline": "opera", "latency_sec": 2.306, "metadata": {"category": "adversarial"}}
+{"sample_id": "1664", "prediction": "Yes, there is a sports ball in the image", "baseline": "opera", "latency_sec": 1.735, "metadata": {"category": "adversarial"}}
+{"sample_id": "1989", "prediction": "No, there is no truck in the image.", "baseline": "opera", "latency_sec": 1.921, "metadata": {"category": "adversarial"}}
+{"sample_id": "1971", "prediction": "No, there is no dining table in the image", "baseline": "opera", "latency_sec": 1.377, "metadata": {"category": "adversarial"}}
+{"sample_id": "875", "prediction": "No, there is no dog in the image.", "baseline": "opera", "latency_sec": 1.433, "metadata": {"category": "adversarial"}}
+{"sample_id": "1642", "prediction": "There is no existence of a sports ball in the", "baseline": "opera", "latency_sec": 1.733, "metadata": {"category": "adversarial"}}
+{"sample_id": "240", "prediction": "There is no existence of a car in the image", "baseline": "opera", "latency_sec": 1.9, "metadata": {"category": "adversarial"}}
+{"sample_id": "674", "prediction": "Yes, there is a bear in the image.", "baseline": "opera", "latency_sec": 1.913, "metadata": {"category": "adversarial"}}
+{"sample_id": "1552", "prediction": "No, there is no sports ball in the image", "baseline": "opera", "latency_sec": 1.761, "metadata": {"category": "adversarial"}}
+{"sample_id": "8", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.444, "metadata": {"category": "adversarial"}}
+{"sample_id": "1599", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 2.103, "metadata": {"category": "adversarial"}}
+{"sample_id": "1086", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.917, "metadata": {"category": "adversarial"}}
+{"sample_id": "1863", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.731, "metadata": {"category": "adversarial"}}
+{"sample_id": "1168", "prediction": "Yes, there is a bowl in the image.", "baseline": "opera", "latency_sec": 1.614, "metadata": {"category": "adversarial"}}
+{"sample_id": "1732", "prediction": "Yes, there is a bear in the image.", "baseline": "opera", "latency_sec": 2.034, "metadata": {"category": "adversarial"}}
+{"sample_id": "2276", "prediction": "Yes, there is a truck in the image.", "baseline": "opera", "latency_sec": 1.892, "metadata": {"category": "adversarial"}}
+{"sample_id": "1993", "prediction": "Yes, there is a traffic light in the image", "baseline": "opera", "latency_sec": 1.898, "metadata": {"category": "adversarial"}}
+{"sample_id": "634", "prediction": "Yes, there is a cat in the image.", "baseline": "opera", "latency_sec": 1.727, "metadata": {"category": "adversarial"}}
+{"sample_id": "777", "prediction": "Yes, there is a vase in the image.", "baseline": "opera", "latency_sec": 1.905, "metadata": {"category": "adversarial"}}
+{"sample_id": "1215", "prediction": "Yes, there is a backpack in the image.", "baseline": "opera", "latency_sec": 1.344, "metadata": {"category": "adversarial"}}
+{"sample_id": "891", "prediction": "No, there is no dining table in the image", "baseline": "opera", "latency_sec": 1.517, "metadata": {"category": "adversarial"}}
+{"sample_id": "239", "prediction": "There is no existence of a car in the image", "baseline": "opera", "latency_sec": 1.466, "metadata": {"category": "adversarial"}}
+{"sample_id": "2372", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.623, "metadata": {"category": "adversarial"}}
+{"sample_id": "2220", "prediction": "Yes, there is a traffic light in the image", "baseline": "opera", "latency_sec": 1.804, "metadata": {"category": "adversarial"}}
+{"sample_id": "249", "prediction": "No, there is no motorcycle visible in the image", "baseline": "opera", "latency_sec": 1.899, "metadata": {"category": "adversarial"}}
+{"sample_id": "1284", "prediction": "Yes, there is a traffic light in the image", "baseline": "opera", "latency_sec": 1.606, "metadata": {"category": "adversarial"}}
+{"sample_id": "234", "prediction": "Yes, there is a TV in the image.", "baseline": "opera", "latency_sec": 1.458, "metadata": {"category": "adversarial"}}
+{"sample_id": "205", "prediction": "There is no existence of a handbag in the", "baseline": "opera", "latency_sec": 1.192, "metadata": {"category": "adversarial"}}
+{"sample_id": "2392", "prediction": "Yes, there is a cup in the image.", "baseline": "opera", "latency_sec": 1.923, "metadata": {"category": "adversarial"}}
+{"sample_id": "1952", "prediction": "Yes, there is a teddy bear in the", "baseline": "opera", "latency_sec": 1.893, "metadata": {"category": "adversarial"}}
+{"sample_id": "2059", "prediction": "There is no existence of a person in the image", "baseline": "opera", "latency_sec": 1.733, "metadata": {"category": "adversarial"}}
+{"sample_id": "2175", "prediction": "Yes, there is a handbag in the image", "baseline": "opera", "latency_sec": 1.908, "metadata": {"category": "adversarial"}}
+{"sample_id": "644", "prediction": "Yes, there is a bicycle in the image.", "baseline": "opera", "latency_sec": 1.898, "metadata": {"category": "adversarial"}}
+{"sample_id": "232", "prediction": "Yes, there is a mouse in the image.", "baseline": "opera", "latency_sec": 1.942, "metadata": {"category": "adversarial"}}
+{"sample_id": "2080", "prediction": "Yes, there is a dining table in the image", "baseline": "opera", "latency_sec": 1.72, "metadata": {"category": "adversarial"}}
+{"sample_id": "328", "prediction": "Yes, there is a car in the image.", "baseline": "opera", "latency_sec": 1.883, "metadata": {"category": "adversarial"}}
+{"sample_id": "761", "prediction": "No, there is no truck in the image.", "baseline": "opera", "latency_sec": 1.401, "metadata": {"category": "adversarial"}}
+{"sample_id": "280", "prediction": "Yes, there is a vase in the image.", "baseline": "opera", "latency_sec": 1.88, "metadata": {"category": "adversarial"}}
+{"sample_id": "2437", "prediction": "Yes, there is a handbag in the image", "baseline": "opera", "latency_sec": 1.889, "metadata": {"category": "adversarial"}}
+{"sample_id": "278", "prediction": "Yes, there is a chair in the image.", "baseline": "opera", "latency_sec": 1.89, "metadata": {"category": "adversarial"}}
+{"sample_id": "963", "prediction": "No, there is no tennis racket in the image", "baseline": "opera", "latency_sec": 1.735, "metadata": {"category": "adversarial"}}
+{"sample_id": "1653", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.731, "metadata": {"category": "adversarial"}}
+{"sample_id": "491", "prediction": "No, there is no cup visible in the image", "baseline": "opera", "latency_sec": 2.293, "metadata": {"category": "adversarial"}}
+{"sample_id": "2333", "prediction": "No, there is no couch in the image.", "baseline": "opera", "latency_sec": 1.726, "metadata": {"category": "adversarial"}}
+{"sample_id": "1008", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 2.226, "metadata": {"category": "adversarial"}}
+{"sample_id": "2371", "prediction": "Yes, there is a handbag in the image", "baseline": "opera", "latency_sec": 1.598, "metadata": {"category": "adversarial"}}
+{"sample_id": "2435", "prediction": "Yes, there is a truck in the image.", "baseline": "opera", "latency_sec": 1.717, "metadata": {"category": "adversarial"}}
+{"sample_id": "162", "prediction": "Yes, there is a truck in the image.", "baseline": "opera", "latency_sec": 1.896, "metadata": {"category": "adversarial"}}
+{"sample_id": "2536", "prediction": "Yes, there is a horse in the image.", "baseline": "opera", "latency_sec": 1.458, "metadata": {"category": "adversarial"}}
+{"sample_id": "335", "prediction": "No, there is no spoon visible in the image", "baseline": "opera", "latency_sec": 1.888, "metadata": {"category": "adversarial"}}
+{"sample_id": "1717", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.895, "metadata": {"category": "adversarial"}}
+{"sample_id": "2918", "prediction": "Yes, there is a cat in the image.", "baseline": "opera", "latency_sec": 1.727, "metadata": {"category": "adversarial"}}
+{"sample_id": "2315", "prediction": "No, there is no bottle visible in the image", "baseline": "opera", "latency_sec": 1.729, "metadata": {"category": "adversarial"}}
+{"sample_id": "2141", "prediction": "No, there is no chair in the image.", "baseline": "opera", "latency_sec": 1.338, "metadata": {"category": "adversarial"}}
+{"sample_id": "1295", "prediction": "No, there is no spoon visible in the image", "baseline": "opera", "latency_sec": 1.889, "metadata": {"category": "adversarial"}}
+{"sample_id": "1068", "prediction": "Yes, there is a spoon in the image.", "baseline": "opera", "latency_sec": 1.908, "metadata": {"category": "adversarial"}}
+{"sample_id": "836", "prediction": "No, there is no spoon visible in the image", "baseline": "opera", "latency_sec": 2.146, "metadata": {"category": "adversarial"}}
+{"sample_id": "1286", "prediction": "There is no existence of a person in the image", "baseline": "opera", "latency_sec": 1.591, "metadata": {"category": "adversarial"}}
+{"sample_id": "977", "prediction": "No, there is no bus in the image.", "baseline": "opera", "latency_sec": 1.394, "metadata": {"category": "adversarial"}}
+{"sample_id": "1087", "prediction": "Yes, there is a car in the image.", "baseline": "opera", "latency_sec": 1.879, "metadata": {"category": "adversarial"}}
+{"sample_id": "1621", "prediction": "No, there is no truck visible in the image", "baseline": "opera", "latency_sec": 1.733, "metadata": {"category": "adversarial"}}
+{"sample_id": "536", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.885, "metadata": {"category": "adversarial"}}
+{"sample_id": "2643", "prediction": "No, there are no skis in the image", "baseline": "opera", "latency_sec": 1.662, "metadata": {"category": "adversarial"}}
+{"sample_id": "1228", "prediction": "Yes, there is a car in the image.", "baseline": "opera", "latency_sec": 1.667, "metadata": {"category": "adversarial"}}
+{"sample_id": "1872", "prediction": "Yes, there is a sink in the image.", "baseline": "opera", "latency_sec": 1.41, "metadata": {"category": "adversarial"}}
+{"sample_id": "2656", "prediction": "There is no existence of a fork in the image", "baseline": "opera", "latency_sec": 1.343, "metadata": {"category": "adversarial"}}
+{"sample_id": "297", "prediction": "No, there is no cup visible in the image", "baseline": "opera", "latency_sec": 2.292, "metadata": {"category": "adversarial"}}
+{"sample_id": "38", "prediction": "Yes, there is a spoon in the image.", "baseline": "opera", "latency_sec": 1.899, "metadata": {"category": "adversarial"}}
+{"sample_id": "1877", "prediction": "No, there is no cup in the image.", "baseline": "opera", "latency_sec": 1.401, "metadata": {"category": "adversarial"}}
+{"sample_id": "2544", "prediction": "Yes, there is a dog in the image.", "baseline": "opera", "latency_sec": 2.029, "metadata": {"category": "adversarial"}}
+{"sample_id": "2306", "prediction": "Yes, there is a motorcycle in the image.", "baseline": "opera", "latency_sec": 1.73, "metadata": {"category": "adversarial"}}
+{"sample_id": "409", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.894, "metadata": {"category": "adversarial"}}
+{"sample_id": "300", "prediction": "Yes, there is a vase in the image.", "baseline": "opera", "latency_sec": 1.729, "metadata": {"category": "adversarial"}}
+{"sample_id": "2202", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.403, "metadata": {"category": "adversarial"}}
+{"sample_id": "873", "prediction": "No, there is no dining table in the image", "baseline": "opera", "latency_sec": 1.417, "metadata": {"category": "adversarial"}}
+{"sample_id": "2072", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.795, "metadata": {"category": "adversarial"}}
+{"sample_id": "2920", "prediction": "Yes, there is a tie in the image.", "baseline": "opera", "latency_sec": 1.729, "metadata": {"category": "adversarial"}}
+{"sample_id": "542", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.733, "metadata": {"category": "adversarial"}}
+{"sample_id": "1429", "prediction": "No, there is no dining table in the image", "baseline": "opera", "latency_sec": 1.883, "metadata": {"category": "adversarial"}}
+{"sample_id": "281", "prediction": "There is no existence of a potted plant in", "baseline": "opera", "latency_sec": 1.887, "metadata": {"category": "adversarial"}}
+{"sample_id": "1000", "prediction": "Yes, there is a fork in the image.", "baseline": "opera", "latency_sec": 1.877, "metadata": {"category": "adversarial"}}
+{"sample_id": "1513", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 2.225, "metadata": {"category": "adversarial"}}
+{"sample_id": "1167", "prediction": "No, there is no cup visible in the image", "baseline": "opera", "latency_sec": 1.618, "metadata": {"category": "adversarial"}}
+{"sample_id": "646", "prediction": "Yes, there is a potted plant in the", "baseline": "opera", "latency_sec": 1.887, "metadata": {"category": "adversarial"}}
+{"sample_id": "2785", "prediction": "Yes, there is a cup in the image.", "baseline": "opera", "latency_sec": 2.275, "metadata": {"category": "adversarial"}}
+{"sample_id": "2225", "prediction": "Yes, there is a backpack in the image.", "baseline": "opera", "latency_sec": 1.794, "metadata": {"category": "adversarial"}}
+{"sample_id": "1239", "prediction": "Yes, there is a truck in the image.", "baseline": "opera", "latency_sec": 1.662, "metadata": {"category": "adversarial"}}
+{"sample_id": "2505", "prediction": "Yes, there is a backpack in the image.", "baseline": "opera", "latency_sec": 1.721, "metadata": {"category": "adversarial"}}
+{"sample_id": "2166", "prediction": "Yes, there is a chair in the image.", "baseline": "opera", "latency_sec": 1.72, "metadata": {"category": "adversarial"}}
+{"sample_id": "32", "prediction": "Yes, there is a dining table in the image", "baseline": "opera", "latency_sec": 1.73, "metadata": {"category": "adversarial"}}
+{"sample_id": "2271", "prediction": "There is no existence of a dining table in the", "baseline": "opera", "latency_sec": 1.908, "metadata": {"category": "adversarial"}}
+{"sample_id": "1226", "prediction": "Yes, there is a clock in the image.", "baseline": "opera", "latency_sec": 1.67, "metadata": {"category": "adversarial"}}
+{"sample_id": "424", "prediction": "Yes, there is a remote in the image.", "baseline": "opera", "latency_sec": 1.412, "metadata": {"category": "adversarial"}}
+{"sample_id": "550", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.715, "metadata": {"category": "adversarial"}}
+{"sample_id": "2952", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.757, "metadata": {"category": "adversarial"}}
+{"sample_id": "472", "prediction": "Yes, there is an airplane in the image.", "baseline": "opera", "latency_sec": 1.731, "metadata": {"category": "adversarial"}}
+{"sample_id": "438", "prediction": "Yes, there is a chair in the image.", "baseline": "opera", "latency_sec": 1.732, "metadata": {"category": "adversarial"}}
+{"sample_id": "2851", "prediction": "Yes, there is a car in the image.", "baseline": "opera", "latency_sec": 1.724, "metadata": {"category": "adversarial"}}
+{"sample_id": "2962", "prediction": "Yes, there is a fork in the image.", "baseline": "opera", "latency_sec": 1.404, "metadata": {"category": "adversarial"}}
+{"sample_id": "1115", "prediction": "Yes, there is a chair in the image.", "baseline": "opera", "latency_sec": 1.724, "metadata": {"category": "adversarial"}}
+{"sample_id": "1154", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.885, "metadata": {"category": "adversarial"}}
+{"sample_id": "2477", "prediction": "No, there is no bicycle in the image.", "baseline": "opera", "latency_sec": 1.733, "metadata": {"category": "adversarial"}}
+{"sample_id": "862", "prediction": "No, there is no laptop in the image.", "baseline": "opera", "latency_sec": 1.737, "metadata": {"category": "adversarial"}}
+{"sample_id": "1404", "prediction": "Yes, there is a backpack in the image.", "baseline": "opera", "latency_sec": 2.085, "metadata": {"category": "adversarial"}}
+{"sample_id": "833", "prediction": "No, there is no bicycle in the image.", "baseline": "opera", "latency_sec": 1.725, "metadata": {"category": "adversarial"}}
+{"sample_id": "2597", "prediction": "Yes, there is a chair in the image.", "baseline": "opera", "latency_sec": 1.886, "metadata": {"category": "adversarial"}}
+{"sample_id": "1081", "prediction": "There is no existence of a car in the image", "baseline": "opera", "latency_sec": 1.716, "metadata": {"category": "adversarial"}}
+{"sample_id": "2070", "prediction": "Yes, there is a backpack in the image.", "baseline": "opera", "latency_sec": 1.795, "metadata": {"category": "adversarial"}}
+{"sample_id": "2817", "prediction": "Yes, there is a car in the image.", "baseline": "opera", "latency_sec": 1.955, "metadata": {"category": "adversarial"}}
+{"sample_id": "1028", "prediction": "Yes, there is a bowl in the image.", "baseline": "opera", "latency_sec": 1.955, "metadata": {"category": "adversarial"}}
+{"sample_id": "208", "prediction": "Yes, there is a boat in the image.", "baseline": "opera", "latency_sec": 1.186, "metadata": {"category": "adversarial"}}
+{"sample_id": "378", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.724, "metadata": {"category": "adversarial"}}
+{"sample_id": "2598", "prediction": "Yes, there is a vase in the image.", "baseline": "opera", "latency_sec": 1.955, "metadata": {"category": "adversarial"}}
+{"sample_id": "2742", "prediction": "Yes, there is a vase in the image.", "baseline": "opera", "latency_sec": 1.727, "metadata": {"category": "adversarial"}}
+{"sample_id": "1133", "prediction": "No, there is no chair in the image.", "baseline": "opera", "latency_sec": 2.027, "metadata": {"category": "adversarial"}}
+{"sample_id": "180", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.883, "metadata": {"category": "adversarial"}}
+{"sample_id": "14", "prediction": "Yes, there is a bicycle in the image.", "baseline": "opera", "latency_sec": 1.729, "metadata": {"category": "adversarial"}}
+{"sample_id": "1366", "prediction": "There is no existence of a cow in the image", "baseline": "opera", "latency_sec": 2.082, "metadata": {"category": "adversarial"}}
+{"sample_id": "535", "prediction": "There is no existence of a bottle in the image", "baseline": "opera", "latency_sec": 1.885, "metadata": {"category": "adversarial"}}
+{"sample_id": "1072", "prediction": "Yes, there is a bottle in the image.", "baseline": "opera", "latency_sec": 1.881, "metadata": {"category": "adversarial"}}
+{"sample_id": "2823", "prediction": "There is no existence of a dining table in the", "baseline": "opera", "latency_sec": 1.796, "metadata": {"category": "adversarial"}}
+{"sample_id": "1809", "prediction": "No, there is no bus visible in the image", "baseline": "opera", "latency_sec": 2.021, "metadata": {"category": "adversarial"}}
+{"sample_id": "2259", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.72, "metadata": {"category": "adversarial"}}
+{"sample_id": "1751", "prediction": "No, there is no cup in the image.", "baseline": "opera", "latency_sec": 1.724, "metadata": {"category": "adversarial"}}
+{"sample_id": "2297", "prediction": "No, there is no spoon in the image.", "baseline": "opera", "latency_sec": 1.892, "metadata": {"category": "adversarial"}}
+{"sample_id": "39", "prediction": "Yes, there is a cup in the image.", "baseline": "opera", "latency_sec": 1.882, "metadata": {"category": "adversarial"}}
+{"sample_id": "2815", "prediction": "No, there is no dog in the image.", "baseline": "opera", "latency_sec": 1.952, "metadata": {"category": "adversarial"}}
+{"sample_id": "2720", "prediction": "There is no existence of a person in the image", "baseline": "opera", "latency_sec": 1.721, "metadata": {"category": "adversarial"}}
+{"sample_id": "610", "prediction": "Yes, there is a car in the image.", "baseline": "opera", "latency_sec": 1.888, "metadata": {"category": "adversarial"}}
+{"sample_id": "2234", "prediction": "Yes, there is a bottle in the image.", "baseline": "opera", "latency_sec": 1.728, "metadata": {"category": "adversarial"}}
+{"sample_id": "147", "prediction": "No, there is no backpack in the image.", "baseline": "opera", "latency_sec": 1.595, "metadata": {"category": "adversarial"}}
+{"sample_id": "1512", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 2.227, "metadata": {"category": "adversarial"}}
+{"sample_id": "2385", "prediction": "No, there is no motorcycle in the image.", "baseline": "opera", "latency_sec": 1.89, "metadata": {"category": "adversarial"}}
+{"sample_id": "2263", "prediction": "No, there is no cow in the image.", "baseline": "opera", "latency_sec": 1.726, "metadata": {"category": "adversarial"}}
+{"sample_id": "606", "prediction": "Yes, there is a motorcycle in the image.", "baseline": "opera", "latency_sec": 1.89, "metadata": {"category": "adversarial"}}
+{"sample_id": "1760", "prediction": "No, there is no bowl in the image.", "baseline": "opera", "latency_sec": 1.336, "metadata": {"category": "adversarial"}}
+{"sample_id": "522", "prediction": "Yes, there is a chair in the image.", "baseline": "opera", "latency_sec": 1.886, "metadata": {"category": "adversarial"}}
+{"sample_id": "171", "prediction": "There is no existence of a traffic light in the", "baseline": "opera", "latency_sec": 1.406, "metadata": {"category": "adversarial"}}
+{"sample_id": "1262", "prediction": "Yes, there is a dog in the image.", "baseline": "opera", "latency_sec": 1.894, "metadata": {"category": "adversarial"}}
+{"sample_id": "1493", "prediction": "There is no existence of a car in the image", "baseline": "opera", "latency_sec": 1.408, "metadata": {"category": "adversarial"}}
+{"sample_id": "163", "prediction": "Yes, there is a car in the image.", "baseline": "opera", "latency_sec": 1.902, "metadata": {"category": "adversarial"}}
+{"sample_id": "1465", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.734, "metadata": {"category": "adversarial"}}
+{"sample_id": "860", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.721, "metadata": {"category": "adversarial"}}
+{"sample_id": "1022", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.721, "metadata": {"category": "adversarial"}}
+{"sample_id": "421", "prediction": "No, there is no dining table in the image", "baseline": "opera", "latency_sec": 1.412, "metadata": {"category": "adversarial"}}
+{"sample_id": "1448", "prediction": "There is no existence of an orange in the image", "baseline": "opera", "latency_sec": 1.729, "metadata": {"category": "adversarial"}}
+{"sample_id": "2293", "prediction": "Yes, there is a cup in the image.", "baseline": "opera", "latency_sec": 1.898, "metadata": {"category": "adversarial"}}
+{"sample_id": "2709", "prediction": "Yes, there is a traffic light in the image", "baseline": "opera", "latency_sec": 1.723, "metadata": {"category": "adversarial"}}
+{"sample_id": "2542", "prediction": "Yes, there are skis in the image.", "baseline": "opera", "latency_sec": 1.88, "metadata": {"category": "adversarial"}}
+{"sample_id": "633", "prediction": "Yes, there is a sink in the image.", "baseline": "opera", "latency_sec": 1.718, "metadata": {"category": "adversarial"}}
+{"sample_id": "969", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.244, "metadata": {"category": "adversarial"}}
+{"sample_id": "665", "prediction": "No, there is no truck in the image.", "baseline": "opera", "latency_sec": 1.883, "metadata": {"category": "adversarial"}}
+{"sample_id": "725", "prediction": "No, there is no backpack visible in the image", "baseline": "opera", "latency_sec": 1.888, "metadata": {"category": "adversarial"}}
+{"sample_id": "1688", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.887, "metadata": {"category": "adversarial"}}
+{"sample_id": "101", "prediction": "Yes, there is a backpack in the image.", "baseline": "opera", "latency_sec": 1.728, "metadata": {"category": "adversarial"}}
+{"sample_id": "734", "prediction": "Yes, there is a clock in the image.", "baseline": "opera", "latency_sec": 1.886, "metadata": {"category": "adversarial"}}
+{"sample_id": "1360", "prediction": "Yes, there is a car in the image.", "baseline": "opera", "latency_sec": 2.022, "metadata": {"category": "adversarial"}}
+{"sample_id": "1686", "prediction": "Yes, there is a truck in the image.", "baseline": "opera", "latency_sec": 1.885, "metadata": {"category": "adversarial"}}
+{"sample_id": "1016", "prediction": "Yes, there is a couch in the image.", "baseline": "opera", "latency_sec": 1.894, "metadata": {"category": "adversarial"}}
+{"sample_id": "2845", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.725, "metadata": {"category": "adversarial"}}
+{"sample_id": "652", "prediction": "Yes, there is a chair in the image.", "baseline": "opera", "latency_sec": 1.888, "metadata": {"category": "adversarial"}}
+{"sample_id": "442", "prediction": "Yes, there is a couch in the image.", "baseline": "opera", "latency_sec": 1.737, "metadata": {"category": "adversarial"}}
+{"sample_id": "1566", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.879, "metadata": {"category": "adversarial"}}
+{"sample_id": "158", "prediction": "No, there is no person in the image.", "baseline": "opera", "latency_sec": 1.719, "metadata": {"category": "adversarial"}}
+{"sample_id": "1927", "prediction": "Yes, there is a handbag in the image", "baseline": "opera", "latency_sec": 1.883, "metadata": {"category": "adversarial"}}
+{"sample_id": "911", "prediction": "There is no existence of a TV in the image", "baseline": "opera", "latency_sec": 1.396, "metadata": {"category": "adversarial"}}
+{"sample_id": "817", "prediction": "There is no existence of a car in the image", "baseline": "opera", "latency_sec": 1.875, "metadata": {"category": "adversarial"}}
+{"sample_id": "1885", "prediction": "There is no existence of a person in the image", "baseline": "opera", "latency_sec": 1.891, "metadata": {"category": "adversarial"}}
+{"sample_id": "1432", "prediction": "There is no existence of a person in the image", "baseline": "opera", "latency_sec": 1.889, "metadata": {"category": "adversarial"}}
+{"sample_id": "1250", "prediction": "No, there is no bowl in the image.", "baseline": "opera", "latency_sec": 1.435, "metadata": {"category": "adversarial"}}
+{"sample_id": "932", "prediction": "Yes, there is a bed in the image.", "baseline": "opera", "latency_sec": 1.904, "metadata": {"category": "adversarial"}}
+{"sample_id": "913", "prediction": "Yes, there is a bottle in the image.", "baseline": "opera", "latency_sec": 1.678, "metadata": {"category": "adversarial"}}
+{"sample_id": "96", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.741, "metadata": {"category": "adversarial"}}
+{"sample_id": "791", "prediction": "No, there is no TV visible in the image", "baseline": "opera", "latency_sec": 1.739, "metadata": {"category": "adversarial"}}
+{"sample_id": "1632", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.422, "metadata": {"category": "adversarial"}}
+{"sample_id": "1344", "prediction": "Yes, there is a car visible in the image", "baseline": "opera", "latency_sec": 1.908, "metadata": {"category": "adversarial"}}
+{"sample_id": "1141", "prediction": "There is no existence of a person in the image", "baseline": "opera", "latency_sec": 2.182, "metadata": {"category": "adversarial"}}
+{"sample_id": "2937", "prediction": "There is no existence of a TV in the image", "baseline": "opera", "latency_sec": 1.904, "metadata": {"category": "adversarial"}}
+{"sample_id": "1143", "prediction": "No, there is no bottle in the image.", "baseline": "opera", "latency_sec": 2.169, "metadata": {"category": "adversarial"}}
+{"sample_id": "1438", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.888, "metadata": {"category": "adversarial"}}
+{"sample_id": "2086", "prediction": "No, there is no dining table visible in the", "baseline": "opera", "latency_sec": 1.891, "metadata": {"category": "adversarial"}}
+{"sample_id": "1637", "prediction": "There is no existence of a chair in the image", "baseline": "opera", "latency_sec": 1.4, "metadata": {"category": "adversarial"}}
+{"sample_id": "2728", "prediction": "No, there is no boat in the image.", "baseline": "opera", "latency_sec": 1.716, "metadata": {"category": "adversarial"}}
+{"sample_id": "1356", "prediction": "There is no existence of a person in the image", "baseline": "opera", "latency_sec": 2.019, "metadata": {"category": "adversarial"}}
+{"sample_id": "113", "prediction": "There is no existence of a vase in the image", "baseline": "opera", "latency_sec": 1.718, "metadata": {"category": "adversarial"}}
+{"sample_id": "2615", "prediction": "No, there is no dining table in the image", "baseline": "opera", "latency_sec": 1.899, "metadata": {"category": "adversarial"}}
+{"sample_id": "1069", "prediction": "Yes, there is a bowl in the image.", "baseline": "opera", "latency_sec": 1.905, "metadata": {"category": "adversarial"}}
+{"sample_id": "2834", "prediction": "Yes, there is a sandwich in the image.", "baseline": "opera", "latency_sec": 1.796, "metadata": {"category": "adversarial"}}
+{"sample_id": "2378", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.735, "metadata": {"category": "adversarial"}}
+{"sample_id": "2651", "prediction": "Yes, there is an orange in the image.", "baseline": "opera", "latency_sec": 1.801, "metadata": {"category": "adversarial"}}
+{"sample_id": "156", "prediction": "Yes, there is a TV in the image.", "baseline": "opera", "latency_sec": 1.718, "metadata": {"category": "adversarial"}}
+{"sample_id": "444", "prediction": "Yes, there is a person in the image.", "baseline": "opera", "latency_sec": 1.896, "metadata": {"category": "adversarial"}}
+{"sample_id": "2443", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.898, "metadata": {"category": "adversarial"}}
+{"sample_id": "1779", "prediction": "No, there is no dining table in the image", "baseline": "opera", "latency_sec": 1.886, "metadata": {"category": "adversarial"}}
+{"sample_id": "1415", "prediction": "Yes, there is a backpack in the image.", "baseline": "opera", "latency_sec": 1.93, "metadata": {"category": "adversarial"}}
+{"sample_id": "2685", "prediction": "No, there is no person in the image.", "baseline": "opera", "latency_sec": 1.446, "metadata": {"category": "adversarial"}}
+{"sample_id": "1787", "prediction": "Yes, there is a chair in the image.", "baseline": "opera", "latency_sec": 2.286, "metadata": {"category": "adversarial"}}
+{"sample_id": "2483", "prediction": "Yes, there is a vase in the image.", "baseline": "opera", "latency_sec": 1.903, "metadata": {"category": "adversarial"}}
+{"sample_id": "2094", "prediction": "There is no existence of a person in the image", "baseline": "opera", "latency_sec": 1.727, "metadata": {"category": "adversarial"}}
+{"sample_id": "473", "prediction": "No, there is no truck in the image.", "baseline": "opera", "latency_sec": 1.727, "metadata": {"category": "adversarial"}}
+{"sample_id": "1577", "prediction": "No, there is no cup in the image.", "baseline": "opera", "latency_sec": 1.238, "metadata": {"category": "adversarial"}}
+{"sample_id": "2361", "prediction": "No, there is no carrot in the image.", "baseline": "opera", "latency_sec": 1.35, "metadata": {"category": "adversarial"}}
+{"sample_id": "778", "prediction": "There is no existence of a dining table in the", "baseline": "opera", "latency_sec": 1.93, "metadata": {"category": "adversarial"}}
+{"sample_id": "1043", "prediction": "No, there is no bus in the image.", "baseline": "opera", "latency_sec": 1.346, "metadata": {"category": "adversarial"}}
+{"sample_id": "181", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.887, "metadata": {"category": "adversarial"}}
+{"sample_id": "1786", "prediction": "Yes, there is a couch in the image.", "baseline": "opera", "latency_sec": 2.284, "metadata": {"category": "adversarial"}}
+{"sample_id": "6", "prediction": "Yes, there is a truck in the image.", "baseline": "opera", "latency_sec": 1.431, "metadata": {"category": "adversarial"}}
+{"sample_id": "2129", "prediction": "Yes, there is a handbag in the image", "baseline": "opera", "latency_sec": 1.902, "metadata": {"category": "adversarial"}}
+{"sample_id": "2205", "prediction": "There is no existence of a baseball glove in the", "baseline": "opera", "latency_sec": 1.405, "metadata": {"category": "adversarial"}}
+{"sample_id": "807", "prediction": "No, there is no car in the image.", "baseline": "opera", "latency_sec": 1.398, "metadata": {"category": "adversarial"}}

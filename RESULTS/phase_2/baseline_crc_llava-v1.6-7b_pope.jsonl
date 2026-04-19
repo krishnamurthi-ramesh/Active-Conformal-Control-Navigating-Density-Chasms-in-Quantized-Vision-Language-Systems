@@ -1,0 +1,301 @@
+{"sample_id": "2619", "prediction": "No, there is no backpack in the image. The woman is holding a handbag.", "baseline": "crc", "latency_sec": 2.037, "metadata": {"category": "adversarial"}}
+{"sample_id": "456", "prediction": "Yes, there is a snowboarder in the image. The person is wearing a white jacket and is standing on a snowboard on a", "baseline": "crc", "latency_sec": 2.654, "metadata": {"category": "adversarial"}}
+{"sample_id": "102", "prediction": "Yes, there is a baseball glove visible in the image. It is being worn by the catcher, who is crouched behind the batter", "baseline": "crc", "latency_sec": 2.473, "metadata": {"category": "adversarial"}}
+{"sample_id": "1126", "prediction": "Yes, there is a sandwich in the image. It appears to be a sub sandwich, and it's part of the food display on", "baseline": "crc", "latency_sec": 2.468, "metadata": {"category": "adversarial"}}
+{"sample_id": "1003", "prediction": "No, there is no toilet in the image. The image shows a person in a kitchen, interacting with a microwave oven", "baseline": "crc", "latency_sec": 2.664, "metadata": {"category": "adversarial"}}
+{"sample_id": "914", "prediction": "Yes, there is a person in the image. They are reflected in the mirror, taking a selfie.", "baseline": "crc", "latency_sec": 2.158, "metadata": {"category": "adversarial"}}
+{"sample_id": "571", "prediction": "No, there is no car in the image. The image shows a person lying in bed with two cats.", "baseline": "crc", "latency_sec": 2.291, "metadata": {"category": "adversarial"}}
+{"sample_id": "419", "prediction": "No, there is no couch in the image. The image shows a television screen displaying a video game, with a person holding a Wii remote", "baseline": "crc", "latency_sec": 2.633, "metadata": {"category": "adversarial"}}
+{"sample_id": "2771", "prediction": "No, there is no airplane in the image. The image shows a group of giraffes and zebras in a natural setting,", "baseline": "crc", "latency_sec": 2.486, "metadata": {"category": "adversarial"}}
+{"sample_id": "2233", "prediction": "No, there is no car in the image. The image shows a person holding a food item.", "baseline": "crc", "latency_sec": 2.138, "metadata": {"category": "adversarial"}}
+{"sample_id": "356", "prediction": "No, there is no dining table in the image. The image shows a fruit stand with a variety of fruits on display.", "baseline": "crc", "latency_sec": 2.58, "metadata": {"category": "adversarial"}}
+{"sample_id": "2418", "prediction": "Yes, there is a pizza in the image. It appears to be a pepperoni pizza with a thick crust and a generous", "baseline": "crc", "latency_sec": 2.477, "metadata": {"category": "adversarial"}}
+{"sample_id": "1728", "prediction": "No, there is no backpack in the image. The image shows a stuffed bear sitting on a white surface.", "baseline": "crc", "latency_sec": 2.544, "metadata": {"category": "adversarial"}}
+{"sample_id": "130", "prediction": "Yes, there is a book visible in the image. It is located on a shelf in the background.", "baseline": "crc", "latency_sec": 2.703, "metadata": {"category": "adversarial"}}
+{"sample_id": "122", "prediction": "No, there is no spoon in the image. The image shows a sandwich and a side salad on a plate.", "baseline": "crc", "latency_sec": 2.534, "metadata": {"category": "adversarial"}}
+{"sample_id": "383", "prediction": "No, there is no bicycle in the image. The image shows a person skateboarding on a concrete ledge.", "baseline": "crc", "latency_sec": 2.401, "metadata": {"category": "adversarial"}}
+{"sample_id": "895", "prediction": "No, there is no frisbee in the image. The image shows an old-fashioned fire truck parked on a street", "baseline": "crc", "latency_sec": 2.673, "metadata": {"category": "adversarial"}}
+{"sample_id": "952", "prediction": "Yes, there is a bottle in the image. It appears to be a water bottle, and it's placed on the ground next to", "baseline": "crc", "latency_sec": 2.481, "metadata": {"category": "adversarial"}}
+{"sample_id": "2069", "prediction": "No, there is no dining table in the image. The image shows a city street scene with a double-decker bus, a traffic light", "baseline": "crc", "latency_sec": 2.676, "metadata": {"category": "adversarial"}}
+{"sample_id": "2465", "prediction": "Yes, there is a dining table visible in the image. It appears to be a kitchen setting with various items on the table and shelves", "baseline": "crc", "latency_sec": 2.528, "metadata": {"category": "adversarial"}}
+{"sample_id": "108", "prediction": "Yes, there is a sink in the image. It is located on the right side of the bathroom.", "baseline": "crc", "latency_sec": 2.23, "metadata": {"category": "adversarial"}}
+{"sample_id": "2298", "prediction": "Yes, there is a person in the image. He is a male tennis player who appears to be in the middle of a tennis match, as he", "baseline": "crc", "latency_sec": 2.483, "metadata": {"category": "adversarial"}}
+{"sample_id": "814", "prediction": "Yes, there is a cat in the image. It is sitting on top of a red boat.", "baseline": "crc", "latency_sec": 2.256, "metadata": {"category": "adversarial"}}
+{"sample_id": "2932", "prediction": "Yes, there is an airplane in the image. It appears to be a large commercial aircraft parked at an airport terminal.", "baseline": "crc", "latency_sec": 2.586, "metadata": {"category": "adversarial"}}
+{"sample_id": "2661", "prediction": "No, there is no dining table in the image. The image shows a bus parked in a lot.", "baseline": "crc", "latency_sec": 2.4, "metadata": {"category": "adversarial"}}
+{"sample_id": "2872", "prediction": "Yes, there is a cup in the image. It appears to be a coffee cup, and it's placed on a saucer.", "baseline": "crc", "latency_sec": 2.631, "metadata": {"category": "adversarial"}}
+{"sample_id": "2232", "prediction": "Yes, there is a person in the image. They are holding a food item and appear to be in a kitchen or a room with shelves", "baseline": "crc", "latency_sec": 2.531, "metadata": {"category": "adversarial"}}
+{"sample_id": "1718", "prediction": "Yes, there is a clock in the image. It is located on the wall above the desk where the computer equipment is set up.", "baseline": "crc", "latency_sec": 2.514, "metadata": {"category": "adversarial"}}
+{"sample_id": "902", "prediction": "No, there is no bird in the image. The image shows a flower in a bottle vase.", "baseline": "crc", "latency_sec": 2.367, "metadata": {"category": "adversarial"}}
+{"sample_id": "1839", "prediction": "No, there is no baseball glove in the image. The image shows a person playing tennis, swinging a tennis racket at a ball.", "baseline": "crc", "latency_sec": 3.051, "metadata": {"category": "adversarial"}}
+{"sample_id": "2413", "prediction": "No, there is no cup in the image. The image shows a pair of scissors with a red liquid spraying out of them,", "baseline": "crc", "latency_sec": 2.532, "metadata": {"category": "adversarial"}}
+{"sample_id": "1139", "prediction": "No, there is no cup in the image. The image shows a clock on a pedestal.", "baseline": "crc", "latency_sec": 2.294, "metadata": {"category": "adversarial"}}
+{"sample_id": "26", "prediction": "Yes, there is a person in the image. They are wearing an orange headscarf and are standing on a street.", "baseline": "crc", "latency_sec": 1.814, "metadata": {"category": "adversarial"}}
+{"sample_id": "653", "prediction": "No, there is no couch in the image. The image shows a group of people observing elephants near a body of water. There", "baseline": "crc", "latency_sec": 2.67, "metadata": {"category": "adversarial"}}
+{"sample_id": "2859", "prediction": "No, there is no oven visible in the image. The image shows a group of people sitting around a table with lit candles, enjoying", "baseline": "crc", "latency_sec": 2.667, "metadata": {"category": "adversarial"}}
+{"sample_id": "1731", "prediction": "No, there is no bed in the image. The image shows a stuffed bear sitting on a surface.", "baseline": "crc", "latency_sec": 2.448, "metadata": {"category": "adversarial"}}
+{"sample_id": "1393", "prediction": "No, there is no car in the image. The focus is on the woman standing next to a pole with flyers attached to it.", "baseline": "crc", "latency_sec": 2.715, "metadata": {"category": "adversarial"}}
+{"sample_id": "1138", "prediction": "Yes, there is a dining table in the image. It is located to the left of the clock.", "baseline": "crc", "latency_sec": 2.348, "metadata": {"category": "adversarial"}}
+{"sample_id": "636", "prediction": "No, there is no spoon in the image. The image shows a computer desk with various items on it, including a laptop, a monitor", "baseline": "crc", "latency_sec": 2.668, "metadata": {"category": "adversarial"}}
+{"sample_id": "881", "prediction": "No, there is no vase in the image. The image shows a group of people playing a video game in a living room.", "baseline": "crc", "latency_sec": 2.402, "metadata": {"category": "adversarial"}}
+{"sample_id": "1378", "prediction": "Yes, there is a knife in the image. It is located on the left side of the photo, next to the cell phone.", "baseline": "crc", "latency_sec": 2.446, "metadata": {"category": "adversarial"}}
+{"sample_id": "418", "prediction": "Yes, there is a remote control in the image. It appears to be a Wii remote, which is used to control the Nintendo Wii", "baseline": "crc", "latency_sec": 2.648, "metadata": {"category": "adversarial"}}
+{"sample_id": "379", "prediction": "No, there is no car in the image. The photo shows a person skateboarding on a concrete ledge.", "baseline": "crc", "latency_sec": 2.32, "metadata": {"category": "adversarial"}}
+{"sample_id": "1556", "prediction": "Yes, there is a person in the image. They are standing in front of an elephant.", "baseline": "crc", "latency_sec": 2.322, "metadata": {"category": "adversarial"}}
+{"sample_id": "396", "prediction": "Yes, there is a backpack in the image. It's on the floor near the table.", "baseline": "crc", "latency_sec": 2.317, "metadata": {"category": "adversarial"}}
+{"sample_id": "1470", "prediction": "Yes, there is a chair in the image. It appears to be a part of a room where a group of people is gathered.", "baseline": "crc", "latency_sec": 2.585, "metadata": {"category": "adversarial"}}
+{"sample_id": "1408", "prediction": "Yes, there is a handbag visible in the image. The person is holding a handbag while walking under an umbrella.", "baseline": "crc", "latency_sec": 2.715, "metadata": {"category": "adversarial"}}
+{"sample_id": "2472", "prediction": "Yes, there is a chair visible in the image. It appears to be a folding chair, and it's located on the left side of", "baseline": "crc", "latency_sec": 2.489, "metadata": {"category": "adversarial"}}
+{"sample_id": "1083", "prediction": "No, there is no baseball glove in the image. The image shows three individuals on a tennis court, with one of them holding a tennis ra", "baseline": "crc", "latency_sec": 2.492, "metadata": {"category": "adversarial"}}
+{"sample_id": "177", "prediction": "No, there is no cup in the image. The image shows a cat drinking water from a faucet.", "baseline": "crc", "latency_sec": 2.448, "metadata": {"category": "adversarial"}}
+{"sample_id": "1881", "prediction": "No, there is no dining table in the image. The image shows an airport tarmac with an airplane and a fuel truck", "baseline": "crc", "latency_sec": 2.679, "metadata": {"category": "adversarial"}}
+{"sample_id": "2196", "prediction": "Yes, there is a dog in the image. It appears to be a black and white dog, and it is in the water with a person.", "baseline": "crc", "latency_sec": 1.923, "metadata": {"category": "adversarial"}}
+{"sample_id": "511", "prediction": "No, there is no car in the image. The image shows two people standing near a body of water, possibly a lake or a river, with", "baseline": "crc", "latency_sec": 2.495, "metadata": {"category": "adversarial"}}
+{"sample_id": "1550", "prediction": "No, there is no person visible in the image. It appears to be an urban street scene with vehicles and buildings.", "baseline": "crc", "latency_sec": 2.281, "metadata": {"category": "adversarial"}}
+{"sample_id": "322", "prediction": "Yes, there is a handbag visible in the image. It's located in the background, near the center of the photo.", "baseline": "crc", "latency_sec": 2.401, "metadata": {"category": "adversarial"}}
+{"sample_id": "2261", "prediction": "No, there is no motorcycle in the image. The image shows a person riding a bicycle.", "baseline": "crc", "latency_sec": 2.232, "metadata": {"category": "adversarial"}}
+{"sample_id": "1200", "prediction": "Yes, there is a backpack visible in the image. It appears to be a blue backpack, and it's being carried by a person", "baseline": "crc", "latency_sec": 2.484, "metadata": {"category": "adversarial"}}
+{"sample_id": "2574", "prediction": "No, there is no snowboard in the image. The image shows a group of people skiing on a snowy mountain slope.", "baseline": "crc", "latency_sec": 2.282, "metadata": {"category": "adversarial"}}
+{"sample_id": "2533", "prediction": "No, there is no traffic light visible in the image. The photo appears to be a historical black and white image of a street scene, possibly from", "baseline": "crc", "latency_sec": 2.753, "metadata": {"category": "adversarial"}}
+{"sample_id": "1481", "prediction": "No, there is no car in the image. The image shows a ski slope with several people skiing.", "baseline": "crc", "latency_sec": 2.191, "metadata": {"category": "adversarial"}}
+{"sample_id": "2364", "prediction": "Yes, there is a pizza in the image. It appears to be a freshly baked pizza with a variety of toppings, including", "baseline": "crc", "latency_sec": 2.49, "metadata": {"category": "adversarial"}}
+{"sample_id": "787", "prediction": "No, there is no person in the image. It shows an interior view of a room, likely a hotel room, with two beds and some", "baseline": "crc", "latency_sec": 2.493, "metadata": {"category": "adversarial"}}
+{"sample_id": "2885", "prediction": "No, there is no chair in the image. The image shows a vase with roses and a pair of glasses on top of it.", "baseline": "crc", "latency_sec": 2.494, "metadata": {"category": "adversarial"}}
+{"sample_id": "284", "prediction": "Yes, there is a suitcase in the image. The child is sitting on top of it.", "baseline": "crc", "latency_sec": 2.172, "metadata": {"category": "adversarial"}}
+{"sample_id": "187", "prediction": "No, there is no car in the image. The scene appears to be a street event where a skateboarder is performing tricks.", "baseline": "crc", "latency_sec": 1.931, "metadata": {"category": "adversarial"}}
+{"sample_id": "2708", "prediction": "Yes, there is a train in the image. It appears to be a commuter train, as indicated by the presence of a platform and the urban", "baseline": "crc", "latency_sec": 2.491, "metadata": {"category": "adversarial"}}
+{"sample_id": "933", "prediction": "No, there is no person in the image. It shows a neatly made bed with a patterned bedspread and pillows, a night", "baseline": "crc", "latency_sec": 3.046, "metadata": {"category": "adversarial"}}
+{"sample_id": "1185", "prediction": "No, there is no cup visible in the image. The image shows a bakery scene with a person making doughnuts.", "baseline": "crc", "latency_sec": 2.632, "metadata": {"category": "adversarial"}}
+{"sample_id": "326", "prediction": "No, there is no orange in the image. The object in the image is a red frisbee.", "baseline": "crc", "latency_sec": 2.414, "metadata": {"category": "adversarial"}}
+{"sample_id": "953", "prediction": "No, there is no dining table in the image. The image shows a tennis player sitting on a chair on a tennis court, with a tennis", "baseline": "crc", "latency_sec": 2.499, "metadata": {"category": "adversarial"}}
+{"sample_id": "413", "prediction": "No, there is no dining table in the image. The image shows a photograph of a bride and groom sitting on a bed, with", "baseline": "crc", "latency_sec": 2.672, "metadata": {"category": "adversarial"}}
+{"sample_id": "2957", "prediction": "No, there is no chair in the image. The image shows a person playing tennis.", "baseline": "crc", "latency_sec": 2.02, "metadata": {"category": "adversarial"}}
+{"sample_id": "2963", "prediction": "No, there is no person in the image. It's a close-up of a plate of food on a table.", "baseline": "crc", "latency_sec": 2.539, "metadata": {"category": "adversarial"}}
+{"sample_id": "1857", "prediction": "No, there is no chair in the image. The cat is sitting on a desk next to a computer monitor.", "baseline": "crc", "latency_sec": 2.451, "metadata": {"category": "adversarial"}}
+{"sample_id": "2603", "prediction": "No, there is no cup in the image. The image shows a vase with roses and some small toys.", "baseline": "crc", "latency_sec": 2.5, "metadata": {"category": "adversarial"}}
+{"sample_id": "1494", "prediction": "Yes, there is a baseball glove in the image. One of the individuals is holding a baseball glove.", "baseline": "crc", "latency_sec": 2.484, "metadata": {"category": "adversarial"}}
+{"sample_id": "666", "prediction": "No, there is no person visible in the image. It appears to be an empty room with a television and some furniture.", "baseline": "crc", "latency_sec": 2.902, "metadata": {"category": "adversarial"}}
+{"sample_id": "1516", "prediction": "Yes, there is a dining table in the image. The couple is standing in front of it, and the cake is placed on the table", "baseline": "crc", "latency_sec": 2.985, "metadata": {"category": "adversarial"}}
+{"sample_id": "1455", "prediction": "No, there is no cup visible in the image. The image shows a kitchen with various appliances and fixtures, but no cup is", "baseline": "crc", "latency_sec": 2.671, "metadata": {"category": "adversarial"}}
+{"sample_id": "858", "prediction": "Yes, there is a keyboard in the image. It appears to be a standard QWERTY layout keyboard.", "baseline": "crc", "latency_sec": 2.24, "metadata": {"category": "adversarial"}}
+{"sample_id": "2745", "prediction": "No, there is no person in the image. It shows two vases with flowers on a surface.", "baseline": "crc", "latency_sec": 2.149, "metadata": {"category": "adversarial"}}
+{"sample_id": "1093", "prediction": "No, there are no skis in the image. The image shows a yellow train at a station platform.", "baseline": "crc", "latency_sec": 2.082, "metadata": {"category": "adversarial"}}
+{"sample_id": "2874", "prediction": "Yes, there is a pizza in the image. It appears to be a freshly baked pizza with a variety of toppings, including", "baseline": "crc", "latency_sec": 2.489, "metadata": {"category": "adversarial"}}
+{"sample_id": "2799", "prediction": "No, there is no dining table in the image. The image shows a young child standing on a step stool in front of a bathroom", "baseline": "crc", "latency_sec": 2.759, "metadata": {"category": "adversarial"}}
+{"sample_id": "2654", "prediction": "Yes, there is a sandwich in the image. It appears to be a pulled pork sandwich, which is a popular type of barbec", "baseline": "crc", "latency_sec": 1.925, "metadata": {"category": "adversarial"}}
+{"sample_id": "292", "prediction": "Yes, there is a horse in the image. It appears to be performing a jumping or dressage maneuver, as suggested by the r", "baseline": "crc", "latency_sec": 2.492, "metadata": {"category": "adversarial"}}
+{"sample_id": "2495", "prediction": "Yes, there is a backpack visible in the image. It's located on the left side of the frame, partially obscured by the person", "baseline": "crc", "latency_sec": 2.648, "metadata": {"category": "adversarial"}}
+{"sample_id": "2600", "prediction": "Yes, there is a bottle in the image. It is a glass bottle with a green label and is filled with flowers.", "baseline": "crc", "latency_sec": 2.591, "metadata": {"category": "adversarial"}}
+{"sample_id": "700", "prediction": "No, there is no fork visible in the image. The image shows a person preparing a pizza, with a focus on the hands adding to", "baseline": "crc", "latency_sec": 2.671, "metadata": {"category": "adversarial"}}
+{"sample_id": "2187", "prediction": "No, there is no person in the image. It appears to be an interior space with various items on shelves and on the floor.", "baseline": "crc", "latency_sec": 2.682, "metadata": {"category": "adversarial"}}
+{"sample_id": "1002", "prediction": "Yes, there is a sink in the image. It is located to the right of the woman, who is standing in front of it.", "baseline": "crc", "latency_sec": 2.632, "metadata": {"category": "adversarial"}}
+{"sample_id": "669", "prediction": "No, there is no chair in the image. The furniture visible includes a couch and a coffee table.", "baseline": "crc", "latency_sec": 2.754, "metadata": {"category": "adversarial"}}
+{"sample_id": "1893", "prediction": "No, there is no chair in the image. The image shows a train station platform at night with lights illuminating the area.", "baseline": "crc", "latency_sec": 2.95, "metadata": {"category": "adversarial"}}
+{"sample_id": "1554", "prediction": "Yes, there is a backpack visible in the image. It appears to be a large backpack, possibly used for carrying supplies or equipment during a", "baseline": "crc", "latency_sec": 2.673, "metadata": {"category": "adversarial"}}
+{"sample_id": "1105", "prediction": "No, there is no car in the image. The image shows a baseball player at bat during a game.", "baseline": "crc", "latency_sec": 2.17, "metadata": {"category": "adversarial"}}
+{"sample_id": "2621", "prediction": "No, there is no dining table in the image. The image shows a person standing in front of a wall.", "baseline": "crc", "latency_sec": 2.278, "metadata": {"category": "adversarial"}}
+{"sample_id": "2818", "prediction": "No, there is no sports ball in the image. The image shows three baseball players posing for a photograph.", "baseline": "crc", "latency_sec": 2.407, "metadata": {"category": "adversarial"}}
+{"sample_id": "2281", "prediction": "No, there is no car in the image. The image shows a person holding a goat in front of a bus.", "baseline": "crc", "latency_sec": 2.476, "metadata": {"category": "adversarial"}}
+{"sample_id": "899", "prediction": "No, there is no dining table in the image. The image shows an old-fashioned fire truck parked on a street.", "baseline": "crc", "latency_sec": 2.674, "metadata": {"category": "adversarial"}}
+{"sample_id": "2804", "prediction": "Yes, there is a bench in the image. It is a white bench with a wooden seat and legs, and it appears to be made", "baseline": "crc", "latency_sec": 2.645, "metadata": {"category": "adversarial"}}
+{"sample_id": "2988", "prediction": "Yes, there is a bowl in the image", "baseline": "crc", "latency_sec": 3.145, "metadata": {"category": "adversarial"}}
+{"sample_id": "2986", "prediction": "No, there is no handbag visible in the", "baseline": "crc", "latency_sec": 3.098, "metadata": {"category": "adversarial"}}
+{"sample_id": "1328", "prediction": "Yes, there is a mouse in the image.", "baseline": "crc", "latency_sec": 3.163, "metadata": {"category": "adversarial"}}
+{"sample_id": "229", "prediction": "No, there is no chair visible in the image", "baseline": "crc", "latency_sec": 3.137, "metadata": {"category": "adversarial"}}
+{"sample_id": "938", "prediction": "Yes, there is a person in the image.", "baseline": "crc", "latency_sec": 2.887, "metadata": {"category": "adversarial"}}
+{"sample_id": "131", "prediction": "No, there is no TV in the image.", "baseline": "crc", "latency_sec": 3.662, "metadata": {"category": "adversarial"}}
+{"sample_id": "1292", "prediction": "Yes, there is a bottle in the image", "baseline": "crc", "latency_sec": 3.171, "metadata": {"category": "adversarial"}}
+{"sample_id": "1643", "prediction": "No, there is no tennis racket in the", "baseline": "crc", "latency_sec": 2.87, "metadata": {"category": "adversarial"}}
+{"sample_id": "1096", "prediction": "Yes, there is a train in the image.", "baseline": "crc", "latency_sec": 2.739, "metadata": {"category": "adversarial"}}
+{"sample_id": "271", "prediction": "No, there is no handbag in the image", "baseline": "crc", "latency_sec": 3.162, "metadata": {"category": "adversarial"}}
+{"sample_id": "864", "prediction": "Yes, there is a person in the image.", "baseline": "crc", "latency_sec": 2.947, "metadata": {"category": "adversarial"}}
+{"sample_id": "2323", "prediction": "No, there is no potted plant in the", "baseline": "crc", "latency_sec": 3.155, "metadata": {"category": "adversarial"}}
+{"sample_id": "2940", "prediction": "Yes, there is a baseball glove visible in", "baseline": "crc", "latency_sec": 3.161, "metadata": {"category": "adversarial"}}
+{"sample_id": "1288", "prediction": "Yes, there is a train in the image.", "baseline": "crc", "latency_sec": 2.555, "metadata": {"category": "adversarial"}}
+{"sample_id": "870", "prediction": "Yes, there are two people in the image.", "baseline": "crc", "latency_sec": 3.162, "metadata": {"category": "adversarial"}}
+{"sample_id": "2684", "prediction": "No, there is no orange in the image.", "baseline": "crc", "latency_sec": 3.158, "metadata": {"category": "adversarial"}}
+{"sample_id": "2044", "prediction": "Yes, there is a potted plant visible in", "baseline": "crc", "latency_sec": 2.963, "metadata": {"category": "adversarial"}}
+{"sample_id": "1620", "prediction": "Yes, there is a motorcycle in the image", "baseline": "crc", "latency_sec": 2.959, "metadata": {"category": "adversarial"}}
+{"sample_id": "2633", "prediction": "No, there is no spoon visible in the", "baseline": "crc", "latency_sec": 2.906, "metadata": {"category": "adversarial"}}
+{"sample_id": "1879", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 3.186, "metadata": {"category": "adversarial"}}
+{"sample_id": "585", "prediction": "No, there is no vase in the image", "baseline": "crc", "latency_sec": 3.12, "metadata": {"category": "adversarial"}}
+{"sample_id": "1084", "prediction": "Yes, there is a tennis racket in the", "baseline": "crc", "latency_sec": 2.886, "metadata": {"category": "adversarial"}}
+{"sample_id": "1010", "prediction": "No, there is no orange in the image.", "baseline": "crc", "latency_sec": 3.593, "metadata": {"category": "adversarial"}}
+{"sample_id": "2299", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 2.878, "metadata": {"category": "adversarial"}}
+{"sample_id": "2207", "prediction": "No, there is no chair in the image.", "baseline": "crc", "latency_sec": 3.119, "metadata": {"category": "adversarial"}}
+{"sample_id": "1076", "prediction": "Yes, there are three people in the image.", "baseline": "crc", "latency_sec": 3.165, "metadata": {"category": "adversarial"}}
+{"sample_id": "2394", "prediction": "Yes, there is a person in the image.", "baseline": "crc", "latency_sec": 2.897, "metadata": {"category": "adversarial"}}
+{"sample_id": "1754", "prediction": "Yes, there is a bed in the image.", "baseline": "crc", "latency_sec": 2.719, "metadata": {"category": "adversarial"}}
+{"sample_id": "2390", "prediction": "Yes, there is a wine glass in the image", "baseline": "crc", "latency_sec": 3.172, "metadata": {"category": "adversarial"}}
+{"sample_id": "1635", "prediction": "No, there is no baseball glove in the", "baseline": "crc", "latency_sec": 3.116, "metadata": {"category": "adversarial"}}
+{"sample_id": "1482", "prediction": "Yes, there is a person in the image.", "baseline": "crc", "latency_sec": 2.883, "metadata": {"category": "adversarial"}}
+{"sample_id": "898", "prediction": "Yes, there is a person in the image.", "baseline": "crc", "latency_sec": 3.164, "metadata": {"category": "adversarial"}}
+{"sample_id": "566", "prediction": "Yes, there is a person in the image.", "baseline": "crc", "latency_sec": 2.061, "metadata": {"category": "adversarial"}}
+{"sample_id": "2087", "prediction": "No, there is no cup visible in the image", "baseline": "crc", "latency_sec": 3.172, "metadata": {"category": "adversarial"}}
+{"sample_id": "2021", "prediction": "No, there is no cup visible in the image", "baseline": "crc", "latency_sec": 3.178, "metadata": {"category": "adversarial"}}
+{"sample_id": "372", "prediction": "Yes, there is a group of people in the", "baseline": "crc", "latency_sec": 3.161, "metadata": {"category": "adversarial"}}
+{"sample_id": "192", "prediction": "Yes, there is a laptop in the image.", "baseline": "crc", "latency_sec": 2.057, "metadata": {"category": "adversarial"}}
+{"sample_id": "449", "prediction": "Yes, there is a TV in the image.", "baseline": "crc", "latency_sec": 3.11, "metadata": {"category": "adversarial"}}
+{"sample_id": "626", "prediction": "Yes, there is a backpack visible in the", "baseline": "crc", "latency_sec": 2.905, "metadata": {"category": "adversarial"}}
+{"sample_id": "2570", "prediction": "No, there is no bench in the image", "baseline": "crc", "latency_sec": 2.893, "metadata": {"category": "adversarial"}}
+{"sample_id": "655", "prediction": "No, there is no truck visible in the", "baseline": "crc", "latency_sec": 3.212, "metadata": {"category": "adversarial"}}
+{"sample_id": "2787", "prediction": "No, there is no bowl in the image", "baseline": "crc", "latency_sec": 3.705, "metadata": {"category": "adversarial"}}
+{"sample_id": "1729", "prediction": "No, there is no person in the image.", "baseline": "crc", "latency_sec": 3.342, "metadata": {"category": "adversarial"}}
+{"sample_id": "2442", "prediction": "No, there is no person in the image.", "baseline": "crc", "latency_sec": 3.197, "metadata": {"category": "adversarial"}}
+{"sample_id": "260", "prediction": "Yes, there is a group of people in the", "baseline": "crc", "latency_sec": 2.895, "metadata": {"category": "adversarial"}}
+{"sample_id": "1576", "prediction": "Yes, there is a bowl in the image", "baseline": "crc", "latency_sec": 2.247, "metadata": {"category": "adversarial"}}
+{"sample_id": "1563", "prediction": "No, there is no surfboard in the", "baseline": "crc", "latency_sec": 2.719, "metadata": {"category": "adversarial"}}
+{"sample_id": "2440", "prediction": "Yes, there are skis in the image.", "baseline": "crc", "latency_sec": 3.224, "metadata": {"category": "adversarial"}}
+{"sample_id": "1917", "prediction": "Yes, there is a person in the image.", "baseline": "crc", "latency_sec": 3.225, "metadata": {"category": "adversarial"}}
+{"sample_id": "2167", "prediction": "No, there is no dining table in the", "baseline": "crc", "latency_sec": 2.891, "metadata": {"category": "adversarial"}}
+{"sample_id": "1029", "prediction": "No, there is no banana in the image", "baseline": "crc", "latency_sec": 3.282, "metadata": {"category": "adversarial"}}
+{"sample_id": "2266", "prediction": "Yes, there is a tie in the image.", "baseline": "crc", "latency_sec": 2.97, "metadata": {"category": "adversarial"}}
+{"sample_id": "47", "prediction": "No, there is no bottle in the image", "baseline": "crc", "latency_sec": 3.173, "metadata": {"category": "adversarial"}}
+{"sample_id": "2786", "prediction": "Yes, there is a sandwich in the image", "baseline": "crc", "latency_sec": 3.691, "metadata": {"category": "adversarial"}}
+{"sample_id": "2952", "prediction": "Yes, there is a person in the image.", "baseline": "crc", "latency_sec": 2.892, "metadata": {"category": "adversarial"}}
+{"sample_id": "469", "prediction": "No, there is no dining table in the", "baseline": "crc", "latency_sec": 2.894, "metadata": {"category": "adversarial"}}
+{"sample_id": "2792", "prediction": "Yes, there is a person in the image.", "baseline": "crc", "latency_sec": 3.181, "metadata": {"category": "adversarial"}}
+{"sample_id": "2199", "prediction": "No, there is no dining table in the", "baseline": "crc", "latency_sec": 2.062, "metadata": {"category": "adversarial"}}
+{"sample_id": "1092", "prediction": "Yes, there is a backpack visible in the", "baseline": "crc", "latency_sec": 2.718, "metadata": {"category": "adversarial"}}
+{"sample_id": "2625", "prediction": "No, there is no bed in the image.", "baseline": "crc", "latency_sec": 3.188, "metadata": {"category": "adversarial"}}
+{"sample_id": "1202", "prediction": "Yes, there is a truck in the image", "baseline": "crc", "latency_sec": 2.894, "metadata": {"category": "adversarial"}}
+{"sample_id": "1780", "prediction": "Yes, there is a motorcycle in the image", "baseline": "crc", "latency_sec": 3.182, "metadata": {"category": "adversarial"}}
+{"sample_id": "647", "prediction": "No, there is no dining table in the", "baseline": "crc", "latency_sec": 3.181, "metadata": {"category": "adversarial"}}
+{"sample_id": "1858", "prediction": "Yes, there is a laptop in the image.", "baseline": "crc", "latency_sec": 3.178, "metadata": {"category": "adversarial"}}
+{"sample_id": "13", "prediction": "No, there is no dining table in the", "baseline": "crc", "latency_sec": 2.889, "metadata": {"category": "adversarial"}}
+{"sample_id": "2947", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 2.893, "metadata": {"category": "adversarial"}}
+{"sample_id": "1078", "prediction": "Yes, there is a spoon in the image", "baseline": "crc", "latency_sec": 3.173, "metadata": {"category": "adversarial"}}
+{"sample_id": "2050", "prediction": "Yes, there is a baseball bat in the image", "baseline": "crc", "latency_sec": 2.969, "metadata": {"category": "adversarial"}}
+{"sample_id": "731", "prediction": "No, there is no truck in the image", "baseline": "crc", "latency_sec": 2.881, "metadata": {"category": "adversarial"}}
+{"sample_id": "2079", "prediction": "No, there is no fork visible in the image", "baseline": "crc", "latency_sec": 2.919, "metadata": {"category": "adversarial"}}
+{"sample_id": "435", "prediction": "No, there is no traffic light visible in the", "baseline": "crc", "latency_sec": 2.733, "metadata": {"category": "adversarial"}}
+{"sample_id": "2561", "prediction": "No, there is no fire hydrant visible in", "baseline": "crc", "latency_sec": 3.216, "metadata": {"category": "adversarial"}}
+{"sample_id": "1222", "prediction": "No, there is no bed in the image.", "baseline": "crc", "latency_sec": 3.005, "metadata": {"category": "adversarial"}}
+{"sample_id": "2617", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 2.915, "metadata": {"category": "adversarial"}}
+{"sample_id": "2494", "prediction": "Yes, there is a handbag visible in the", "baseline": "crc", "latency_sec": 3.127, "metadata": {"category": "adversarial"}}
+{"sample_id": "1531", "prediction": "No, there is no person in the image.", "baseline": "crc", "latency_sec": 3.198, "metadata": {"category": "adversarial"}}
+{"sample_id": "661", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 3.203, "metadata": {"category": "adversarial"}}
+{"sample_id": "2209", "prediction": "No, there is no cup visible in the image", "baseline": "crc", "latency_sec": 3.118, "metadata": {"category": "adversarial"}}
+{"sample_id": "2172", "prediction": "Yes, there is a chair in the image.", "baseline": "crc", "latency_sec": 3.202, "metadata": {"category": "adversarial"}}
+{"sample_id": "2", "prediction": "Yes, there is a person in the image.", "baseline": "crc", "latency_sec": 2.896, "metadata": {"category": "adversarial"}}
+{"sample_id": "2453", "prediction": "No, there is no laptop in the image.", "baseline": "crc", "latency_sec": 3.187, "metadata": {"category": "adversarial"}}
+{"sample_id": "1327", "prediction": "No, there is no person in the image.", "baseline": "crc", "latency_sec": 3.203, "metadata": {"category": "adversarial"}}
+{"sample_id": "2001", "prediction": "No, there is no dining table visible in", "baseline": "crc", "latency_sec": 2.083, "metadata": {"category": "adversarial"}}
+{"sample_id": "79", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 2.084, "metadata": {"category": "adversarial"}}
+{"sample_id": "458", "prediction": "Yes, there is a person in the image.", "baseline": "crc", "latency_sec": 3.187, "metadata": {"category": "adversarial"}}
+{"sample_id": "1486", "prediction": "Yes, there is a car in the image.", "baseline": "crc", "latency_sec": 2.918, "metadata": {"category": "adversarial"}}
+{"sample_id": "1259", "prediction": "Yes, there is a snowboard in the image", "baseline": "crc", "latency_sec": 3.193, "metadata": {"category": "adversarial"}}
+{"sample_id": "980", "prediction": "No, there is no handbag in the image", "baseline": "crc", "latency_sec": 2.897, "metadata": {"category": "adversarial"}}
+{"sample_id": "237", "prediction": "No, there is no handbag visible in the", "baseline": "crc", "latency_sec": 3.315, "metadata": {"category": "adversarial"}}
+{"sample_id": "986", "prediction": "No, there is no cake in the image", "baseline": "crc", "latency_sec": 3.705, "metadata": {"category": "adversarial"}}
+{"sample_id": "350", "prediction": "Yes, there is a motorcycle in the image", "baseline": "crc", "latency_sec": 3.187, "metadata": {"category": "adversarial"}}
+{"sample_id": "2997", "prediction": "No, there is no cup visible in the image", "baseline": "crc", "latency_sec": 3.208, "metadata": {"category": "adversarial"}}
+{"sample_id": "1990", "prediction": "Yes, there is a stop sign in the image", "baseline": "crc", "latency_sec": 3.132, "metadata": {"category": "adversarial"}}
+{"sample_id": "283", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 2.983, "metadata": {"category": "adversarial"}}
+{"sample_id": "2181", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 3.18, "metadata": {"category": "adversarial"}}
+{"sample_id": "515", "prediction": "No, there is no dog in the image.", "baseline": "crc", "latency_sec": 2.894, "metadata": {"category": "adversarial"}}
+{"sample_id": "525", "prediction": "Yes, there is a dining table in the", "baseline": "crc", "latency_sec": 3.195, "metadata": {"category": "adversarial"}}
+{"sample_id": "2702", "prediction": "No, there is no motorcycle in the image", "baseline": "crc", "latency_sec": 2.99, "metadata": {"category": "adversarial"}}
+{"sample_id": "1946", "prediction": "No, there is no person visible in the image", "baseline": "crc", "latency_sec": 2.064, "metadata": {"category": "adversarial"}}
+{"sample_id": "2251", "prediction": "No, there is no person in the image.", "baseline": "crc", "latency_sec": 3.174, "metadata": {"category": "adversarial"}}
+{"sample_id": "676", "prediction": "Yes, there is a teddy bear in the", "baseline": "crc", "latency_sec": 3.179, "metadata": {"category": "adversarial"}}
+{"sample_id": "1085", "prediction": "No, there is no chair in the image.", "baseline": "crc", "latency_sec": 2.883, "metadata": {"category": "adversarial"}}
+{"sample_id": "2161", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 3.18, "metadata": {"category": "adversarial"}}
+{"sample_id": "2484", "prediction": "Yes, there is a chair in the image.", "baseline": "crc", "latency_sec": 2.965, "metadata": {"category": "adversarial"}}
+{"sample_id": "1733", "prediction": "No, there is no couch in the image", "baseline": "crc", "latency_sec": 3.309, "metadata": {"category": "adversarial"}}
+{"sample_id": "867", "prediction": "No, there is no backpack in the image", "baseline": "crc", "latency_sec": 2.953, "metadata": {"category": "adversarial"}}
+{"sample_id": "2208", "prediction": "Yes, there is a pizza in the image", "baseline": "crc", "latency_sec": 3.119, "metadata": {"category": "adversarial"}}
+{"sample_id": "2989", "prediction": "No, there is no cup in the image.", "baseline": "crc", "latency_sec": 3.175, "metadata": {"category": "adversarial"}}
+{"sample_id": "2825", "prediction": "No, there is no cake in the image", "baseline": "crc", "latency_sec": 3.003, "metadata": {"category": "adversarial"}}
+{"sample_id": "823", "prediction": "No, there is no dining table in the", "baseline": "crc", "latency_sec": 2.897, "metadata": {"category": "adversarial"}}
+{"sample_id": "2920", "prediction": "Yes, there is a tie in the image.", "baseline": "crc", "latency_sec": 2.888, "metadata": {"category": "adversarial"}}
+{"sample_id": "1276", "prediction": "No, there is no knife in the image", "baseline": "crc", "latency_sec": 3.179, "metadata": {"category": "adversarial"}}
+{"sample_id": "1634", "prediction": "Yes, there is a sports ball in the image", "baseline": "crc", "latency_sec": 3.116, "metadata": {"category": "adversarial"}}
+{"sample_id": "2751", "prediction": "No, there is no truck in the image", "baseline": "crc", "latency_sec": 2.892, "metadata": {"category": "adversarial"}}
+{"sample_id": "1529", "prediction": "No, there is no tennis racket in the", "baseline": "crc", "latency_sec": 2.892, "metadata": {"category": "adversarial"}}
+{"sample_id": "1794", "prediction": "Yes, there are four people in the image.", "baseline": "crc", "latency_sec": 3.172, "metadata": {"category": "adversarial"}}
+{"sample_id": "2119", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 3.183, "metadata": {"category": "adversarial"}}
+{"sample_id": "1849", "prediction": "No, there is no TV in the image.", "baseline": "crc", "latency_sec": 2.881, "metadata": {"category": "adversarial"}}
+{"sample_id": "495", "prediction": "No, there is no dining table in the", "baseline": "crc", "latency_sec": 3.317, "metadata": {"category": "adversarial"}}
+{"sample_id": "1015", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 3.162, "metadata": {"category": "adversarial"}}
+{"sample_id": "920", "prediction": "Yes, there is a carrot in the image", "baseline": "crc", "latency_sec": 2.879, "metadata": {"category": "adversarial"}}
+{"sample_id": "262", "prediction": "Yes, there is a sports ball in the image", "baseline": "crc", "latency_sec": 2.875, "metadata": {"category": "adversarial"}}
+{"sample_id": "1384", "prediction": "Yes, there is a tie visible in the image", "baseline": "crc", "latency_sec": 2.889, "metadata": {"category": "adversarial"}}
+{"sample_id": "86", "prediction": "Yes, there is a car visible in the image", "baseline": "crc", "latency_sec": 2.893, "metadata": {"category": "adversarial"}}
+{"sample_id": "2409", "prediction": "Yes, there is a dining table in the", "baseline": "crc", "latency_sec": 3.364, "metadata": {"category": "adversarial"}}
+{"sample_id": "2268", "prediction": "No, there is no TV in the image.", "baseline": "crc", "latency_sec": 3.189, "metadata": {"category": "adversarial"}}
+{"sample_id": "942", "prediction": "No, there is no person in the image.", "baseline": "crc", "latency_sec": 3.322, "metadata": {"category": "adversarial"}}
+{"sample_id": "2410", "prediction": "No, there is no bottle visible in the", "baseline": "crc", "latency_sec": 3.331, "metadata": {"category": "adversarial"}}
+{"sample_id": "29", "prediction": "Yes, there is a truck visible in the", "baseline": "crc", "latency_sec": 2.06, "metadata": {"category": "adversarial"}}
+{"sample_id": "290", "prediction": "Yes, there is a person in the image.", "baseline": "crc", "latency_sec": 2.888, "metadata": {"category": "adversarial"}}
+{"sample_id": "2899", "prediction": "No, there is no dining table in the", "baseline": "crc", "latency_sec": 2.884, "metadata": {"category": "adversarial"}}
+{"sample_id": "2584", "prediction": "Yes, there is a tie visible in the image", "baseline": "crc", "latency_sec": 3.16, "metadata": {"category": "adversarial"}}
+{"sample_id": "241", "prediction": "No, there is no person in the image.", "baseline": "crc", "latency_sec": 3.187, "metadata": {"category": "adversarial"}}
+{"sample_id": "937", "prediction": "No, there is no cup in the image.", "baseline": "crc", "latency_sec": 2.899, "metadata": {"category": "adversarial"}}
+{"sample_id": "276", "prediction": "Yes, there is a couch in the image", "baseline": "crc", "latency_sec": 3.165, "metadata": {"category": "adversarial"}}
+{"sample_id": "128", "prediction": "Yes, there is a cat in the image.", "baseline": "crc", "latency_sec": 3.95, "metadata": {"category": "adversarial"}}
+{"sample_id": "1353", "prediction": "No, there is no TV visible in the image", "baseline": "crc", "latency_sec": 3.088, "metadata": {"category": "adversarial"}}
+{"sample_id": "2105", "prediction": "No, there is no couch in the image", "baseline": "crc", "latency_sec": 3.089, "metadata": {"category": "adversarial"}}
+{"sample_id": "974", "prediction": "Yes, there is a car in the image.", "baseline": "crc", "latency_sec": 3.099, "metadata": {"category": "adversarial"}}
+{"sample_id": "1140", "prediction": "No, there is no pizza in the image", "baseline": "crc", "latency_sec": 3.62, "metadata": {"category": "adversarial"}}
+{"sample_id": "2740", "prediction": "Yes, there is a sports ball in the image", "baseline": "crc", "latency_sec": 3.132, "metadata": {"category": "adversarial"}}
+{"sample_id": "1988", "prediction": "Yes, there is a car in the image.", "baseline": "crc", "latency_sec": 3.096, "metadata": {"category": "adversarial"}}
+{"sample_id": "877", "prediction": "No, there is no dining table in the", "baseline": "crc", "latency_sec": 2.893, "metadata": {"category": "adversarial"}}
+{"sample_id": "541", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 2.877, "metadata": {"category": "adversarial"}}
+{"sample_id": "2962", "prediction": "Yes, there is a fork in the image.", "baseline": "crc", "latency_sec": 3.151, "metadata": {"category": "adversarial"}}
+{"sample_id": "2338", "prediction": "Yes, there is a sports ball in the image", "baseline": "crc", "latency_sec": 2.845, "metadata": {"category": "adversarial"}}
+{"sample_id": "2360", "prediction": "Yes, there is a bowl of brocc", "baseline": "crc", "latency_sec": 2.042, "metadata": {"category": "adversarial"}}
+{"sample_id": "1936", "prediction": "Yes, there is an umbrella in the", "baseline": "crc", "latency_sec": 2.855, "metadata": {"category": "adversarial"}}
+{"sample_id": "995", "prediction": "Yes, there is a truck in the image", "baseline": "crc", "latency_sec": 2.851, "metadata": {"category": "adversarial"}}
+{"sample_id": "1937", "prediction": "Yes, there is a handbag visible in the", "baseline": "crc", "latency_sec": 2.868, "metadata": {"category": "adversarial"}}
+{"sample_id": "1667", "prediction": "No, there is no chair in the image.", "baseline": "crc", "latency_sec": 2.877, "metadata": {"category": "adversarial"}}
+{"sample_id": "779", "prediction": "No, there is no cup visible in the image", "baseline": "crc", "latency_sec": 3.137, "metadata": {"category": "adversarial"}}
+{"sample_id": "386", "prediction": "Yes, there is a bottle in the image", "baseline": "crc", "latency_sec": 3.153, "metadata": {"category": "adversarial"}}
+{"sample_id": "397", "prediction": "No, there is no person in the image.", "baseline": "crc", "latency_sec": 3.143, "metadata": {"category": "adversarial"}}
+{"sample_id": "2699", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 3.152, "metadata": {"category": "adversarial"}}
+{"sample_id": "1765", "prediction": "Yes, there is a car visible in the image", "baseline": "crc", "latency_sec": 2.877, "metadata": {"category": "adversarial"}}
+{"sample_id": "1451", "prediction": "Yes, there is a dining table in the", "baseline": "crc", "latency_sec": 2.88, "metadata": {"category": "adversarial"}}
+{"sample_id": "1734", "prediction": "Yes, there is a dog in the image.", "baseline": "crc", "latency_sec": 2.864, "metadata": {"category": "adversarial"}}
+{"sample_id": "1683", "prediction": "No, there is no handbag visible in the", "baseline": "crc", "latency_sec": 3.168, "metadata": {"category": "adversarial"}}
+{"sample_id": "1912", "prediction": "Yes, there is an umbrella in the", "baseline": "crc", "latency_sec": 2.66, "metadata": {"category": "adversarial"}}
+{"sample_id": "221", "prediction": "No, there is no truck in the image", "baseline": "crc", "latency_sec": 2.873, "metadata": {"category": "adversarial"}}
+{"sample_id": "2758", "prediction": "Yes, there is a cup in the image.", "baseline": "crc", "latency_sec": 3.125, "metadata": {"category": "adversarial"}}
+{"sample_id": "2676", "prediction": "Yes, there is a person in the image.", "baseline": "crc", "latency_sec": 3.157, "metadata": {"category": "adversarial"}}
+{"sample_id": "2646", "prediction": "Yes, there is a dog in the image.", "baseline": "crc", "latency_sec": 2.876, "metadata": {"category": "adversarial"}}
+{"sample_id": "403", "prediction": "No, there is no dining table in the", "baseline": "crc", "latency_sec": 2.88, "metadata": {"category": "adversarial"}}
+{"sample_id": "248", "prediction": "Yes, there is a truck visible in the", "baseline": "crc", "latency_sec": 3.125, "metadata": {"category": "adversarial"}}
+{"sample_id": "1649", "prediction": "Yes, there is a truck visible in the", "baseline": "crc", "latency_sec": 3.168, "metadata": {"category": "adversarial"}}
+{"sample_id": "2982", "prediction": "Yes, there is a chair in the image.", "baseline": "crc", "latency_sec": 3.116, "metadata": {"category": "adversarial"}}
+{"sample_id": "1389", "prediction": "No, there is no person in the image.", "baseline": "crc", "latency_sec": 3.166, "metadata": {"category": "adversarial"}}
+{"sample_id": "447", "prediction": "No, there is no chair in the image.", "baseline": "crc", "latency_sec": 3.138, "metadata": {"category": "adversarial"}}
+{"sample_id": "1018", "prediction": "Yes, there is a laptop in the image.", "baseline": "crc", "latency_sec": 3.168, "metadata": {"category": "adversarial"}}
+{"sample_id": "784", "prediction": "Yes, there is a frisbee in", "baseline": "crc", "latency_sec": 3.126, "metadata": {"category": "adversarial"}}
+{"sample_id": "1837", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 3.689, "metadata": {"category": "adversarial"}}
+{"sample_id": "574", "prediction": "Yes, there is a cat in the image.", "baseline": "crc", "latency_sec": 2.979, "metadata": {"category": "adversarial"}}
+{"sample_id": "751", "prediction": "No, there is no sink visible in the image", "baseline": "crc", "latency_sec": 3.19, "metadata": {"category": "adversarial"}}
+{"sample_id": "1894", "prediction": "No, there is no person visible in the image", "baseline": "crc", "latency_sec": 3.677, "metadata": {"category": "adversarial"}}
+{"sample_id": "1023", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 2.914, "metadata": {"category": "adversarial"}}
+{"sample_id": "308", "prediction": "Yes, there is a person in the image.", "baseline": "crc", "latency_sec": 3.183, "metadata": {"category": "adversarial"}}
+{"sample_id": "1815", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 3.163, "metadata": {"category": "adversarial"}}
+{"sample_id": "2254", "prediction": "Yes, there is a bottle in the image", "baseline": "crc", "latency_sec": 3.176, "metadata": {"category": "adversarial"}}
+{"sample_id": "401", "prediction": "No, there is no TV visible in the image", "baseline": "crc", "latency_sec": 3.179, "metadata": {"category": "adversarial"}}
+{"sample_id": "207", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 2.358, "metadata": {"category": "adversarial"}}
+{"sample_id": "2671", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 2.893, "metadata": {"category": "adversarial"}}
+{"sample_id": "2214", "prediction": "Yes, there is a backpack visible in the", "baseline": "crc", "latency_sec": 2.897, "metadata": {"category": "adversarial"}}
+{"sample_id": "60", "prediction": "Yes, there is a person in the image.", "baseline": "crc", "latency_sec": 2.897, "metadata": {"category": "adversarial"}}
+{"sample_id": "382", "prediction": "Yes, there is a skateboard in the", "baseline": "crc", "latency_sec": 2.891, "metadata": {"category": "adversarial"}}
+{"sample_id": "968", "prediction": "No, there is no person in the image.", "baseline": "crc", "latency_sec": 2.062, "metadata": {"category": "adversarial"}}
+{"sample_id": "681", "prediction": "No, there is no cup in the image.", "baseline": "crc", "latency_sec": 3.678, "metadata": {"category": "adversarial"}}
+{"sample_id": "1664", "prediction": "Yes, there is a sports ball in the image", "baseline": "crc", "latency_sec": 2.893, "metadata": {"category": "adversarial"}}
+{"sample_id": "1989", "prediction": "No, there is no truck visible in the", "baseline": "crc", "latency_sec": 3.137, "metadata": {"category": "adversarial"}}
+{"sample_id": "1971", "prediction": "No, there is no dining table in the", "baseline": "crc", "latency_sec": 2.087, "metadata": {"category": "adversarial"}}
+{"sample_id": "875", "prediction": "No, there is no dog in the image.", "baseline": "crc", "latency_sec": 3.163, "metadata": {"category": "adversarial"}}
+{"sample_id": "1642", "prediction": "No, there is no sports ball visible in the", "baseline": "crc", "latency_sec": 2.894, "metadata": {"category": "adversarial"}}
+{"sample_id": "240", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 3.166, "metadata": {"category": "adversarial"}}
+{"sample_id": "674", "prediction": "Yes, there is a bear in the image.", "baseline": "crc", "latency_sec": 3.196, "metadata": {"category": "adversarial"}}
+{"sample_id": "1552", "prediction": "No, there is no sports ball in the image", "baseline": "crc", "latency_sec": 2.891, "metadata": {"category": "adversarial"}}
+{"sample_id": "8", "prediction": "Yes, there is a person in the image.", "baseline": "crc", "latency_sec": 2.985, "metadata": {"category": "adversarial"}}
+{"sample_id": "1599", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 3.309, "metadata": {"category": "adversarial"}}
+{"sample_id": "1086", "prediction": "Yes, there is a person in the image.", "baseline": "crc", "latency_sec": 3.17, "metadata": {"category": "adversarial"}}
+{"sample_id": "1863", "prediction": "No, there is no car in the image.", "baseline": "crc", "latency_sec": 2.894, "metadata": {"category": "adversarial"}}
+{"sample_id": "1168", "prediction": "Yes, there is a bowl in the image", "baseline": "crc", "latency_sec": 2.71, "metadata": {"category": "adversarial"}}
