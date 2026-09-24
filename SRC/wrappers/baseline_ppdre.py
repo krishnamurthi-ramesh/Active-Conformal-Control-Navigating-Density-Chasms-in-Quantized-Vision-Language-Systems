@@ -1,11 +1,18 @@
 import torch
+
+import transformers
+if hasattr(transformers, "DynamicCache") and not hasattr(transformers.DynamicCache, "to_legacy_cache"):
+    def to_legacy_cache(self):
+        return tuple(tuple(layer_cache) for layer_cache in self.key_value_states)
+    transformers.DynamicCache.to_legacy_cache = to_legacy_cache
+
 import numpy as np
 import sys
 import os
 import time
 from pathlib import Path
 from typing import Tuple, List, Optional, Dict, Any
-from transformers import AutoProcessor, AutoModelForVision2Seq, AutoModelForCausalLM, BitsAndBytesConfig
+from transformers import AutoProcessor, AutoModelForImageTextToText, AutoModelForCausalLM, BitsAndBytesConfig
 
 # Add ppDRE to path
 ppdre_path = Path("/home/cse-sdpl/research/ACC/03_BASELINES/ppdre/src")
@@ -42,7 +49,7 @@ class OracleBridge:
 
         print(f"[Oracle] Loading Teacher VLM from {teacher_path} to CPU (AMX)...")
         # For teacher, we use the vision model but run it on CPU
-        self.teacher = AutoModelForVision2Seq.from_pretrained(
+        self.teacher = AutoModelForImageTextToText.from_pretrained(
             teacher_path, 
             torch_dtype=torch.bfloat16,
             device_map="cpu",
@@ -121,7 +128,7 @@ class PPDREAgent:
         bnb_cfg = BitsAndBytesConfig(
             load_in_4bit=True,
             bnb_4bit_quant_type="nf4",
-            bnb_4bit_compute_dtype=torch.float16,
+            bnb_4bit_compute_dtype=torch.bfloat16,
             bnb_4bit_use_double_quant=True,
         )
         
@@ -137,23 +144,33 @@ class PPDREAgent:
 
         print(f"[PPDRE] Loading Student VLM from {model_path}...")
         if "phi" in model_path.lower():
+            from transformers import AutoConfig
+            phi_config = AutoConfig.from_pretrained(model_path, trust_remote_code=True)
+            phi_config._attn_implementation = "eager"
+            phi_config.use_cache = False
             self.model = AutoModelForCausalLM.from_pretrained(
                 model_path,
+                config=phi_config,
                 quantization_config=bnb_cfg,
                 device_map={"": self.device},
                 trust_remote_code=True,
-                attn_implementation="sdpa",
+                attn_implementation="eager",
             )
             # Stability: Force precision for sensitive layers
             for name, module in self.model.named_modules():
                 if any(x in name for x in ["lm_head", "embed_tokens", "vpm", "merger"]):
                     module.to(torch.float16)
+            if hasattr(self.model, "generation_config"):
+                self.model.generation_config.use_cache = False
 
             if hasattr(self.model, "tie_weights"):
                 try: self.model.tie_weights()
                 except: pass
+            if hasattr(self.model, "lm_head") and hasattr(self.model, "model") and hasattr(self.model.model, "embed_tokens"):
+                try: self.model.lm_head.weight = self.model.model.embed_tokens.weight
+                except: pass
         else:
-            self.model = AutoModelForVision2Seq.from_pretrained(
+            self.model = AutoModelForImageTextToText.from_pretrained(
                 model_path,
                 quantization_config=bnb_cfg,
                 device_map="auto",

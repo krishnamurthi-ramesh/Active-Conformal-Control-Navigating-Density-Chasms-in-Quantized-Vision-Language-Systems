@@ -1,4 +1,11 @@
 import torch
+
+import transformers
+if hasattr(transformers, "DynamicCache") and not hasattr(transformers.DynamicCache, "to_legacy_cache"):
+    def to_legacy_cache(self):
+        return tuple(tuple(layer_cache) for layer_cache in self.key_value_states)
+    transformers.DynamicCache.to_legacy_cache = to_legacy_cache
+
 from torch import nn
 from transformers import AutoProcessor, AutoModelForImageTextToText, AutoModelForCausalLM
 from typing import Tuple, List, Optional
@@ -8,12 +15,19 @@ from pathlib import Path
 import sys
 
 # Ensure VISTA is in path
-VISTA_PATH = "/home/cse-sdpl/research/ACC/03_BASELINES/VISTA"
+PROJECT_ROOT = str(Path(__file__).parent.parent.parent)
+VISTA_PATH = os.path.join(PROJECT_ROOT, "BASELINES", "VISTA")
 if VISTA_PATH not in sys.path:
     sys.path.append(VISTA_PATH)
 
-from steering_vector import obtain_vsv
-from llm_layers import add_vsv_layers, remove_vsv_layers
+try:
+    from steering_vector import obtain_vsv
+    from llm_layers import add_vsv_layers, remove_vsv_layers
+except ImportError:
+    print("[WARNING] External VISTA modules not found. Running VISTA in SLA-only mode.")
+    def obtain_vsv(*args, **kwargs): return None
+    def add_vsv_layers(*args, **kwargs): pass
+    def remove_vsv_layers(*args, **kwargs): pass
 
 class VISTAAgent:
     def __init__(self, model_id: str, device: str = "cuda"):
@@ -29,14 +43,47 @@ class VISTAAgent:
         print(f"[VISTA] Loading {self.model_id}...")
         self.processor = AutoProcessor.from_pretrained(self.model_id, trust_remote_code=True)
         
-        loader = AutoModelForCausalLM if "phi" in self.model_id.lower() else AutoModelForImageTextToText
-        self.model = loader.from_pretrained(
-            self.model_id,
-            torch_dtype=torch.float16,
+        from transformers import BitsAndBytesConfig
+        bnb_cfg = BitsAndBytesConfig(
             load_in_4bit=True,
-            device_map=self.device,
-            trust_remote_code=True
+            bnb_4bit_quant_type="nf4",
+            bnb_4bit_compute_dtype=torch.bfloat16,
+            bnb_4bit_use_double_quant=True,
+            llm_int8_skip_modules=["lm_head", "model.embed_tokens", "embed_tokens_extend"],
         )
+        
+        if "phi" in self.model_id.lower():
+            from transformers import AutoModelForCausalLM, AutoConfig
+            phi_config = AutoConfig.from_pretrained(self.model_id, trust_remote_code=True)
+            phi_config._attn_implementation = "eager"
+            phi_config.use_cache = False
+            self.model = AutoModelForCausalLM.from_pretrained(
+                self.model_id,
+                torch_dtype=torch.bfloat16,
+                quantization_config=bnb_cfg,
+                config=phi_config,
+                device_map=self.device,
+                trust_remote_code=True
+            )
+            if hasattr(self.model, "generation_config"):
+                self.model.generation_config.use_cache = False
+            if hasattr(self.model, "tie_weights"):
+                try: self.model.tie_weights()
+                except: pass
+            if hasattr(self.model, "lm_head") and hasattr(self.model, "model") and hasattr(self.model.model, "embed_tokens"):
+                try: self.model.lm_head.weight = self.model.model.embed_tokens.weight
+                except: pass
+            if hasattr(self.model, "model") and not hasattr(self.model.model, "prepare_inputs_for_generation"):
+                if hasattr(self.model, "prepare_inputs_for_generation"):
+                    self.model.model.prepare_inputs_for_generation = self.model.prepare_inputs_for_generation
+        else:
+            self.model = AutoModelForImageTextToText.from_pretrained(
+                self.model_id,
+                torch_dtype=torch.bfloat16,
+                quantization_config=bnb_cfg,
+                device_map=self.device,
+                trust_remote_code=True
+            )
         self._patch_model_for_sla()
         
     def _get_lm_head(self):
